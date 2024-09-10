@@ -15,7 +15,7 @@ def create_ordering(members: list[str], exclude=None):
 
     while len(m) > 0:
         p, m = pop_random(m)
-        if exclude and p not in exclude:
+        if not exclude or (exclude and p not in exclude):
             order.append(p)
 
     return itertools.cycle(order)
