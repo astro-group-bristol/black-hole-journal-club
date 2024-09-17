@@ -21,3 +21,14 @@ To generate additional entries for the rota, use `scripts/rota.py`.
 | 2024-10-29 | Belinda     |
 | 2024-11-05 | Teresa      |
 | 2024-11-12 | Tom         |
+
+## Minutes
+
+## 2024-09-17: Andy
+
+Discussed the followings papers:
+- "Next Generation Accretion Disk Reflection Model: High-Density Plasma Effects" [Ding et al., 2024](https://arxiv.org/abs/2409.00253)
+- "Multi-Phase Thermal Structure & The Origin of the Broad-Line Region, Torus, and Corona in Magnetically-Dominated Accretion Disks" [Hopkins 2024](https://arxiv.org/abs/2407.00160)
+- FORGE’D IN FIRE III: THE IMF IN QUASAR ACCRETION DISKS FROM STARFORGE [Hopkins et al., 2024](https://arxiv.org/pdf/2404.08046)
+- Supermassive Black Holes from AU to Megaparsec [YouTube](https://www.youtube.com/watch?v=tsClBWexvYA)
+- Mapping the circumnuclear regions of the Circinus galaxy with the Imaging X-ray Polarimetry Explorer [Ursini et al., 2023](https://academic.oup.com/mnras/article/519/1/50/6815742)
