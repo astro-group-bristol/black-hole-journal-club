@@ -27,8 +27,6 @@ To generate additional entries for the rota, use `scripts/rota.py`.
 
 ### 2024-10-01: Fergus
 
-https://arxiv.org/abs/2011.01954
-
 Discussed the following papers:
 
 - The effects of instrumental deadtime on NICER timing products [Webbe & Young, 2024](https://academic.oup.com/rasti/advance-article/doi/10.1093/rasti/rzae040/7762959)
