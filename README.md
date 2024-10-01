@@ -18,7 +18,7 @@ To generate additional entries for the rota, use `scripts/rota.py`.
 | 2024-10-01 | Fergus    |
 | 2024-10-08 | Gloria    |
 | 2024-10-15 | Jiachen   |
-| 2024-10-22 | Matt      |
+| 2024-10-22 | Darius    |
 | 2024-10-29 | Tom       |
 | 2024-11-05 | Belinda   |
 | 2024-11-12 | Teresa    |
