@@ -25,6 +25,17 @@ To generate additional entries for the rota, use `scripts/rota.py`.
 
 ## Minutes
 
+### 2024-10-08: Gloria
+
+Discussed the following papers:
+
+- X-Ray Weak AGNs from Super-Eddington Accretion onto Infant Black Holes [Madau & Haardt, 2024](https://arxiv.org/abs/2410.00417)
+- The Case for Super-Eddington Accretion: Connecting Weak X-ray and UV Line Emission in JWST Broad-Line AGN During the First Gyr of Cosmic Time [Lambrides, et al., 2024](https://arxiv.org/abs/2409.13047)
+
+Presented:
+
+- The size of accretion disks from self-consistent X-ray spectra + UV/optical/NIR photometry fitting: applications to ASASSN-14li and HLX-1 [Guolo & Mummery, 2024](https://arxiv.org/abs/2408.17296).
+
 ### 2024-10-01: Fergus
 
 Discussed the following papers:
