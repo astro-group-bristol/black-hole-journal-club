@@ -25,6 +25,19 @@ To generate additional entries for the rota, use `scripts/rota.py`.
 
 ## Minutes
 
+### 2024-10-22
+Discussed the following papers:
+
+- Modelling absorption and emission profiles from accretion disc winds with WINE [Luminari et al., 2024](https://arxiv.org/pdf/2410.13933)
+- Bridging Scales: Coupling the galactic nucleus to the larger cosmic environment [Su et al., 2024](https://arxiv.org/pdf/2410.13235)
+- MAXI J1820+070 with NuSTAR I. An increase in variability frequency but a stable reflection spectrum: coronal properties and implications for the inner disc in black hole binaries [Buisson et al., 2019](https://arxiv.org/pdf/1909.04688)
+(Discussed from presented paper)
+
+Presented:
+
+- Are the shape and flux of X-ray reflection spectra in hard state consistent with an accretion disk reaching close to the black hole? [Datta et al. 2024](https://arxiv.org/pdf/2409.06621)
+
+
 ### 2024-10-08: Gloria
 
 Discussed the following papers:
