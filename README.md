@@ -2,8 +2,7 @@
 
 We meet every Tuesday at:
 
-- **12:00 until 13:00 (BST)**
-- 11:00 until 12:00 (UTC)
+- **12:00 until 13:00 (UTC + 0)**
 
 The Zoom link has been emailed to the group.
 
