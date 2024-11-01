@@ -24,6 +24,20 @@ To generate additional entries for the rota, use `scripts/rota.py`.
 
 ## Minutes
 
+### 2024-10-29
+Discussed the following papers:
+- Evidence of a toroidal magnetic field in the core of 3C82 [Paraschos et al., 2024](https://arxiv.org/pdf/2405.00097)
+- Spectral index variation across X-shaped radio galaxies [Petra et al., 2023](https://arxiv.org/pdf/2306.17229)
+- A simple model of globally magnetized accretion discs [Begelman, 2024](https://arxiv.org/abs/2402.15657)
+- Joining the Dots: High Redshift Black holes [King, 2024](https://arxiv.org/abs/2410.16970)
+- Amoeba: An AGN Model of Optical Emissions Beyond steady-state Accretion discs [H. Best et al., 2024](https://arxiv.org/abs/2410.19630)
+
+Also discussed was the [EHT blog](https://eventhorizontelescope.org/blog/response-independent-analysis-ehtc-imaging-sgr-miyoshi-et-al-2024) on the recent (independent) re-analysis of the Sgr A* EHT image from 2017 by [Miyoshi et al., 2024](https://ui.adsabs.harvard.edu/abs/2024MNRAS.534.3237M/abstract).   
+
+Presented:
+
+- Probing the high frequency variability of NGC 5044: the key to AGN feedback [Schellenberger et al., 2024](https://arxiv.org/pdf/2409.06039)
+
 ### 2024-10-22
 Discussed the following papers:
 
