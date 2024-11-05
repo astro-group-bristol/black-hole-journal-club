@@ -24,7 +24,30 @@ To generate additional entries for the rota, use `scripts/rota.py`.
 
 ## Minutes
 
-### 2024-10-29
+### 2024-11-05: Belinda
+Discussed Papers:
+- [The XRISM/Resolve view of the Fe K region of Cyg X-3](https://arxiv.org/abs/2411.00597) (XRISM Collaboration, 2024).
+  - Really nice detailed spectrum with a lot of Fe absorption and emission lines observed.
+- [Little Red Dots: an abundant population of faint AGN at z∼5 revealed by the EIGER and FRESCO JWST surveys](https://arxiv.org/abs/2306.05448v1) (Matthee et al., 2024)
+  - A paper hinting towards the seeing early AGN feedback and early SMBH growth being highlt obscured.
+- [Deep Chandra Observations of NGC 5728. III: Probing the High-Resolution X-ray Morphology and Multiphase ISM Interactions in the Circumnuclear Region](https://arxiv.org/abs/2410.24061v1) (Falcao et al., 2024)
+  - A paper looking at ISM interactions within a Seyfert 2 galaxy likely from X-ray binaries
+- [Structural Decomposition of Merger-Free Galaxies Hosting Luminous AGNs](https://arxiv.org/abs/2410.22404v1) (Fahey et al., 2024)
+  - Investigates AGN evolution in merger-free galaxies. A weak correlations between bulge & SMBH masses, and for stellar & SMBH masses observed for disk-dominated galaxies. 
+
+
+Presented paper:
+- [X-Ray View of Little Red Dots: Do They Host Supermassive Black Holes?](https://ui.adsabs.harvard.edu/abs/2024ApJ...969L..18A/abstract) (Ananna et al., 2024)
+  - Unknown reason for JWST-observed 'little red dots', with flux either AGN dominated, young star formation dominated or both.
+  - Over 100 Chandra observations of lensing cluster Abell 2744 equating up to $\approx 2$ Ms or $\approx90$ Ms stacked.
+  - No significant detection until broad-line $H\alpha$ galaxies are stacked.
+  - Possibly Compton thick AGN to explain non-detections.
+  - Results from X-ray and NIR suggest scaling relations from virial relations may not be applicable at high redshift.
+  - LRDs likely either do not contain overmassive SMBHs or accrete at a low eddington rate.
+- Also discussed was [UNCOVER Spectroscopy Confirms the Surprising Ubiquity of Active Galactic Nuclei in Red Sources at z > 5](https://ui.adsabs.harvard.edu/abs/2024ApJ...964...39G/abstract) (Greene et al., 2024)
+  - Shows a absorbed component and either AGN scattering or star formation to contribute to the UV. 
+
+### 2024-10-29: Tom
 Discussed the following papers:
 - Evidence of a toroidal magnetic field in the core of 3C82 [Paraschos et al., 2024](https://arxiv.org/pdf/2405.00097)
 - Spectral index variation across X-shaped radio galaxies [Petra et al., 2023](https://arxiv.org/pdf/2306.17229)
@@ -38,7 +61,7 @@ Presented:
 
 - Probing the high frequency variability of NGC 5044: the key to AGN feedback [Schellenberger et al., 2024](https://arxiv.org/pdf/2409.06039)
 
-### 2024-10-22
+### 2024-10-22: Darius
 Discussed the following papers:
 
 - Modelling absorption and emission profiles from accretion disc winds with WINE [Luminari et al., 2024](https://arxiv.org/pdf/2410.13933)
