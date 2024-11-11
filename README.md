@@ -12,15 +12,15 @@ To generate additional entries for the rota, use `scripts/rota.py`.
 
 | Date       | Presenter |
 | ---------- | --------- |
-| 2024-09-17 | Andy      |
-| 2024-09-24 | Rhys      |
-| 2024-10-01 | Fergus    |
-| 2024-10-08 | Gloria    |
-| 2024-10-15 | Jiachen   |
-| 2024-10-22 | Darius    |
-| 2024-10-29 | Tom       |
-| 2024-11-05 | Belinda   |
-| 2024-11-12 | Teresa    |
+| 2024-11-19 | Andy      |
+| 2024-12-03 | Rhys      |
+| 2024-12-10 | Fergus    |
+| 2025-01-21 | Gloria    |
+| 2025-01-28 | Jiachen   |
+| 2025-02-04 | Darius    |
+| 2025-02-11 | Tom       |
+| 2025-02-18 | Belinda   |
+| 2025-02-25 | Teresa    |
 
 ## Minutes
 
