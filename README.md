@@ -6,6 +6,12 @@ We meet every Tuesday at:
 
 The Zoom link has been emailed to the group.
 
+## Agenda
+
+- Presentation of chosen paper (~30 mins)
+- Discussion
+- Other papers from the week
+
 ## Rota
 
 To generate additional entries for the rota, use `scripts/rota.py`.
@@ -13,38 +19,64 @@ To generate additional entries for the rota, use `scripts/rota.py`.
 | Date       | Presenter |
 | ---------- | --------- |
 | 2024-11-19 | Andy      |
-| 2024-12-03 | Rhys      |
-| 2024-12-10 | Fergus    |
-| 2025-01-21 | Gloria    |
-| 2025-01-28 | Jiachen   |
-| 2025-02-04 | Darius    |
-| 2025-02-11 | Tom       |
-| 2025-02-18 | Belinda   |
-| 2025-02-25 | Teresa    |
+| 2024-11-26 | Rhys      |
+| 2024-12-03 | Fergus    |
+| 2024-12-10 | Gloria    |
+| 2024-12-17 | *Arxiv*   |
+| 2025-01-07 | Jiachen   |
+| 2025-01-14 | Darius    |
+| 2025-01-21 | Tom       |
+| 2025-01-28 | Belinda   |
+| 2025-02-04 | Teresa    |
 
 ## Minutes
+
+### 2024-11-12: No Presentation
+Discussed Papers:
+- [Effects of ultra-fast outflows on X-ray time lags in AGN](https://arxiv.org/abs/2411.02736) (Xu et al., 2024)
+  - They observe 3 AGN with UFOs between $0.03-0.3$ c
+  - Disk fluctuations in cold (soft) and hot (hard) X-rays
+  - Low frequency hard-lags suppression in UFO states
+  - [Magnetically Driven Accretion Disk Winds and Ultra-fast Outflows in PG 1211+143](https://ui.adsabs.harvard.edu/abs/2015ApJ...805...17F/abstract) (Keigo et al., 2015)
+ 
+- [The XRISM/Resolve view of the Fe K region of Cyg X-3](https://arxiv.org/abs/2411.00597) (XRISM Collaboration, 2024)
+  - Wind-focused BH
+  - Orbital period ~5hrs
+
+- [X-Ray View of Little Red Dots: Do They Host Supermassive Black Holes?](https://ui.adsabs.harvard.edu/abs/2024ApJ...969L..18A/abstract) (Ananna et al., 2024)
+  - Large uncertanties
+  - Compton thick
+    - X-ray column density $n_H\gtrsim10^{25}$ $\text{cm}^{-2}$
+    - JWST inconsistent with $n_H\sim10^{21}$ $\text{cm}^{-2}$
+  - AGN interpretation prefered in [UNCOVER Spectroscopy Confirms the Surprising Ubiquity of Active Galactic Nuclei in Red Sources at z > 5](https://ui.adsabs.harvard.edu/abs/2024ApJ...964...39G/abstract) (Greene et al., 2024) but SF could fit.
+  - [A small and vigorous black hole in the early Universe](https://www.nature.com/articles/s41586-024-07494-x) (Maiolino et al., 2024)
+    - SMBH faster growth than stellar mass
+
+Keeping up to date with papers:
+  - Benty-fields: Uses ML to give papers heirachy
+  - ADS emails: Sorts by key words - regular email updates
 
 ### 2024-11-05: Belinda
 Discussed Papers:
 - [The XRISM/Resolve view of the Fe K region of Cyg X-3](https://arxiv.org/abs/2411.00597) (XRISM Collaboration, 2024).
   - Really nice detailed spectrum with a lot of Fe absorption and emission lines observed.
-- [Little Red Dots: an abundant population of faint AGN at z∼5 revealed by the EIGER and FRESCO JWST surveys](https://arxiv.org/abs/2306.05448v1) (Matthee et al., 2024)
+- [Little Red Dots: an abundant population of faint AGN at z∼5 revealed by the EIGER and FRESCO JWST surveys](https://arxiv.org/abs/2306.05448v1) (Matthee, et al., 2024)
   - A paper hinting towards the seeing early AGN feedback and early SMBH growth being highlt obscured.
-- [Deep Chandra Observations of NGC 5728. III: Probing the High-Resolution X-ray Morphology and Multiphase ISM Interactions in the Circumnuclear Region](https://arxiv.org/abs/2410.24061v1) (Falcao et al., 2024)
+- [Deep Chandra Observations of NGC 5728. III: Probing the High-Resolution X-ray Morphology and Multiphase ISM Interactions in the Circumnuclear Region](https://arxiv.org/abs/2410.24061v1) (Falcao, et al., 2024)
   - A paper looking at ISM interactions within a Seyfert 2 galaxy likely from X-ray binaries
-- [Structural Decomposition of Merger-Free Galaxies Hosting Luminous AGNs](https://arxiv.org/abs/2410.22404v1) (Fahey et al., 2024)
+- [Structural Decomposition of Merger-Free Galaxies Hosting Luminous AGNs](https://arxiv.org/abs/2410.22404v1) (Fahey, et al., 2024)
   - Investigates AGN evolution in merger-free galaxies. A weak correlations between bulge & SMBH masses, and for stellar & SMBH masses observed for disk-dominated galaxies. 
 
 
 Presented paper:
-- [X-Ray View of Little Red Dots: Do They Host Supermassive Black Holes?](https://ui.adsabs.harvard.edu/abs/2024ApJ...969L..18A/abstract) (Ananna et al., 2024)
+- [X-Ray View of Little Red Dots: Do They Host Supermassive Black Holes?](https://ui.adsabs.harvard.edu/abs/2024ApJ...969L..18A/abstract) (Ananna, et al., 2024)
   - Unknown reason for JWST-observed 'little red dots', with flux either AGN dominated, young star formation dominated or both.
   - Over 100 Chandra observations of lensing cluster Abell 2744 equating up to $\approx 2$ Ms or $\approx90$ Ms stacked.
   - No significant detection until broad-line $H\alpha$ galaxies are stacked.
   - Possibly Compton thick AGN to explain non-detections.
   - Results from X-ray and NIR suggest scaling relations from virial relations may not be applicable at high redshift.
   - LRDs likely either do not contain overmassive SMBHs or accrete at a low eddington rate.
-- Also discussed was [UNCOVER Spectroscopy Confirms the Surprising Ubiquity of Active Galactic Nuclei in Red Sources at z > 5](https://ui.adsabs.harvard.edu/abs/2024ApJ...964...39G/abstract) (Greene et al., 2024)
+- Also discussed was [UNCOVER Spectroscopy Confirms the Surprising Ubiquity of Active Galactic Nuclei in Red Sources at z > 5](https://ui.adsabs.harvard.edu/abs/2024ApJ...964...39G/abstract) (Greene, et al., 2024)
   - Shows a absorbed component and either AGN scattering or star formation to contribute to the UV. 
 
 ### 2024-10-29: Tom
@@ -53,26 +85,37 @@ Discussed the following papers:
 - Spectral index variation across X-shaped radio galaxies [Petra et al., 2023](https://arxiv.org/pdf/2306.17229)
 - A simple model of globally magnetized accretion discs [Begelman, 2024](https://arxiv.org/abs/2402.15657)
 - Joining the Dots: High Redshift Black holes [King, 2024](https://arxiv.org/abs/2410.16970)
-- Amoeba: An AGN Model of Optical Emissions Beyond steady-state Accretion discs [H. Best et al., 2024](https://arxiv.org/abs/2410.19630)
+- Amoeba: An AGN Model of Optical Emissions Beyond steady-state Accretion discs [H. Best, et al., 2024](https://arxiv.org/abs/2410.19630)
 
-Also discussed was the [EHT blog](https://eventhorizontelescope.org/blog/response-independent-analysis-ehtc-imaging-sgr-miyoshi-et-al-2024) on the recent (independent) re-analysis of the Sgr A* EHT image from 2017 by [Miyoshi et al., 2024](https://ui.adsabs.harvard.edu/abs/2024MNRAS.534.3237M/abstract).   
+Also discussed was the [EHT blog](https://eventhorizontelescope.org/blog/response-independent-analysis-ehtc-imaging-sgr-miyoshi-et-al-2024) on the recent (independent) re-analysis of the Sgr A* EHT image from 2017 by [Miyoshi, et al., 2024](https://ui.adsabs.harvard.edu/abs/2024MNRAS.534.3237M/abstract).   
 
 Presented:
 
-- Probing the high frequency variability of NGC 5044: the key to AGN feedback [Schellenberger et al., 2024](https://arxiv.org/pdf/2409.06039)
+- Probing the high frequency variability of NGC 5044: the key to AGN feedback [Schellenberger, et al., 2024](https://arxiv.org/pdf/2409.06039)
 
 ### 2024-10-22: Darius
 Discussed the following papers:
 
-- Modelling absorption and emission profiles from accretion disc winds with WINE [Luminari et al., 2024](https://arxiv.org/pdf/2410.13933)
-- Bridging Scales: Coupling the galactic nucleus to the larger cosmic environment [Su et al., 2024](https://arxiv.org/pdf/2410.13235)
-- MAXI J1820+070 with NuSTAR I. An increase in variability frequency but a stable reflection spectrum: coronal properties and implications for the inner disc in black hole binaries [Buisson et al., 2019](https://arxiv.org/pdf/1909.04688)
+- Modelling absorption and emission profiles from accretion disc winds with WINE [Luminari, et al., 2024](https://arxiv.org/pdf/2410.13933)
+- Bridging Scales: Coupling the galactic nucleus to the larger cosmic environment [Su, et al., 2024](https://arxiv.org/pdf/2410.13235)
+- MAXI J1820+070 with NuSTAR I. An increase in variability frequency but a stable reflection spectrum: coronal properties and implications for the inner disc in black hole binaries [Buisson, et al., 2019](https://arxiv.org/pdf/1909.04688)
 (Discussed from presented paper)
 
 Presented:
 
 - Are the shape and flux of X-ray reflection spectra in hard state consistent with an accretion disk reaching close to the black hole? [Datta et al. 2024](https://arxiv.org/pdf/2409.06621)
 
+### 2024-10-25: Jiachen
+
+Discussed the following papers:
+- [Mildly Super-Eddington Accretion Onto Slowly-Spinning Black Holes Explains the X-Ray Weakness of the Little Red Dots](https://arxiv.org/abs/2407.15915) (Pacucci & Narayan, 2024)
+- [Reverberation Mapping of Lamp-post and Wind Structures in Accretion Thin Disks](https://arxiv.org/abs/2409.15669) (Hang-Hsu Chan, et al., 2024)
+- [Microquasars to AGNs: An uniform Jet variability](https://arxiv.org/pdf/2410.06653) (Sharma, et al, 2024)
+- [Mergers, Radio Jets, and Quenching Star-Formation in Massive Galaxies: Quantifying their
+Synchronized Cosmic Evolution & Assessing the Energetics](https://arxiv.org/pdf/2410.09157) (Heckman & Roy, 2024)
+
+Presented:
+- [The stress at the ISCO of black-hole accretion discs is not a free parameter](https://ui.adsabs.harvard.edu/abs/2024arXiv241006200L/abstract) (Lasota & Abramowicz, 2024)
 
 ### 2024-10-08: Gloria
 
