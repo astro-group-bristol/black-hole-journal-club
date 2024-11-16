@@ -21,7 +21,7 @@ To generate additional entries for the rota, use `scripts/rota.py`.
 | 2024-11-19 | Andy      |
 | 2024-11-26 | Fergus    |
 | 2024-12-03 | Gloria    |
-| 2024-12-10 | Jaichen   |
+| 2024-12-10 | Jiachen   |
 | 2024-12-17 | *Arxiv*   |
 | 2025-01-07 | Darius    |
 | 2025-01-14 | Rhys      |
