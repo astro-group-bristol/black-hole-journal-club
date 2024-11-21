@@ -39,7 +39,7 @@ Presented paper:
   - Spread in time delay from BH mass.
   - Model assumes thin disk & lamppost model with either spin 1 or spin 0.
   - Skin of hot electrons compton scatter a blackbody.
-  - High source height for disk alumination (observation consistent?)
+  - High source height for disk illumination (observation consistent?)
   - Different BLR x-rays & Balmer jump at 4000 $\mathring{A}$
   - Interesting $\chi^2$ values
  
