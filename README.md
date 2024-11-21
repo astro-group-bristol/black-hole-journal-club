@@ -31,6 +31,28 @@ To generate additional entries for the rota, use `scripts/rota.py`.
 
 ## Minutes
 
+### 2024-11-19: Andy
+Presented paper:
+- [X-ray reverberation modelling of the continuum, optical/UV time-lags in quasars](https://arxiv.org/abs/2411.09681) (Langis et al., 2024)
+  - Investigating variation that is wavelength dependent. UV/optical variations are well correlated
+  - Initial 191 AGN sample and using a G-band reference.
+  - Spread in time delay from BH mass.
+  - Model assumes thin disk & lamppost model with either spin 1 or spin 0.
+  - Skin of hot electrons compton scatter a blackbody.
+  - High source height for disk illumination (observation consistent?)
+  - Different BLR x-rays & Balmer jump at 4000 $\mathring{A}$
+  - Interesting $\chi^2$ values
+ 
+Discussed papers:
+- Three similar papers on applying ray-tracing to image different types of black holes.
+  - [Observational features of the rotating Bardeen black hole surrounded by perfect fluid dark matter](https://arxiv.org/pdf/2411.11680) (He et al., 2024)
+  - [Shadow Images of Ghosh-Kumar Rotating Black Hole Illuminated By Spherical Light Sources and Thin Accretion Disks](https://arxiv.org/pdf/2411.11807) (Yang et al., 2024)
+  - [Image of the Kerr–Newman Black Hole Surrounded by a Thin Accretion Disk](https://arxiv.org/pdf/2411.07914) (Guo et al., 2024)
+- [Comparing indirect methods for black hole masses in AGN: the good, the bad, and the ugly](https://arxiv.org/abs/2312.14098) (Gliozzi et al., 2023)
+  - Comparing different methods, such as the $M-\sigma_*$ relation with dynamical methods and have generated a correcting factor.
+  - Conducted on an 'unbiased', volume-limited and hard X-ray selected sample.
+
+
 ### 2024-11-12: No Presentation
 Discussed Papers:
 - [Effects of ultra-fast outflows on X-ray time lags in AGN](https://arxiv.org/abs/2411.02736) (Xu et al., 2024)
