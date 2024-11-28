@@ -31,6 +31,25 @@ To generate additional entries for the rota, use `scripts/rota.py`.
 
 ## Minutes
 
+### 2024-11-26: Fergus
+Presented paper:
+- [On the Morphology of Relativistically Broadened Line Emission from Axisymmetric Equatorial Accretion Disks](https://arxiv.org/abs/2411.14338) (Gates et al., 2024)
+  - Uses geometrically thin, equatorial disk models & describes how to determine emission line morphologies from redshift and accretion disk patterns.
+  - Very interesting figures, Fig 1 maps different redshifted emission within in the disk to structure of emission line.
+  - Looks at an infinitely far outer disk radius (removing outer-outer and outer-inner paths) then at finite outer disk radius.
+  - Critical points dictating central regions
+  - Also compared different disk models: "Cunningham" model (with inter-ISCO contributions), and non-Keplerian (towards slim-disc) models, but keeping the same geometry. Overall effect of Cunningham model can be large depending on inclination, but for non-Keplerian is a stretching of the location of the critical values.
+  - Red-tail could overestimate very high BH spin if material is not inside the ISCO
+  - Changing keplarian factor by $5\%$ can change line profile features, but more pronounced at blueshifted side.
+
+Other papers:
+- [Precession and Split of Tilted, Geometrically Thin Accretion Disk: an Analytical Study](https://arxiv.org/abs/2404.06898) (Shen et al., 2024)
+  - This paper looks at cork-screw jet precessions in relation to the accretion disk.
+- [Outgoing electromagnetic flux from rotating wormholes](https://arxiv.org/abs/2411.13474) (Urtubey et al., 2024)
+  - On the predictions from Einstein's field equation
+- [Changing Look AGN: An X-ray Look](https://arxiv.org/abs/2411.09781) (Titarchuk et al., 2024)
+  - Looking at comptonization evolution of NGC 1566 X-ray sepctra
+
 ### 2024-11-19: Andy
 Presented paper:
 - [X-ray reverberation modelling of the continuum, optical/UV time-lags in quasars](https://arxiv.org/abs/2411.09681) (Langis et al., 2024)
