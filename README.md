@@ -38,7 +38,7 @@ Presented paper:
   - Very interesting figures, Fig 1 maps different redshifted emission within in the disk to structure of emission line.
   - Looks at an infinitely far outer disk radius (removing outer-outer and outer-inner paths) then at finite outer disk radius.
   - Critical points dictating central regions
-  - Also compared different topologies for disk models (standard model and Cunningham model - latter changes critical values)
+  - Also compared different disk models: "Cunningham" model (with inter-ISCO contributions), and non-Keplerian (towards slim-disc) models, but keeping the same geometry. Overall effect of Cunningham model can be large depending on inclination, but for non-Keplerian is a stretching of the location of the critical values.
   - Red-tail could overestimate very high BH spin if material is not inside the ISCO
   - Changing keplarian factor by $5\%$ can change line profile features, but more pronounced at blueshifted side.
 
