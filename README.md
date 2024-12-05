@@ -6,6 +6,8 @@ We meet every Tuesday at:
 
 The Zoom link has been emailed to the group.
 
+NOTE: we will have a review of arxiv on the 10th december and there is no journal club on the 17th December. We will be restarting on 7th January.
+
 ## Agenda
 
 - Presentation of chosen paper (~30 mins)
@@ -21,15 +23,37 @@ To generate additional entries for the rota, use `scripts/rota.py`.
 | 2024-11-19 | Andy      |
 | 2024-11-26 | Fergus    |
 | 2024-12-03 | Gloria    |
-| 2024-12-10 | Jiachen   |
-| 2024-12-17 | *Arxiv*   |
-| 2025-01-07 | Darius    |
-| 2025-01-14 | Rhys      |
-| 2025-01-21 | Tom       |
-| 2025-01-28 | Belinda   |
-| 2025-02-04 | Teresa    |
+| 2024-12-10 | *Arxiv*   |
+| 2024-01-07 | Jiachen   |
+| 2025-01-14 | Darius    |
+| 2025-01-21 | Rhys      |
+| 2025-01-28 | Tom       |
+| 2025-02-04 | Belinda   |
+| 2025-02-11 | Teresa    |
 
 ## Minutes
+
+### 2024-12-03: Gloria
+Presented paper:
+- [The Study of Jet Formation Mechanism in Fermi Blazars](https://arxiv.org/pdf/2411.11373) (Xie et al., 2024)
+  - Presentation slides are available [here](https://github.com/user-attachments/files/17993281/Gloria_Raharimbolamena_Preprint_03_Dec_24.pdf)
+  - A study of 937 Blazars studied for jet formation mechanisms
+  - Jet power could come from the rotational energy of BH (BZ mdoel) or AD (BP model)
+  - Study finds no significant relationship between jet power and accretion rate. Possible week relationship for FSQR
+  - Adding BH mass gets stronger relationship (using F-test)
+  - BH more important in fueling jets than AD
+  - Neitehr BZ or BP fully explain jet-powering of blazars but $P_{jet}$ observations are difficult.
+  - FSRQ from BP (not BZ sufficient), BL Lacs could be BZ model
+  - BL Lacs ADAF dominated, for FSRQs standard disk dominates.
+  - BZ MAD disk model in BL Lacs
+ 
+Other papers:
+- [X-ray polarization from accretion disk winds](https://arxiv.org/abs/2411.18299) (Nitindala et al., 2024)
+  - Scattering in winds reproduces polarization results
+  - Casts doubts on accretion disk geometries
+- [A Short-lived Rejuvenation during the Decades-long Changing-look Transition in the Nucleus of Mrk 1018](https://arxiv.org/abs/2411.18917) (et al., 2024)
+  - Full cycle of transitions observed
+
 
 ### 2024-11-26: Fergus
 Presented paper:
