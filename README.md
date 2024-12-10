@@ -33,6 +33,38 @@ To generate additional entries for the rota, use `scripts/rota.py`.
 
 ## Minutes
 
+### 2024-12-10: Arxiv
+Discussed papers:
+We very briefly mentioned some of the papers that were lightly discussed last week although not in great detail:
+- [X-ray polarization from accretion disk winds](https://arxiv.org/pdf/2411.18299) (Nitindala et al., 11-2024)
+- [Polarization of synchrotron radiation from blazar jets](https://arxiv.org/pdf/2411.16389) (Boris et al., 11-2024)
+- [New Insights with XRISM & Cloudy: A novel Column Density Diagnostic](https://arxiv.org/pdf/2411.15357) (Gunasekera et al., 11-2024)
+
+We discussed a few other papers in a little more detail.
+- [Feedback from Intermediate Mass Black Holes on Dwarf Galaxy Morphology at z = 2](https://arxiv.org/pdf/2412.06495) (Bi et al., 12-2024)
+  - Looking at IMBHs with AGN feedback influencing gas fraction, SF and galaxy structrue.
+  - Potential need for low-z diagnostics for high-z. 
+  - Also looked at JWST pixelation effects.
+ 
+- [Physical Pathways for JWST-Observed Supermassive Black Holes in the Early Universe](https://arxiv.org/pdf/2402.18773) (Jeon et al., 02-2024)
+  - Looking at masses of AGN compared to the stellar mass and different ratios.
+  - Investigates direct collapse black holes.
+ 
+- [Lack of Rest-frame UV Variability in Little Red Dots Based on HST and JWST Observations](https://arxiv.org/abs/2412.05242) (Tee et al., 12-2024)
+  - V-shaped SEDs appear less variable
+  - Possible heavy AGN obsuration
+  - No variability suggests stellar contributions
+
+- [Probing orbits of stellar mass objects deep in galactic nuclei with quasi-periodic eruptions](https://arxiv.org/pdf/2401.11190) (Zhou et al., 05-2024)
+  - useful figures
+  - QPEs from TDE & stellar mass object collisions
+  - Looks at example GSN 069
+ 
+- [A Comprehensive Hadronic Code Comparison for Active Galactic Nuclei](https://arxiv.org/abs/2411.14218) (Cerruti et al,. 11-2024)
+  - SED comparisons with blazars
+  - comparing different models
+
+
 ### 2024-12-03: Gloria
 Presented paper:
 - [The Study of Jet Formation Mechanism in Fermi Blazars](https://arxiv.org/pdf/2411.11373) (Xie et al., 2024)
