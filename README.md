@@ -26,12 +26,37 @@ To generate additional entries for the rota, use `scripts/rota.py`.
 | 2024-12-10 | *Arxiv*   |
 | 2024-01-07 | Jiachen   |
 | 2025-01-14 | Darius    |
-| 2025-01-21 | Rhys      |
+| 2025-01-21 | Fergus    |
 | 2025-01-28 | Tom       |
 | 2025-02-04 | Belinda   |
 | 2025-02-11 | Teresa    |
 
 ## Minutes
+
+### 2025-01-07: Jiachen
+Discussed Papers:
+Not necessarily discussed in great detail but mentioned were:
+  - [Impact of radiative cooling on the magnetised geometrically thin accretion disk around Kerr black hole](https://arxiv.org/abs/2305.09698) (Dihingia et al., 05-2023)
+  - [A simplified approach for reproducing fully relativistic spectra in X-ray binary systems: Application to Cygnus X-1](https://arxiv.org/abs/2408.02415) (Papavasileiou et al., 08-2024)
+
+Presented: 
+[Fifty Years After the Discovery of the First Stellar-Mass Black Hole: A Review of Cyg X-1](https://arxiv.org/abs/2411.12507) (Jiang, 11-2024)
+- Cyg X-1 is 1st known Stellar Mass BH known and hosts $20 M_\odot$ BH with $40 M_\odot$ companion star. One of a few High Mass X-ray Binary (HMXB)
+- Review goes through physics beind measurements in useful detail.
+- BH-BH merger candiadate
+- First instance of HMXB using typical AGN models
+- 3% probability to observe BH > $35 M_{\odot}$ and 0.6% of HMXB GW source within hubble time.
+- Harder X-ray for low luminosity states
+- Disk emissivity profile indicates compact corona (~5-7 $r_g$) but still unknown geometry.
+- Over-polarise, expected 1% but found 4%, this suggests a higher material speed and thus higher scattering cross-section. The jet may also help produce these observations.
+- polarisation aligns with radio jet over AU scales.
+- Corona geometries are source dependent and testing models should not rule out other models.
+- Polarisation angle changes at higher energies. Possibly higher polarisation degree for emission closer to BH, consistent with very high BH spin.
+- Fe lines seen in LMXB are not seen in Cyg X-1
+- Emmission above 511 keV constarined by pair-production and produces a peak, the annihilation line is always present in Cyg X-1 models. Doppler broadening allows for higher $e^-$ temperature.
+- Non-thermal emission from jet and corona
+- In the high density model, free-free absorption is important.
+
 
 ### 2024-12-10: Arxiv
 Discussed papers:
