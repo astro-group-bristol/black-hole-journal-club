@@ -20,16 +20,14 @@ To generate additional entries for the rota, use `scripts/rota.py`.
 
 | Date       | Presenter |
 | ---------- | --------- |
-| 2024-11-19 | Andy      |
-| 2024-11-26 | Fergus    |
-| 2024-12-03 | Gloria    |
-| 2024-12-10 | *Arxiv*   |
-| 2024-01-07 | Jiachen   |
 | 2025-01-14 | Darius    |
 | 2025-01-21 | Fergus    |
 | 2025-01-28 | Tom       |
 | 2025-02-04 | Belinda   |
-| 2025-02-11 | Teresa    |
+| 2025-02-11 | Andy      |
+| 2025-02-18 | Gloria    |
+| 2025-02-25 | *Arxiv*   |
+| 2025-03-04 | Jiachen   |
 
 ## Minutes
 
