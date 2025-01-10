@@ -24,8 +24,8 @@ To generate additional entries for the rota, use `scripts/rota.py`.
 | 2025-01-21 | Fergus    |
 | 2025-01-28 | Tom       |
 | 2025-02-04 | Belinda   |
-| 2025-02-11 | Andy      |
-| 2025-02-18 | Gloria    |
+| 2025-02-11 | Gloria    |
+| 2025-02-18 | Andy      |
 | 2025-02-25 | *Arxiv*   |
 | 2025-03-04 | Jiachen   |
 
