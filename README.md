@@ -32,6 +32,24 @@ To generate additional entries for the rota, use `scripts/rota.py`.
 ## Minutes
 
 ### 2025-01-21: Fergus
+Discussed Papers:
+- [25 years of XMM-Newton observations of the Sgr A complex: 3D distribution and internal structure of the clouds](https://ui.adsabs.harvard.edu/abs/2025arXiv250109737S/abstract) (Stel et al., 01-2025)
+  - 3D mapping of Sgr A clouds to generate complex cloud compositions and models.
+- [The properties of GSN 069 accretion disk from a joint X-ray and UV spectral analysis: stress-testing quasi-periodic eruption models](https://arxiv.org/pdf/2501.03333) (Guolo et al., 01-2025)
+  - Looks at TDE
+- [X-ray Dips and Polarization Angle Swings in GX 13+1](https://arxiv.org/pdf/2501.05511) (Di Marco et al., 01-2025)
+  - Polarisation angle is changing over time
+- [Markarian 590: The AGN Awakens](https://arxiv.org/pdf/2501.07225) (Palit et al., 01-2025)
+  - A changing look AGN that is awakening to a type 1
+  - Soft X-ray jump of factor of about 10
+  - Complexes in optical spectra
+- [Multi-wavelength observations of a jet launch in real time from the post-changing-look Active Galaxy 1ES 1927+654](https://arxiv.org/pdf/2501.02340) (Laha et al., 01-2025)
+  - Jet swicth on and QPO
+
+Presented Paper:
+- [Continuum Reverberation in Active Galactic Nuclei Disks Only With Sufficient X-ray Luminosity and Low Albedo](https://arxiv.org/abs/2501.06304) (Secunda et al., 01-2025)
+  - 
+
 
 ### 2025-01-14: Darius
 Discussed Papers:
