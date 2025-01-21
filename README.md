@@ -47,7 +47,7 @@ Discussed Papers:
   - Jet swicth on and QPO
 
 Presented Paper:
-- [Continuum Reverberation in Active Galactic Nuclei Disks Only With Sufficient X-ray Luminosity and Low Albedo](https://arxiv.org/abs/2501.06304) (Secunda et al., 01-2025)
+[Continuum Reverberation in Active Galactic Nuclei Disks Only With Sufficient X-ray Luminosity and Low Albedo](https://arxiv.org/abs/2501.06304) (Secunda et al., 01-2025)
   - 
 
 
