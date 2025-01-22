@@ -45,10 +45,24 @@ Discussed Papers:
   - Complexes in optical spectra
 - [Multi-wavelength observations of a jet launch in real time from the post-changing-look Active Galaxy 1ES 1927+654](https://arxiv.org/pdf/2501.02340) (Laha et al., 01-2025)
   - Jet swicth on and QPO
-
 Presented Paper:
 [Continuum Reverberation in Active Galactic Nuclei Disks Only With Sufficient X-ray Luminosity and Low Albedo](https://arxiv.org/abs/2501.06304) (Secunda et al., 01-2025)
-  - 
+  - Weakly correlated X-ray & UV light curves -> Problamatic
+  - Mechanisms could be instrinsic uv-optical variability in disk
+  - Model turbulance & cross-sections
+  - Line opacity can affect models
+  - ATHENA++ code
+  - Intensity set by lightcurve
+  - Curve dominated by scattering opacity
+  - Temperature dependant opacity
+  - Closer PSD of X-ray irradiation to DWR, more X-ray supress UV emission
+  - Decreasing X-ray flux leads to lower X-ray & UV correlations
+  - Variability driven by AGN disk
+  - Higher order models with different reprocessing ratios could be a better fit
+  - Test 1 day time lag: reconstained 1 day lag from JAVILIN method
+  - Need sophisticated opacity models for stronger correlations.
+  [Modelling the Multiwavelength Variability of Mrk 335 using Gaussian Processes](https://arxiv.org/pdf/2103.06838) (Griffiths et al., 07-2021)
+    - Time lags & reprocessed emission
 
 
 ### 2025-01-14: Darius
