@@ -50,7 +50,7 @@ Presented Paper:
 
 
 [Continuum Reverberation in Active Galactic Nuclei Disks Only With Sufficient X-ray Luminosity and Low Albedo](https://arxiv.org/abs/2501.06304) (Secunda et al., 01-2025)
-  - Weakly correlated X-ray & UV light curves -> Problamatic
+  - Weakly correlated X-ray & UV light curves -> Problematic for the standard Reverberation Mapping models
   - Mechanisms could be instrinsic uv-optical variability in disk
   - Model turbulance & cross-sections
   - Line opacity can affect models
