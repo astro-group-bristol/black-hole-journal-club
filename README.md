@@ -20,16 +20,75 @@ To generate additional entries for the rota, use `scripts/rota.py`.
 
 | Date       | Presenter |
 | ---------- | --------- |
-| 2025-01-14 | Darius    |
-| 2025-01-21 | Fergus    |
 | 2025-01-28 | Tom       |
-| 2025-02-04 | Belinda   |
-| 2025-02-11 | Gloria    |
+| 2025-02-04 | Gloria    |
+| 2025-02-11 | Belinda   |
 | 2025-02-18 | Andy      |
 | 2025-02-25 | *Arxiv*   |
 | 2025-03-04 | Jiachen   |
+| 2025-03-11 | Darius    |
+| 2025-03-18 | Fergus    |
 
 ## Minutes
+
+### 2025-01-21: Fergus
+Discussed Papers:
+- [25 years of XMM-Newton observations of the Sgr A complex: 3D distribution and internal structure of the clouds](https://ui.adsabs.harvard.edu/abs/2025arXiv250109737S/abstract) (Stel et al., 01-2025)
+  - 3D mapping of Sgr A clouds to generate complex cloud compositions and models.
+- [The properties of GSN 069 accretion disk from a joint X-ray and UV spectral analysis: stress-testing quasi-periodic eruption models](https://arxiv.org/pdf/2501.03333) (Guolo et al., 01-2025)
+  - Looks at TDE
+- [X-ray Dips and Polarization Angle Swings in GX 13+1](https://arxiv.org/pdf/2501.05511) (Di Marco et al., 01-2025)
+  - Polarisation angle is changing over time
+- [Markarian 590: The AGN Awakens](https://arxiv.org/pdf/2501.07225) (Palit et al., 01-2025)
+  - A changing look AGN that is awakening to a type 1
+  - Soft X-ray jump of factor of about 10
+  - Complexes in optical spectra
+- [Multi-wavelength observations of a jet launch in real time from the post-changing-look Active Galaxy 1ES 1927+654](https://arxiv.org/pdf/2501.02340) (Laha et al., 01-2025)
+  - Jet swicth on and QPO
+
+Presented Paper:
+
+
+[Continuum Reverberation in Active Galactic Nuclei Disks Only With Sufficient X-ray Luminosity and Low Albedo](https://arxiv.org/abs/2501.06304) (Secunda et al., 01-2025)
+  - Weakly correlated X-ray & UV light curves -> Problematic for the standard Reverberation Mapping models
+  - Mechanisms could be instrinsic uv-optical variability in disk
+  - Model turbulance & cross-sections
+  - Line opacity can affect models
+  - ATHENA++ code
+  - Intensity set by lightcurve
+  - Curve dominated by scattering opacity
+  - Temperature dependant opacity
+  - Closer PSD of X-ray irradiation to DWR, more X-ray supress UV emission
+  - Decreasing X-ray flux leads to lower X-ray & UV correlations
+  - Variability driven by AGN disk
+  - Higher order models with different reprocessing ratios could be a better fit
+  - Test 1 day time lag: reconstained 1 day lag from JAVILIN method
+  - Need sophisticated opacity models for stronger correlations.
+  [Modelling the Multiwavelength Variability of Mrk 335 using Gaussian Processes](https://arxiv.org/pdf/2103.06838) (Griffiths et al., 07-2021)
+    - Time lags & reprocessed emission
+
+
+### 2025-01-14: Darius
+Discussed Papers:
+  - [The NewAthena mission concept in the context of the next decade of X-ray astronomy](https://arxiv.org/pdf/2501.03100) (Cruise et al., 08-2024)
+    - NewAthena Redefinition article on Nature Astronomy.
+  - [Insight into the Starburst Nature of Galaxy GN-z11 with JWST MIRI Spectroscopy](https://www.arxiv.org/abs/2412.12826) (Álvarez-Márquez et al., 12-2024)
+    - See the closed issue for 14th January for relavane background papers.
+  - [AT2021aeuk: A Repeating Partial Tidal Disruption Event Candidate in a Narrow-line Seyfert 1](https://ui.adsabs.harvard.edu/abs/2025arXiv250101824S/abstract) (Jingbo et al., 01-2025)
+    - A TDE in NLS1.
+  - [The size of accretion disks from self-consistent X-ray spectra and UV/optical/NIR photometry fitting: applications to ASASSN-14li and HLX-1](https://arxiv.org/abs/2408.17296) (Guolo & Mummery, 01-2025)
+    - Github code available [here](https://github.com/muryelgp/diskSED)
+  - [X-ray Dips and Polarization Angle Swings in GX 13+1](https://arxiv.org/pdf/2501.05511) (Di Marco at al., 01-2025)
+    - looks at the Polarisation in LMXRB GX13+1. Model proposed includes obscuration regions and steep inclination.
+  - [Astronomical X-ray Polarimetry as a diagnostic for questions of fundamental Physics. What we learned from the Imaging X-Ray Polarimetry Explorer (IXPE)](https://arxiv.org/abs/2412.17214) (Soffitta & Costa, 12-2024)
+  - [RTFAST-Spectra: Emulation of X-ray reverberation mapping for active galactic nuclei](https://arxiv.org/abs/2412.10131) (Ricketts et al., 12-2024)
+  - [Analytical ray-tracing of synchrotron emission around accreting black holes](https://arxiv.org/abs/2412.08359) (Veledina & Pélissier, 12-2024)
+Presented Paper:
+  - [An Exceptionally Powerful, Radiatively Driven Ultrafast Outflow in the Rapidly Accreting AGN REJ1034+396](https://arxiv.org/abs/2501.05579) (Taylor et al., 12-2025)
+    - Approximately 1Ms of observatons on a rapidly accreting AGN with XMM.
+    - Modelled by steep emission from corona and relativisitic blurred reflection from the AD.
+    - Evidience of an UFO.
+    - The outflow could be capable of driving out most gas and dust. 
 
 ### 2025-01-07: Jiachen
 Discussed Papers:
