@@ -45,8 +45,10 @@ Discussed Papers:
   - Complexes in optical spectra
 - [Multi-wavelength observations of a jet launch in real time from the post-changing-look Active Galaxy 1ES 1927+654](https://arxiv.org/pdf/2501.02340) (Laha et al., 01-2025)
   - Jet swicth on and QPO
-  - 
+
 Presented Paper:
+
+
 [Continuum Reverberation in Active Galactic Nuclei Disks Only With Sufficient X-ray Luminosity and Low Albedo](https://arxiv.org/abs/2501.06304) (Secunda et al., 01-2025)
   - Weakly correlated X-ray & UV light curves -> Problamatic
   - Mechanisms could be instrinsic uv-optical variability in disk
