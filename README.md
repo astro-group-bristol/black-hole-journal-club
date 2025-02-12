@@ -20,16 +20,48 @@ To generate additional entries for the rota, use `scripts/rota.py`.
 
 | Date       | Presenter |
 | ---------- | --------- |
-| 2025-01-28 | Tom       |
-| 2025-02-04 | Gloria    |
-| 2025-02-11 | Belinda   |
-| 2025-02-18 | Andy      |
-| 2025-02-25 | *Arxiv*   |
-| 2025-03-04 | Jiachen   |
-| 2025-03-11 | Darius    |
-| 2025-03-18 | Fergus    |
+| 2025-02-18 | Belinda   |
+| 2025-02-25 | Andy      |
+| 2025-03-04 | *Arxiv*   |
+| 2025-03-11 | Jiachen   |
+| 2025-03-18 | Darius    |
+| 2025-03-25 | Fergus    |
+| 2025-04-01 | Tom       |
+| 2025-04-08 | Gloria    |
+| 2025-04-15 | Belinda   |
+| 2025-04-22 | *Easter*  |
+| 2025-04-29 | Andy      |
+
 
 ## Minutes
+
+### 2025-02-11: Gloria
+Discused Papers:
+Not enough time to go through them so they will be discussed briefly next week
+
+Presented Paper: [Multi-wavelength observations of a jet launch in real time from the post-changing-look Active Galaxy 1ES 1927+654](https://arxiv.org/abs/2501.02340) (Laha, et al., 01-2025)
+Slides available here: [Gloria_Raharimbolamena_Preprint_04_Feb_25.pdf](https://github.com/user-attachments/files/18768324/Gloria_Raharimbolamena_Preprint_04_Feb_25.pdf)
+
+
+- Jet launch mechanism from a Changing-look AGN
+- Rapid accretion mode
+- 1ES1927+654, QPO activity.
+  - Acts differently to other AGN. No optical-UV correlation from flares
+  - Object has 'true type II AGN pre-outburst'
+- Steep initial spectrum of $$\Gamma\sim2.4$$
+- Steepening power law during flaring (reaching $$\Gamma$$>3 during radio flaring)
+- Indications of sources other than UV accretion
+- Soft excess increasing in flux
+- Blackbody model best fits the soft excess
+- No significant Optical or UV variability
+- High colimation suggest Blanford-Zanjek (BZ) lauch mechanism (Using BH roational energy)
+- Outflow speeds suggest $$0.2c$$, a BP mechanism would need launch distance $$<10r_g$$. Low speed for BZ, could indicate inclination angle
+- Kinetic power of jet suggests near 100% efficiency of BZ.
+- Magnetic field well above equiparition
+- Origin of new soft excess is unique and not found in RQ-AGN. Possibly due to magnetic energy & jet emission
+- The (near-)concurance of QPO and jet signals shows similarities with BH binaries
+- Radio flare delay due to a screen of hot gas
+- This type of QPO acitivity never observed in AGN.
 
 ### 2025-01-21: Fergus
 Discussed Papers:
