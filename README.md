@@ -20,16 +20,69 @@ To generate additional entries for the rota, use `scripts/rota.py`.
 
 | Date       | Presenter |
 | ---------- | --------- |
-| 2025-01-28 | Tom       |
-| 2025-02-04 | Gloria    |
-| 2025-02-11 | Belinda   |
-| 2025-02-18 | Andy      |
-| 2025-02-25 | *Arxiv*   |
-| 2025-03-04 | Jiachen   |
-| 2025-03-11 | Darius    |
-| 2025-03-18 | Fergus    |
+| 2025-02-18 | Belinda   |
+| 2025-02-25 | Andy      |
+| 2025-03-04 | *Arxiv*   |
+| 2025-03-11 | Jiachen   |
+| 2025-03-18 | Darius    |
+| 2025-03-25 | Fergus    |
+| 2025-04-01 | Tom       |
+| 2025-04-08 | Gloria    |
+| 2025-04-15 | Belinda   |
+| 2025-04-22 | *Easter*  |
+| 2025-04-29 | Andy      |
+
 
 ## Minutes
+
+### 2025-02-11: Gloria
+Discused Papers:
+Not enough time to go through them so they will be discussed briefly next week
+
+Presented Paper: [Multi-wavelength observations of a jet launch in real time from the post-changing-look Active Galaxy 1ES 1927+654](https://arxiv.org/abs/2501.02340) (Laha, et al., 01-2025)
+Slides available here: [Gloria_Raharimbolamena_Preprint_04_Feb_25.pdf](https://github.com/user-attachments/files/18768324/Gloria_Raharimbolamena_Preprint_04_Feb_25.pdf)
+
+
+- Jet launch mechanism from a Changing-look AGN
+- Rapid accretion mode
+- 1ES1927+654, QPO activity.
+  - Acts differently to other AGN. No optical-UV correlation from flares
+  - Object has 'true type II AGN pre-outburst'
+- Steep initial spectrum of $$\Gamma\sim2.4$$
+- Steepening power law during flaring (reaching $$\Gamma>3$$ during radio flaring)
+- Indications of sources other than UV accretion
+- Soft excess increasing in flux
+- Blackbody model best fits the soft excess
+- No significant Optical or UV variability
+- High colimation suggest Blanford-Zanjek (BZ) lauch mechanism (Using BH roational energy)
+- Outflow speeds suggest $$0.2c$$, a BP mechanism would need launch distance $$<10r_g$$. Low speed for BZ, could indicate inclination angle
+- Kinetic power of jet suggests near 100% efficiency of BZ.
+- Magnetic field well above equiparition
+- Origin of new soft excess is unique and not found in RQ-AGN. Possibly due to magnetic energy & jet emission
+- The (near-)concurance of QPO and jet signals shows similarities with BH binaries
+- Radio flare delay due to a screen of hot gas
+- This type of QPO acitivity never observed in AGN.
+
+### 2025-01-28: Tom
+Discussed Papers:
+No Papers discussed due to time constraints. Noted papers will be discussed at a later date
+
+Presented:
+[SAUNAS II: Discovery of Cross-shaped X-ray Emission and a Rotating Circumnuclear Disk in the Supermassive S0 Galaxy NGC 5084](https://arxiv.org/abs/2408.10449) (Borlaff et al., 08-2024)
+- Radio observations reveal low polarization degree but assumed from beam depolarization and therefore ignored in this study.
+- SNe feedback, AGN  & Galactic winds to explain some soft excess
+- Reduction with [SAUNAS pipeline](https://arxiv.org/abs/2405.01625) (Borlaff et al., 05-2024) which includeds standard reduction, PSF modelling and deconvolution and low surface brightness estimations.
+- Included in SUNAS is bootstrapping and MC simulations for error estimation and Voronoi binning.
+- NGC 5085 is at $$z=$$ so $$20 kpc \sim 2.9"$$
+- $$5\sigma$$ detection of emission perpendicular to galaxy.
+- $$3\sigma$$ detection parallel to disk of galaxy
+- Highly inclinated circumnuclear disk
+- Jet changing orientation of $$\sim90\deg$$ possibly but unlikely? Would likely need external influence (mergers)
+- fig 8. shows nice cartoon of potential causes for a change of orientation
+- Outflow appears to have stopped. Stellar population should be young but blue emission not seen
+- Stellar age is $$>Gyr$$
+- Binary SMBH
+- Potential causes for X-shaped emission: AGN re-orientation, overpressurised coccoon or faded starburst.
 
 ### 2025-01-21: Fergus
 Discussed Papers:
