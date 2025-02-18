@@ -20,9 +20,8 @@ To generate additional entries for the rota, use `scripts/rota.py`.
 
 | Date       | Presenter |
 | ---------- | --------- |
-| 2025-02-18 | Belinda   |
-| 2025-02-25 | Andy      |
-| 2025-03-04 | *Arxiv*   |
+| 2025-02-25 | Belinda   |
+| 2025-03-04 | Andy      |
 | 2025-03-11 | Jiachen   |
 | 2025-03-18 | Darius    |
 | 2025-03-25 | Fergus    |
@@ -31,9 +30,30 @@ To generate additional entries for the rota, use `scripts/rota.py`.
 | 2025-04-15 | Belinda   |
 | 2025-04-22 | *Easter*  |
 | 2025-04-29 | Andy      |
-
+| 2025-05-06 | *Arxiv*   |
 
 ## Minutes
+
+### 2025-03-18: Arxiv
+
+Discussed Papers: 
+[A New Interpretation for the Hot Corona in Active Galactic Nuclei](https://arxiv.org/pdf/2502.00504) (Zhao et al., 02-2025)
+- Magnetically reconnecting layer above accretion disk
+- Allows investigation betwen height of corona and X-ray luminosity
+- Very nice cartoon diagrams for magnetic reconnection
+- Implementations could be used in ``Gradus.jl``
+- Similar to jet sheath model [A relativistic outflow model of the X-ray polarization in Cyg X-1](https://arxiv.org/abs/2308.01963) (Dexter, Begelman, 08-2023)
+- Similar to hyperbolic corona [Modeling fast X-ray variability around an accreting black hole](https://arxiv.org/abs/2502.03995) (Zhan et al., 02-2025)
+[Dust beyond the torus: Revealing the mid-infrared heart of local Seyfert ESO 428-G14 with JWST/MIRI](https://arxiv.org/abs/2404.16100) (Haidar et al., 04-2024)
+- Seyfert II AGN & Compton Thick in X-rays
+- IR (warmer) dust emission from jet axis being heated by jet radiation
+- Radially driven dusty winds
+[Is the Spin of the Black Hole in GX 339-4 Negative?](https://arxiv.org/abs/2412.15705) (Zdziarski et al., 12-2024)
+- Potential selection bias from fits
+- Dramatically different results from similar selections
+  Links to [Fifty Years After the Discovery of the First Stellar-Mass Black Hole: A Review of Cyg X-1](https://arxiv.org/abs/2411.12507) (Jiang, 11-2024)
+- X-ray & GW binary detection spin discrepency
+- BH HMXBs unlikely to be GW binary BH
 
 ### 2025-02-11: Gloria
 Discused Papers:
