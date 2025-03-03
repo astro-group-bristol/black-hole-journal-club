@@ -20,7 +20,6 @@ To generate additional entries for the rota, use `scripts/rota.py`.
 
 | Date       | Presenter |
 | ---------- | --------- |
-| 2025-02-25 | Belinda   |
 | 2025-03-04 | Andy      |
 | 2025-03-11 | Jiachen   |
 | 2025-03-18 | Darius    |
@@ -31,10 +30,45 @@ To generate additional entries for the rota, use `scripts/rota.py`.
 | 2025-04-22 | *Easter*  |
 | 2025-04-29 | Andy      |
 | 2025-05-06 | *Arxiv*   |
+| 2025-05-13 | Jiachen   |
 
 ## Minutes
 
-### 2025-03-18: Arxiv
+### 2025-02-25: Belinda
+Discussed Papers:
+
+[The X-ray Integral Field Unit at the end of the Athena reformulation phase](https://arxiv.org/abs/2502.10866) (Peille et al., 02-2025)
+- Redesign of X-IFU, (one of the) primary science instrument on NewAthena
+- New 'simple' cooling system - Passive cooling to 50k.
+- Adiabetic cooling to ~ few mK at the focal plane.
+
+[Flip-flop QPO changes during state transitions: a case study of GX339-4 and theoretical discussion](https://arxiv.org/abs/2502.08718v1) (Buisson et al., 02-2025)
+- Interesting QPO case of flipping types
+  
+Presented Paper:
+
+[The JWST View of Cygnus A: Jet-Driven Coronal Outflow with a Twist](https://arxiv.org/abs/2502.06603) (Ogle et al., 02-2025)
+
+[Presentation available here](https://github.com/user-attachments/files/18962071/CygA_nlr_arXiv_BJW.pdf)
+- Radio-jet Feedback & Galaxy Star Formation. Jet impact depends on age, power and geometry.
+- JWST and Keck observations
+- Chandra X-rays fill the apparent open cone.
+- AGN core in polarised light, X-rays highly obscured $$N_H \sim 10^{23} \text{cm}^{-2}$$.
+- Hot dust in inner torus produce continuum at $$>2\mu \text{m}$$ 
+- 94 ionized emission lines - consistent with AGN photoionization
+- Radio jet clearing and emptying cone
+- Quickly-moving [Fe-II] clump in western cone
+- Outflow $$<V>\sim 250\text{km s}^{-1}$$
+- Clump may be line of sight - high velocity absorption lines
+- High velocity could be due to radiation pressure in centre
+- [Fe-II] clump has $$\sim 40M_{\odot}\text{yr}^{-1}$$ and mass $$1.1\times10^8$$
+- Velocity field, spiral outflow models show rotating cone around radio axis.
+- Line splitting in model
+- Spiral Outflow: AGN/jet driven or residual roation from infalling gas
+- AGN/jet driven model needs a secondary driving force to maintain velocity - unlikely?
+- residual rotation requires puffed-up disk (e.g. Muhkerjee+2018). Disk velocity needs sub-keplerian but not observed.
+ 
+### 2025-02-18: Arxiv
 
 Discussed Papers: 
 [A New Interpretation for the Hot Corona in Active Galactic Nuclei](https://arxiv.org/pdf/2502.00504) (Zhao et al., 02-2025)
