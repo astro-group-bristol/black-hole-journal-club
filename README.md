@@ -49,7 +49,6 @@ Presented Paper:
 
 [The JWST View of Cygnus A: Jet-Driven Coronal Outflow with a Twist](https://arxiv.org/abs/2502.06603) (Ogle et al., 02-2025)
 
-[Presentation available here](https://github.com/user-attachments/files/18962071/CygA_nlr_arXiv_BJW.pdf)
 - Radio-jet Feedback & Galaxy Star Formation. Jet impact depends on age, power and geometry.
 - JWST and Keck observations
 - Chandra X-rays fill the apparent open cone.
