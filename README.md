@@ -34,6 +34,7 @@ To generate additional entries for the rota, use `scripts/rota.py`.
 
 ### 2025-03-04: Andy
 Discussed Paper:
+
 [The nature of an imaginary quasi-periodic oscillation in the soft-to-hard transition of MAXI J1820+070](https://arxiv.org/abs/2502.12283) (Bellavita et al., 02-2025)
 - Imaginary lags and QPOs?
 - Something to look into
