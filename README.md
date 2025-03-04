@@ -6,8 +6,6 @@ We meet every Tuesday at:
 
 The Zoom link has been emailed to the group.
 
-NOTE: we will have a review of arxiv on the 10th december and there is no journal club on the 17th December. We will be restarting on 7th January.
-
 ## Agenda
 
 - Presentation of chosen paper (~30 mins)
@@ -20,7 +18,6 @@ To generate additional entries for the rota, use `scripts/rota.py`.
 
 | Date       | Presenter |
 | ---------- | --------- |
-| 2025-03-04 | Andy      |
 | 2025-03-11 | Jiachen   |
 | 2025-03-18 | Darius    |
 | 2025-03-25 | Fergus    |
@@ -31,8 +28,45 @@ To generate additional entries for the rota, use `scripts/rota.py`.
 | 2025-04-29 | Andy      |
 | 2025-05-06 | *Arxiv*   |
 | 2025-05-13 | Jiachen   |
+| 2025-05-20 | Darius    |
 
 ## Minutes
+
+### 2025-03-04: Andy
+Discussed Paper:
+[The nature of an imaginary quasi-periodic oscillation in the soft-to-hard transition of MAXI J1820+070](https://arxiv.org/abs/2502.12283) (Bellavita et al., 02-2025)
+- Imaginary lags and QPOs?
+- Something to look into
+
+[JWST + ALMA ubiquitously discover companion systems within ≲18kpc around four z≈3.5 luminous radio-loud AGN](https://arxiv.org/abs/2502.20442) (Wang et al., 02-2025)
+- Interesting paper looking at companion systems around AGN
+
+[Jet properties of FR0 radio galaxies: need for VLBI data](https://arxiv.org/abs/2501.03787) (Baldi et al., 01-2025)
+- A very brief conference preceding that looks at FR0 parsec-scale jets, slower than those of FRI and FRII jets. Potential explanation from a SMBH low prograde spin or low magnetic fields limiting structure.
+
+[On the Extremely X-ray Variable Active Galactic Nuclei in the XMM-LSS Field](https://arxiv.org/pdf/2502.20556) (Zhang et al., 03-2025)
+- Looks at variable AGNs in the XMM-LSS field. 
+- They have some very nice SEDs and observations from Chandra (ACIS-S), XMM (pn, M1 and M2,), eROSITA and optical/IR. 
+- It looks like they only find 1 changing look and a few general variability AGNs with changing obscuration the leading contender to explain it.
+
+Presented Paper:
+[Temperature Profiles of Accretion Disks in Luminous Active Galactic Nuclei derived from Ultraviolet Spectroscopic Variability](https://arxiv.org/abs/2502.20023) (Son et al., 02-2025)
+- Using optical/UV variability data to constrain accretion disk model
+- SDSS data to fit optical/UV light to accretion disk
+- In the $$\tau \propto L^a \lambda_{RF}^b$$, they find $$b$$ much lower than expected - consisten with some other studies.
+- Time lags for different wavelengths are a proxy for disk size
+- AD well fit by broken power law, variability amplitude increases with timescale and flattens above characterisitic timescale, $$\tau$$.
+- $$\tau$$ corresponds to thermal timescale.
+- SDSS- reverbaration model project. Broadline photomoetry improved with spectroscopic monitoring.
+- Compute a structure function from time lag and variability
+- In order to fit $$\tau \propto L^a \lambda_{RF}^b$$ (generated from Shakura & Sunyaev model) they assume SF follows universal function when in units of $\tau$
+- Slim disk and radially inefficient accretion flows have no significant impact
+- Balmer continuum isn't origin of colour profile
+- SF well fit but disagreement with Shakura & Sunyaev model
+- spectroscopic data more robust than just photometric data
+- Overall a bit of a mystery still.
+- Structure function model in [Modelling the Multiwavelength Variability of Mrk 335 using Gaussian Processes](https://arxiv.org/pdf/2103.06838) (Griffiths et al., 07-2021) with gaussian processes.
+- time scale variability in [Eleven years of monitoring the Seyfert 1 Mrk 335 with Swift: Characterizing the X-ray and UV/optical variability](https://arxiv.org/pdf/1805.00300) (Gallo et al., 05-2018)
 
 ### 2025-02-25: Belinda
 Discussed Papers:
