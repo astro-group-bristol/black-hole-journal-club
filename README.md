@@ -32,6 +32,64 @@ To generate additional entries for the rota, use `scripts/rota.py`.
 
 ## Minutes
 
+### 2025-04-08: Gloria
+Discussed Paper:
+
+Presented Paper
+
+### 2025-04-01: Tom
+Discussed Papers:
+
+Presented Paper:
+
+### 2025-03-25: Fergus
+Presented Papers:
+
+### 2025-03-18: Darius
+Discussed Papers:
+
+Presented Papers:
+
+### 2025-03-11: Jiachen
+Discussed Papers:
+
+[A decade of sub-arcsecond imaging with the International LOFAR Telescope](https://arxiv.org/pdf/2502.06946) (Morabito et al., 02-2025)
+
+- A good paper that discusses the International LOFAR Telescope and its subarcsecond imaging
+
+[Unveiling AGN Outflows: [O iii] Outflow Detection Rates and Correlation with Low-Frequency Radio Emission](https://arxiv.org/pdf/2411.19326) (Escott et al., 12-2024)
+
+- Connections between LOFAR and [OIII]emissions in AGN outflows. 
+- Majority of their selected AGN do not have powerful jets 
+- Radio-detected AGN have higher outflow rates than the non-radio detected AGN
+- Indication of spatial relationship between outflows and radio emission.
+
+Presented Papers:
+
+[The bulk motion of gas in the core of the Centaurus galaxy cluster](https://www.nature.com/articles/s41586-024-08561-z) (XRISM Collaboration, 02-2025) & [An Hα–X-ray surface-brightness correlation for filaments in cooling-flow clusters](https://www.nature.com/articles/s41550-024-02473-8) (Olivares et al., 01-2025) 
+ - Two Nature papers on the Centaurus cluster and others (ft. XRISM, Chandra).
+
+[JWST Imaging of Edge-on Protoplanetary Disks. IV. Mid-infrared Dust Scattering in the HH 30 Disk](https://iopscience.iop.org/article/10.3847/1538-4357/ad9c6f/pdf) (Tazaki et al., 02-2025)
+  - An amazing disk, outflow, jet image of a protoplanetary disk w/ surprising similarity to BH disks, but we X-ray astronomers will never dream of (ft. JWST)
+
+[A confirmed deficit of hot and cold dust emission in the most luminous Little Red Dots](https://arxiv.org/abs/2503.02059) (Setton et al., 03-2025)
+- rest frame IR SEDs of LRDs (trendy work with some big names on the paper)
+
+[Characterization of a Peculiar Einstein Probe Transient EP240408a: An Exotic Gamma-Ray Burst or an Abnormal Jetted Tidal Disruption Event?](https://iopscience.iop.org/article/10.3847/2041-8213/ada7f5) (O'Connor et al., 01-2025)
+- A possible new type of X-ray transient (ft. EP)
+
+[The THESEUS space mission: science goals, requirements and mission concept](https://arxiv.org/pdf/2104.09531) (Amati et al., 04-2021)
+- Which ESA mission will be there after Integral, which was shut recently (ft. THESEUS)
+
+[Overionized plasma in the supernova remnant Sagittarius A East anchored by XRISM observations](https://arxiv.org/abs/2412.00676) (XRISM Collaboration, 12-2024)
+- Over-ionisation in a SNR near Sgr A* (ft. XRISM)
+  
+[Populations of neutron star ultraluminous X-ray sources](https://www.aanda.org/articles/aa/full_html/2025/02/aa53274-24/aa53274-24.html) (Kovlakas et al., 01-2025)
+- Eddington luminosity w/ strong magnetic fields (ft. a lot of equations)
+  
+[The Non-Uniform Expansion of the Crab Nebula](https://arxiv.org/abs/2502.19632) (Martin et al., 02-2025)
+- I didn't know the Crab Pulsar is spinning down slower than it is supposed to be (ft. CFHT image) 
+
 ### 2025-03-04: Andy
 Discussed Paper:
 
