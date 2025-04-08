@@ -39,16 +39,33 @@ Presented Paper
 
 ### 2025-04-01: Tom
 Discussed Papers:
+Euclid Papers:
+- [First study of red quasars selection](https://pubs.euclid-ec.org/public/coordinated_release/tarsitano_etal.pdf) (Tarsitano et al., 03-2025)
+- [First Euclid statistical study of the active galactic nuclei contribution fraction](https://arxiv.org/pdf/2503.15318) (Margalef-Bentabol et al., 03-2025)
+- [Optical and near-infrared identification and classification of point-like X-ray selected sources](https://arxiv.org/pdf/2503.15316) (Roster et al., 03-2025)
+
+[Latent Stochastic Differential Equations for Modeling Quasar Variability and Inferring Black Hole Properties](https://arxiv.org/pdf/2304.04277) (Fagin et al., 04-2024)
+
+[The very high X-ray polarisation of accreting black hole IGRJ17091-3624 in the hard state](https://arxiv.org/abs/2503.22665) (Ewing et al., 03-2025)
 
 Presented Paper:
 
+[]()
+
+
 ### 2025-03-25: Fergus
 Presented Papers:
+[Large and complex X-ray time lags from black hole accretion discs with compact inner coronae](https://academic.oup.com/mnras/article/536/4/3284/7885345?login=true) (Uttley & Malzac, 11-2024)
+- lag model that incorporates propagating fluctuations, coronal heating, and reverberation lags all in one go
 
 ### 2025-03-18: Darius
 Discussed Papers:
 
+[The high energy Universe at ultra-high resolution: the power and promise of X-ray interferometry](https://ui.adsabs.harvard.edu/abs/2021ExA....51.1081U/abstract) (Uttley et al., 06-2021)
+
 Presented Papers:
+
+[On the Extremely X-ray Variable Active Galactic Nuclei in the XMM-LSS Field](https://ui.adsabs.harvard.edu/abs/2025arXiv250220556Z/abstract) (Zhang et al., 02-2025)
 
 ### 2025-03-11: Jiachen
 Discussed Papers:
