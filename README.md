@@ -18,24 +18,28 @@ To generate additional entries for the rota, use `scripts/rota.py`.
 
 | Date       | Presenter |
 | ---------- | --------- |
-| 2025-03-11 | Jiachen   |
-| 2025-03-18 | Darius    |
-| 2025-03-25 | Fergus    |
-| 2025-04-01 | Tom       |
-| 2025-04-08 | Gloria    |
 | 2025-04-15 | Belinda   |
 | 2025-04-22 | *Easter*  |
 | 2025-04-29 | Andy      |
 | 2025-05-06 | *Arxiv*   |
 | 2025-05-13 | Jiachen   |
 | 2025-05-20 | Darius    |
+| 2025-05-27 | Fergus    |
+| 2025-06-03 | Gloria    |
+| 2025-06-10 | Tom       |
+
 
 ## Minutes
 
 ### 2025-04-08: Gloria
 Discussed Paper:
 
-Presented Paper
+[Euclid Quick Data Release (Q1). Extending the quest for little red dots to z<4](https://arxiv.org/abs/2503.15323) (Bisigello et al., 03-2025)
+
+Presented Paper:
+
+[A New Hope for Obscured AGN: The PRIMA-NewAthena Alliance](https://arxiv.org/pdf/2503.19915) (Barchiesi et al., 03-2025)
+Slides for the presented paper are available here: [Gloria_Raharimbolamena_Journal_Club_08_Apr_25.pdf](https://github.com/user-attachments/files/19648641/Gloria_Raharimbolamena_Journal_Club_08_Apr_25.pdf)
 
 ### 2025-04-01: Tom
 Discussed Papers:
@@ -48,9 +52,13 @@ Euclid Papers:
 
 [The very high X-ray polarisation of accreting black hole IGRJ17091-3624 in the hard state](https://arxiv.org/abs/2503.22665) (Ewing et al., 03-2025)
 
+[Supermassive Black Holes in X-rays: From Standard Accretion to Extreme Transients](https://arxiv.org/abs/2503.22791) (Kara & García, 03-2025)
+
 Presented Paper:
 
-[]()
+[Probing the Formation of Megaparsec-scale Giant Radio Galaxies (I): Dynamical Insights from MHD Simulations](https://arxiv.org/abs/2411.10864) (Giri et al., 11-2024)
+Slides for the presentationa are available here: [GRGs_simulation_paper-2.pdf](https://github.com/user-attachments/files/19707966/GRGs_simulation_paper-2.pdf)
+
 
 
 ### 2025-03-25: Fergus
