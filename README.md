@@ -31,6 +31,29 @@ To generate additional entries for the rota, use `scripts/rota.py`.
 
 ## Minutes
 
+### 2025-04-15: Belinda
+Discussed Papers
+Elias Kamu et al. Lags behind X-ray explained by reverbaration
+
+Recent view in the universe
+
+Reviews on disk winds
+
+Presented Paper: 
+
+[ASKAP Discoveries of Giant Radio Galaxies in the Sculptor field](https://www.arxiv.org/abs/2504.07314) (Koribalski, 04-2025)
+- Low resolution (~13")
+- ASKAP - Australian Square Kilometer Array Pathfinder at 700 MHz to 1.8 GHz
+- Over half have relatively young central sources
+- Once jets are off, there are a wide variety of shapes
+- Catalogue of 232 radio galaxies: 164 FRII 29 FRI
+- 15 GRGs with projected largest linear size >1 Mpc (3.8 Mpc is the biggest)
+- J0044-2317 very small Southern FRII jet lobe and a large sweeping FRI northern lobe
+- J0050-2135 diffuse emission beyond the jets with sharp bends, source located between two clusters
+- J0102-2154 Close pair at the core, northern lobes are partially covered by a foreground merging galaxies within a cluster. Possible annular shocks from ring-like Southern lobe structure.
+- J0107-2347 largest (3.79 Mpc) remained very straight, interesting background cluster
+- J0055-262 Head-tail source with jets that appear to merge 
+
 ### 2025-04-08: Gloria
 Discussed Paper:
 
