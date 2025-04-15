@@ -19,7 +19,7 @@ To generate additional entries for the rota, use `scripts/rota.py`.
 | Date       | Presenter |
 | ---------- | --------- |
 | 2025-04-15 | Belinda   |
-| 2025-04-22 | *Easter*  |
+| 2025-04-22 | *Arxiv*   |
 | 2025-04-29 | Andy      |
 | 2025-05-06 | *Arxiv*   |
 | 2025-05-13 | Jiachen   |
@@ -27,6 +27,8 @@ To generate additional entries for the rota, use `scripts/rota.py`.
 | 2025-05-27 | Fergus    |
 | 2025-06-03 | Gloria    |
 | 2025-06-10 | Tom       |
+
+We will have an online-only session on 22nd April to go through some papers that have been mentioned but not discussed in detail. Note this is a university closure day so do not worry if you cannot make it.
 
 
 ## Minutes
