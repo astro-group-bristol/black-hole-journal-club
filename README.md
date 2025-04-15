@@ -18,19 +18,125 @@ To generate additional entries for the rota, use `scripts/rota.py`.
 
 | Date       | Presenter |
 | ---------- | --------- |
-| 2025-03-11 | Jiachen   |
-| 2025-03-18 | Darius    |
-| 2025-03-25 | Fergus    |
-| 2025-04-01 | Tom       |
-| 2025-04-08 | Gloria    |
 | 2025-04-15 | Belinda   |
 | 2025-04-22 | *Easter*  |
 | 2025-04-29 | Andy      |
 | 2025-05-06 | *Arxiv*   |
 | 2025-05-13 | Jiachen   |
 | 2025-05-20 | Darius    |
+| 2025-05-27 | Fergus    |
+| 2025-06-03 | Gloria    |
+| 2025-06-10 | Tom       |
+
 
 ## Minutes
+
+### 2025-04-15: Belinda
+Discussed Papers
+Elias Kamu et al. Lags behind X-ray explained by reverbaration
+
+Recent view in the universe
+
+Reviews on disk winds
+
+Presented Paper: 
+
+[ASKAP Discoveries of Giant Radio Galaxies in the Sculptor field](https://www.arxiv.org/abs/2504.07314) (Koribalski, 04-2025)
+- Low resolution (~13")
+- ASKAP - Australian Square Kilometer Array Pathfinder at 700 MHz to 1.8 GHz
+- Over half have relatively young central sources
+- Once jets are off, there are a wide variety of shapes
+- Catalogue of 232 radio galaxies: 164 FRII 29 FRI
+- 15 GRGs with projected largest linear size >1 Mpc (3.8 Mpc is the biggest)
+- J0044-2317 very small Southern FRII jet lobe and a large sweeping FRI northern lobe
+- J0050-2135 diffuse emission beyond the jets with sharp bends, source located between two clusters
+- J0102-2154 Close pair at the core, northern lobes are partially covered by a foreground merging galaxies within a cluster. Possible annular shocks from ring-like Southern lobe structure.
+- J0107-2347 largest (3.79 Mpc) remained very straight, interesting background cluster
+- J0055-262 Head-tail source with jets that appear to merge 
+
+### 2025-04-08: Gloria
+Discussed Paper:
+
+[Euclid Quick Data Release (Q1). Extending the quest for little red dots to z<4](https://arxiv.org/abs/2503.15323) (Bisigello et al., 03-2025)
+
+Presented Paper:
+
+[A New Hope for Obscured AGN: The PRIMA-NewAthena Alliance](https://arxiv.org/pdf/2503.19915) (Barchiesi et al., 03-2025)
+Slides for the presented paper are available here: [Gloria_Raharimbolamena_Journal_Club_08_Apr_25.pdf](https://github.com/user-attachments/files/19648641/Gloria_Raharimbolamena_Journal_Club_08_Apr_25.pdf)
+
+### 2025-04-01: Tom
+Discussed Papers:
+Euclid Papers:
+- [First study of red quasars selection](https://pubs.euclid-ec.org/public/coordinated_release/tarsitano_etal.pdf) (Tarsitano et al., 03-2025)
+- [First Euclid statistical study of the active galactic nuclei contribution fraction](https://arxiv.org/pdf/2503.15318) (Margalef-Bentabol et al., 03-2025)
+- [Optical and near-infrared identification and classification of point-like X-ray selected sources](https://arxiv.org/pdf/2503.15316) (Roster et al., 03-2025)
+
+[Latent Stochastic Differential Equations for Modeling Quasar Variability and Inferring Black Hole Properties](https://arxiv.org/pdf/2304.04277) (Fagin et al., 04-2024)
+
+[The very high X-ray polarisation of accreting black hole IGRJ17091-3624 in the hard state](https://arxiv.org/abs/2503.22665) (Ewing et al., 03-2025)
+
+[Supermassive Black Holes in X-rays: From Standard Accretion to Extreme Transients](https://arxiv.org/abs/2503.22791) (Kara & García, 03-2025)
+
+Presented Paper:
+
+[Probing the Formation of Megaparsec-scale Giant Radio Galaxies (I): Dynamical Insights from MHD Simulations](https://arxiv.org/abs/2411.10864) (Giri et al., 11-2024)
+Slides for the presentationa are available here: [GRGs_simulation_paper-2.pdf](https://github.com/user-attachments/files/19707966/GRGs_simulation_paper-2.pdf)
+
+
+
+### 2025-03-25: Fergus
+Presented Papers:
+[Large and complex X-ray time lags from black hole accretion discs with compact inner coronae](https://academic.oup.com/mnras/article/536/4/3284/7885345?login=true) (Uttley & Malzac, 11-2024)
+- lag model that incorporates propagating fluctuations, coronal heating, and reverberation lags all in one go
+
+### 2025-03-18: Darius
+Discussed Papers:
+
+[The high energy Universe at ultra-high resolution: the power and promise of X-ray interferometry](https://ui.adsabs.harvard.edu/abs/2021ExA....51.1081U/abstract) (Uttley et al., 06-2021)
+
+Presented Papers:
+
+[On the Extremely X-ray Variable Active Galactic Nuclei in the XMM-LSS Field](https://ui.adsabs.harvard.edu/abs/2025arXiv250220556Z/abstract) (Zhang et al., 02-2025)
+
+### 2025-03-11: Jiachen
+Discussed Papers:
+
+[A decade of sub-arcsecond imaging with the International LOFAR Telescope](https://arxiv.org/pdf/2502.06946) (Morabito et al., 02-2025)
+
+- A good paper that discusses the International LOFAR Telescope and its subarcsecond imaging
+
+[Unveiling AGN Outflows: [O iii] Outflow Detection Rates and Correlation with Low-Frequency Radio Emission](https://arxiv.org/pdf/2411.19326) (Escott et al., 12-2024)
+
+- Connections between LOFAR and [OIII]emissions in AGN outflows. 
+- Majority of their selected AGN do not have powerful jets 
+- Radio-detected AGN have higher outflow rates than the non-radio detected AGN
+- Indication of spatial relationship between outflows and radio emission.
+
+Presented Papers:
+
+[The bulk motion of gas in the core of the Centaurus galaxy cluster](https://www.nature.com/articles/s41586-024-08561-z) (XRISM Collaboration, 02-2025) & [An Hα–X-ray surface-brightness correlation for filaments in cooling-flow clusters](https://www.nature.com/articles/s41550-024-02473-8) (Olivares et al., 01-2025) 
+ - Two Nature papers on the Centaurus cluster and others (ft. XRISM, Chandra).
+
+[JWST Imaging of Edge-on Protoplanetary Disks. IV. Mid-infrared Dust Scattering in the HH 30 Disk](https://iopscience.iop.org/article/10.3847/1538-4357/ad9c6f/pdf) (Tazaki et al., 02-2025)
+  - An amazing disk, outflow, jet image of a protoplanetary disk w/ surprising similarity to BH disks, but we X-ray astronomers will never dream of (ft. JWST)
+
+[A confirmed deficit of hot and cold dust emission in the most luminous Little Red Dots](https://arxiv.org/abs/2503.02059) (Setton et al., 03-2025)
+- rest frame IR SEDs of LRDs (trendy work with some big names on the paper)
+
+[Characterization of a Peculiar Einstein Probe Transient EP240408a: An Exotic Gamma-Ray Burst or an Abnormal Jetted Tidal Disruption Event?](https://iopscience.iop.org/article/10.3847/2041-8213/ada7f5) (O'Connor et al., 01-2025)
+- A possible new type of X-ray transient (ft. EP)
+
+[The THESEUS space mission: science goals, requirements and mission concept](https://arxiv.org/pdf/2104.09531) (Amati et al., 04-2021)
+- Which ESA mission will be there after Integral, which was shut recently (ft. THESEUS)
+
+[Overionized plasma in the supernova remnant Sagittarius A East anchored by XRISM observations](https://arxiv.org/abs/2412.00676) (XRISM Collaboration, 12-2024)
+- Over-ionisation in a SNR near Sgr A* (ft. XRISM)
+  
+[Populations of neutron star ultraluminous X-ray sources](https://www.aanda.org/articles/aa/full_html/2025/02/aa53274-24/aa53274-24.html) (Kovlakas et al., 01-2025)
+- Eddington luminosity w/ strong magnetic fields (ft. a lot of equations)
+  
+[The Non-Uniform Expansion of the Crab Nebula](https://arxiv.org/abs/2502.19632) (Martin et al., 02-2025)
+- I didn't know the Crab Pulsar is spinning down slower than it is supposed to be (ft. CFHT image) 
 
 ### 2025-03-04: Andy
 Discussed Paper:
