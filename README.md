@@ -52,7 +52,9 @@ Presented Paper:
 - J0050-2135 diffuse emission beyond the jets with sharp bends, source located between two clusters
 - J0102-2154 Close pair at the core, northern lobes are partially covered by a foreground merging galaxies within a cluster. Possible annular shocks from ring-like Southern lobe structure.
 - J0107-2347 largest (3.79 Mpc) remained very straight, interesting background cluster
-- J0055-262 Head-tail source with jets that appear to merge 
+- J0055-262 Head-tail source with jets that appear to merge
+- The slides are available here: [GRG_from_ASKAP_Apr2025.pptx](https://github.com/user-attachments/files/19761291/GRG_from_ASKAP_Apr2025.pptx)
+
 
 ### 2025-04-08: Gloria
 Discussed Paper:
