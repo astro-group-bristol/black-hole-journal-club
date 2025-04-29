@@ -18,8 +18,6 @@ To generate additional entries for the rota, use `scripts/rota.py`.
 
 | Date       | Presenter |
 | ---------- | --------- |
-| 2025-04-15 | Belinda   |
-| 2025-04-22 | *Arxiv*   |
 | 2025-04-29 | Andy      |
 | 2025-05-06 | *Arxiv*   |
 | 2025-05-13 | Jiachen   |
@@ -32,6 +30,24 @@ We will have an online-only session on 22nd April to go through some papers that
 
 
 ## Minutes
+
+### 2025-04-22: Arxiv & Discussion
+
+[Jet properties of FR0 radio galaxies: need for VLBI data](https://arxiv.org/abs/2501.03787) (Baldi et al., 01-2025)
+- Looks at FR0
+- Mildly relativistic jet bulk speed, lower compared to FRIs and FRIIs
+- Negligible relativistic beaming
+- SMBH Spin keping jets compact
+
+Question on trapped photon orbits:
+- Geodesic photon rings - possible closed orbits do not necessarily take into affect the wave nature of photons
+- Possible expectation of processing and unstable closed orbits
+- No spin requriement to be able to generate a closed/null orbit
+
+[An interstellar mission to test astrophysical black holes](https://arxiv.org/pdf/2504.14576) (Bambi, 04-2025)
+- Possiblity of inetrstellar mission to send a probe to the nearest BH
+- Seems generally far-fetched with some back-of-the-envolope calculations but nevertheless an interesting paper on something that is not impossible.
+
 
 ### 2025-04-15: Belinda
 Discussed Papers
