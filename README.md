@@ -18,20 +18,66 @@ To generate additional entries for the rota, use `scripts/rota.py`.
 
 | Date       | Presenter |
 | ---------- | --------- |
-| 2025-04-15 | Belinda   |
-| 2025-04-22 | *Arxiv*   |
-| 2025-04-29 | Andy      |
 | 2025-05-06 | *Arxiv*   |
 | 2025-05-13 | Jiachen   |
 | 2025-05-20 | Darius    |
 | 2025-05-27 | Fergus    |
 | 2025-06-03 | Gloria    |
 | 2025-06-10 | Tom       |
-
-We will have an online-only session on 22nd April to go through some papers that have been mentioned but not discussed in detail. Note this is a university closure day so do not worry if you cannot make it.
+| 2025-06-17 | Isobel    | 
 
 
 ## Minutes
+
+### 2025-04-29: Andy
+Mentioned Papers:
+- [A multi-messenger window into galactic magnetic fields and black hole mergers with LISA](https://arxiv.org/pdf/2504.18986) (Reddy et al., 04-2025)
+- [The interplay between Active Galactic Nuclei and Ram-pressure stripping: spatially-resolved gas-phase abundances of stripped and undisturbed galaxies](https://arxiv.org/pdf/2504.18972) (Peluso et al., 04-2025)
+- [Supermassive Black Holes in X-rays: From Standard Accretion to Extreme Transients](https://arxiv.org/abs/2503.22791) (Kara & García, 03-2025)
+
+Discussed Papers:
+
+[Disk winds spectral energy distribution and the variability timescale of AGN](https://arxiv.org/pdf/2504.19344) (Netzer, 04-2025)
+- This paper may be of interest to some.
+- Using a recent Mrk 817 observation, a model with a radial and time-dependant mass outflow rate has been observed.
+- SED changes are more significant in X-rays than Optical.
+- Overall link between time-dependent disk wings, SED, thermal timescale and Optical-UV variability
+
+[A Sandwich Model for Changing-Look AGNs](https://arxiv.org/abs/2504.17246) (Ma, 04-2025)
+- A multi-disk accretion disk to model CLAGNs. An optical thick disk in the centre, sandwiched between two optically thin disks.
+- The central disk can have increased velocity and thus lower accretion timescales.
+- The system (specifically thin disk) can resemble a warm corona when dominated by the magnetic pressure and produce the soft excess, and when this isn't the case, it can resemble a hot corona and show a shorter accretion timescale.
+
+[OGLE-2011-BLG-0462: An Isolated Stellar-mass Black Hole Confirmed Using New HST Astrometry and Updated Photometry](https://iopscience.iop.org/article/10.3847/1538-4357/adbe6e) (Sahu et al., 04-2025)
+- A set of observations over roghly 11 years for a microlensing event
+- A ~7 $$M_\odot$$ isolated BH ~1.5 kpc away moving at ~50 km $$\text{s}^{-1}$$ relative to background stars.
+- Possible that the velocity is due to a natal kick from its SNe
+
+Presented Paper:
+
+[A consistent radio to sub-mm pc-scale study of the Nucleus of NGC 1068](https://arxiv.org/abs/2503.20303) (Mutie, 03-2025)
+- From observations over ~10 years (and much older VLA data) an SED of the central (~pc) region of NGC 1068 been found to fit a model with synchrotron, free-free, dust and coronal components.
+- The sub-mm excess suggests synchrotron emission from a compact and optically thick corona with $$R_c \approx 70 R_g$$, $$\sim 10%$$ of energy density in non-thermal electrons and $$B\approx148$$ G.
+- There is also a possible clumpy gas absorber to explain the curvy SED.
+
+
+### 2025-04-22: Arxiv & Discussion
+
+[Jet properties of FR0 radio galaxies: need for VLBI data](https://arxiv.org/abs/2501.03787) (Baldi et al., 01-2025)
+- Looks at FR0
+- Mildly relativistic jet bulk speed, lower compared to FRIs and FRIIs
+- Negligible relativistic beaming
+- SMBH Spin keping jets compact
+
+Question on trapped photon orbits:
+- Geodesic photon rings - possible closed orbits do not necessarily take into affect the wave nature of photons
+- Possible expectation of processing and unstable closed orbits
+- No spin requriement to be able to generate a closed/null orbit
+
+[An interstellar mission to test astrophysical black holes](https://arxiv.org/pdf/2504.14576) (Bambi, 04-2025)
+- Possiblity of inetrstellar mission to send a probe to the nearest BH
+- Seems generally far-fetched with some back-of-the-envolope calculations but nevertheless an interesting paper on something that is not impossible.
+
 
 ### 2025-04-15: Belinda
 Discussed Papers
