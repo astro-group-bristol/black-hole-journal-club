@@ -18,7 +18,6 @@ To generate additional entries for the rota, use `scripts/rota.py`.
 
 | Date       | Presenter |
 | ---------- | --------- |
-| 2025-05-06 | *Arxiv*   |
 | 2025-05-13 | Jiachen   |
 | 2025-05-20 | Darius    |
 | 2025-05-27 | Fergus    |
@@ -28,6 +27,22 @@ To generate additional entries for the rota, use `scripts/rota.py`.
 
 
 ## Minutes
+
+### 2025-05-06: ArXiV
+[Identifying intermediate mass binary black hole mergers in AGN disks using LISA](https://arxiv.org/abs/2503.11721) (Dutta Roy et al., 03-2025):
+- Binary with GW signature from merger 
+- GW effected by star cluster & gas, almost insignificant contribution but could be detectable when imbedded in disk of significantly high density
+- Therefore they should be detectable with LISA (but needs to be relatively near by ~few Mpc)
+- Question: Do these objects exist (in the detectable universe)?
+- LISA expected to detect order of 100s on 10yr timescale, many of which will be archival.
+- Mass explained through BH mergers and and accretion within an AGN disk.
+
+[Testing X-ray Reprocessing and Mapping the Soft Excess of NGC 7469 with NICER](https://arxiv.org/abs/2504.20223) (Partington et al., 04-2025):
+- Looking at a light curve between different wavebands for an AGN
+- Thermal re-processing model for X-ray heating disk to give UV emission seen
+- X-rays lead UV by less than a day
+- Soft excess from reflection rather than warm corona? No lag between X-ray power law and soft excess
+- Different results for long term (bins averaged over 20 days) variation compared to short term 
 
 ### 2025-04-29: Andy
 Mentioned Papers:
