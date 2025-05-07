@@ -28,7 +28,7 @@ To generate additional entries for the rota, use `scripts/rota.py`.
 
 ## Minutes
 
-### 2025-05-06: ArXiV
+### 2025-05-06: Arxiv
 [Identifying intermediate mass binary black hole mergers in AGN disks using LISA](https://arxiv.org/abs/2503.11721) (Dutta Roy et al., 03-2025):
 - Binary with GW signature from merger 
 - GW effected by star cluster & gas, almost insignificant contribution but could be detectable when imbedded in disk of significantly high density
