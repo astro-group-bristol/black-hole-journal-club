@@ -18,16 +18,47 @@ To generate additional entries for the rota, use `scripts/rota.py`.
 
 | Date       | Presenter |
 | ---------- | --------- |
-| 2025-05-06 | *Arxiv*   |
-| 2025-05-13 | Jiachen   |
 | 2025-05-20 | Darius    |
 | 2025-05-27 | Fergus    |
 | 2025-06-03 | Gloria    |
 | 2025-06-10 | Tom       |
 | 2025-06-17 | Isobel    | 
+| 2025-06-24 | Last      |
 
 
 ## Minutes
+
+### 2025-05-13: Jiachen
+[MeerKAT discovers a jet-driven bow shock near GRS 1915+105: How an invisible large-scale jet sculpts a microquasar's environment](https://arxiv.org/pdf/2504.17425) (Motta et al., 04-2025)
+- Deepest ever radio L-band obervations (15hrs)
+- Stellar mass BH jet energy dissipation is comparable to accretion energy through jet-ISM interactions and linked to SMBH
+- Compressed material behind bow shock observed - reminiscent with Cyg X-1
+- SF activity completely(?) unrelated. Old enough that previous jet activity could have triggered the SF.
+- Jet induced feedback not just SMBH but also their stellar mass counter parts. Lots of energy can be released back into the environment 
+
+Presented Paper(s)
+[Quasi-periodic X-ray eruptions years after a nearby tidal disruption event](https://www.nature.com/articles/s41586-024-08023-6#Abs1) (Nicholl et al., 10-2024)
+- QPE in a dual X-ray Chandra-resolved source but not resolved in light curves. They believe QPE from the central galaxy source due to BB spectrum (of-centre source is PL)
+- ~3yrs after TDE the QPE started. Essentially the TDE can form a disk and a second star can form the QPE
+[Discovery of Quasi-periodic Eruptions in the Tidal Disruption Event and Extreme Coronal Line Emitter AT2022upj: implications for the QPE/TDE fraction and a connection to ECLEs](https://arxiv.org/abs/2503.19013v2) (Chakraborty et al., 04-2025)
+- Probability of finding QPE from optical TDE, they find ~10%
+
+
+### 2025-05-06: Arxiv
+[Identifying intermediate mass binary black hole mergers in AGN disks using LISA](https://arxiv.org/abs/2503.11721) (Dutta Roy et al., 03-2025):
+- Binary with GW signature from merger 
+- GW effected by star cluster & gas, almost insignificant contribution but could be detectable when imbedded in disk of significantly high density
+- Therefore they should be detectable with LISA (but needs to be relatively near by ~few Mpc)
+- Question: Do these objects exist (in the detectable universe)?
+- LISA expected to detect order of 100s on 10yr timescale, many of which will be archival.
+- Mass explained through BH mergers and and accretion within an AGN disk.
+
+[Testing X-ray Reprocessing and Mapping the Soft Excess of NGC 7469 with NICER](https://arxiv.org/abs/2504.20223) (Partington et al., 04-2025):
+- Looking at a light curve between different wavebands for an AGN
+- Thermal re-processing model for X-ray heating disk to give UV emission seen
+- X-rays lead UV by less than a day
+- Soft excess from reflection rather than warm corona? No lag between X-ray power law and soft excess
+- Different results for long term (bins averaged over 20 days) variation compared to short term 
 
 ### 2025-04-29: Andy
 Mentioned Papers:
