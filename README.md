@@ -18,7 +18,6 @@ To generate additional entries for the rota, use `scripts/rota.py`.
 
 | Date       | Presenter |
 | ---------- | --------- |
-| 2025-05-20 | Darius    |
 | 2025-05-27 | Fergus    |
 | 2025-06-03 | Gloria    |
 | 2025-06-10 | Tom       |
@@ -27,6 +26,54 @@ To generate additional entries for the rota, use `scripts/rota.py`.
 
 
 ## Minutes
+
+### 2025-05-20: Darius
+Discussed papers:
+[Electromagnetism as a purely geometric theory](https://iopscience.iop.org/article/10.1088/1742-6596/2987/1/012001) (Jussi Lindgren et al., 2025)
+- Doesn't need scalers terms, they vanish by themselves
+- Interesting interpretation of geometrical approaches to other forces beyond gravity
+- Can solve some difficult to solve eqns. 
+- Direct explanation of QM waves
+
+[Possibility of Multi-Messenger Observations of Quasi-Periodic Eruptions with X-rays and Gravitational Waves](https://arxiv.org/abs/2505.10488) (Suzuguchi et al., 05-2025)
+- Predicts only one joint X-ray and GW QPE detection during LISA's expected lifetime due to a small overlap in frequency detection.
+- Sub-mHz GW detection would enhance these detections significantly.
+
+[S241125n: Binary Black Hole Merger Produces Short GRB in AGN Disk](https://arxiv.org/abs/2505.10395) (Zhang et al., 05-2025)
+- A binary BH merger in an AGN with merger remnants accreting at hyper-Eddington rates.
+- The observed GRB has a soft photon index is consistent with a jet inetracting with a dense AGN disk.
+- A hard X-ray afterglow indicates strong absorption
+
+[Black holes as gravitational mirrors](https://arxiv.org/abs/2505.06018) (Santos et al., 05-2025)
+- Interesting paper for a concept of retrolensing
+- They show it is possible for photons to return to the same emission point after boomeranging around a BH
+- They suggest the possibility of looking at planets using retrolensing
+
+[Radiation and Magnetic Pressure Support in Accretion Disks around Supermassive Black Holes and The Physical Origin of the Extreme Ultraviolet to Soft X-ray Spectrum](https://arxiv.org/abs/2505.09671) (Jiang et al., 05-2025)
+- Using models with realistic opacities and multi-group radiation transport of magnetically supported disks to find a peak around 10 eV.
+[A XRISM Observation of the Archetypal Radio-Mode Feedback System Hydra-A: Measurements of Atmospheric Motion and Constraints on Turbulent Dissipation](https://arxiv.org/abs/2505.01494) (Rose et al., 05-2025)
+- XRISM observations of Hydra-A jets and their power show they can supply the KE to the atmosphere to a degree that terbulent disuption would be unable to match
+[Constraining gas motion and non-thermal pressure beyond the core of the Abell 2029 galaxy cluster with XRISM](https://arxiv.org/abs/2505.06533) (XRISM Collaboration, 05-2025)
+- XRISM observations of the Abell 2029 cluster show non-thermal pressure accounts for less than 2% of the total pressure radii, decreasing with radius.
+- Suggests deviation from hydrostatic equilibrium are small.
+[XRISM spectroscopy on orbital modulation of Fe Lyα lines in Cygnus X-3](https://arxiv.org/abs/2505.09890) (Miura et al., 05-2025)
+- XRISM specroscopy of HMXB Cygnus X-3 show emission lines can be linkde to the orbital motion and absorption lines to the stellar wind.
+[Polarization Signatures of Quasi-Periodic Oscillations in Simulated Tilted, Truncated Disks](https://arxiv.org/abs/2505.11446) (Fragile et al., 05-2025)
+- From MC code Pandurata, a truncated AD can have individual spectra and polarization signatures whilst the tilt introduces inclination and azimuthal dependencies.
+- Precession and oscillations introduce a time dependent signature. 
+
+Presented paper:
+[NuSTAR Detection of an Absorption Feature in ESP 39607: Evidence for an Ultra-fast Inflow?](https://arxiv.org/pdf/2505.07963) (Peca et al., 03-2025)
+- Strong(?) evidence for real absorption feature and UF inflow
+- Confidence is >4$$\sigma$$ (individually between $$2\sigma-3\sigma$$) for absorption considering it is found in two separate observations
+- Inflow is ~$$0.125c$$ but data shows it could be either Fe-XXV or Fe-XXVI or a combination of both
+- Not in 2010 observation so supports UF-inflow assumption
+- Alternative is material launched outward without sufficient escape velocity. Or a failed-wind with a similar situation
+- Look at possible not being an ultra-fast inflow (e.g. warm-hot IGM accretion) but seem to think this is unlikely. 
+- Possible outflow of $$0.75c$$ of lighter materials (e.g. Calcium) but unlikely due to lower abundance.
+- Conclude: best fit is UF-inflow. 
+- In agreement with other UFI studies 
+- Limitations of not having lower energies to fully test WHIM 
 
 ### 2025-05-13: Jiachen
 [MeerKAT discovers a jet-driven bow shock near GRS 1915+105: How an invisible large-scale jet sculpts a microquasar's environment](https://arxiv.org/pdf/2504.17425) (Motta et al., 04-2025)
