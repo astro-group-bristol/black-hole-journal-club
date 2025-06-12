@@ -34,9 +34,11 @@ Discussed:
 - JWST study of sample of 80 broad-lines sources selected from a detailed study of ~1500 AGN from the RUBIES NIRCAM/NIRSPEC/PRISM survey, z>3.1. A significant number (36) have the LRD-blue+red continuum, a point source at the core and broad emission lines.
 - They find that all point sources with (spectroscopic) v-shaped continua exhibit broad Balmer lines where the data quality permits
 detection, suggesting these properties are directly linked.
+
 [XRISM Reveals a Remnant Torus in the Low-Luminosity AGN M81*](https://arxiv.org/abs/2505.13730) (Miller et al., 05-2025)
 [X-ray reflection spectroscopy with improved calculations of the emission angle](https://arxiv.org/abs/2506.00946v1) (Huang et al., 06-2025)
 - [The effects of redshifts and focusing on the spectrum of an accretion disk around a Kerr black hole](https://ui.adsabs.harvard.edu/abs/1975ApJ...202..788C/abstract) (Cunningham 12-1975)
+
 [Spins of Black Holes in X-ray Binaries and the Tension with the Gravitational Wave Measurements](https://arxiv.org/abs/2506.00623v1) (Zdziarski et al., 05-2025)
 
 Presented: 
@@ -51,9 +53,9 @@ Discussed:
 [Reflection Spectra of Accretion Disks Illuminated by an Off-Axis Corona](https://arxiv.org/pdf/2505.22225) (Feng et al., 06-2025)
 
 Presented Papers:
-[Interaction of the relativistic jet and the narrow-line region of PMN J0948+0022](https://arxiv.org/pdf/2505.14776) (Dalla Barba et al., 05-2025)
-[Do multifrequency polarimetric observations of BL Lac exclude a hadronic origin of its X-ray emission?](https://arxiv.org/pdf/2505.19784) (Tavecchio et al., 05-2025)
-[Origin of the X-ray emission in blazars through multiwavelength polarization](https://arxiv.org/pdf/2505.136030) (Liodakis et al., 05-2025)
+- [Interaction of the relativistic jet and the narrow-line region of PMN J0948+0022](https://arxiv.org/pdf/2505.14776) (Dalla Barba et al., 05-2025)
+- [Do multifrequency polarimetric observations of BL Lac exclude a hadronic origin of its X-ray emission?](https://arxiv.org/pdf/2505.19784) (Tavecchio et al., 05-2025)
+- [Origin of the X-ray emission in blazars through multiwavelength polarization](https://arxiv.org/pdf/2505.136030) (Liodakis et al., 05-2025)
 
 ### 2025-05-27: Fergus
 Discusses Papers:
