@@ -18,14 +18,55 @@ To generate additional entries for the rota, use `scripts/rota.py`.
 
 | Date       | Presenter |
 | ---------- | --------- |
-| 2025-05-27 | Fergus    |
-| 2025-06-03 | Gloria    |
-| 2025-06-10 | Tom       |
 | 2025-06-17 | Isobel    | 
 | 2025-06-24 | Last      |
+| 2025-07-01 | Summer    |
+| ---------- | --------- |
+| 2025-09-02 | First     |
+
 
 
 ## Minutes
+
+### 2025-06-10: Tom
+Discussed:
+[RUBIES: A Spectroscopic Census of Little Red Dots](https://arxiv.org/pdf/2506.05459) (Hviding et al., 06-2025)
+- JWST study of sample of 80 broad-lines sources selected from a detailed study of ~1500 AGN from the RUBIES NIRCAM/NIRSPEC/PRISM survey, z>3.1. A significant number (36) have the LRD-blue+red continuum, a point source at the core and broad emission lines.
+- They find that all point sources with (spectroscopic) v-shaped continua exhibit broad Balmer lines where the data quality permits
+detection, suggesting these properties are directly linked.
+
+[XRISM Reveals a Remnant Torus in the Low-Luminosity AGN M81*](https://arxiv.org/abs/2505.13730) (Miller et al., 05-2025)
+[X-ray reflection spectroscopy with improved calculations of the emission angle](https://arxiv.org/abs/2506.00946v1) (Huang et al., 06-2025)
+- [The effects of redshifts and focusing on the spectrum of an accretion disk around a Kerr black hole](https://ui.adsabs.harvard.edu/abs/1975ApJ...202..788C/abstract) (Cunningham 12-1975)
+
+[Spins of Black Holes in X-ray Binaries and the Tension with the Gravitational Wave Measurements](https://arxiv.org/abs/2506.00623v1) (Zdziarski et al., 05-2025)
+
+Presented: 
+[The Onset of Feedback in Abell 1885: Evidence for Large-Scale Quenching Despite a Young Central AGN](https://arxiv.org/pdf/2506.03277) (White et al., 06-2025)
+- TL;DR - An interesting paper that looks at a young AGN's core and extended environment ICM to suggest a lack of synchronisation between feeding and feedback timescales and suggests instead that heating effects can 'linger' possibly with turbulent mixing.
+- Due to time constarints it will be discussed further on 2025-06-24
+
+### 2025-06-03: Gloria
+
+Discussed: 
+[NASA's President's proposed Budget](https://www.nasa.gov/wp-content/uploads/2025/05/fy-2026-budget-technical-supplement-002.pdf)
+[Reflection Spectra of Accretion Disks Illuminated by an Off-Axis Corona](https://arxiv.org/pdf/2505.22225) (Feng et al., 06-2025)
+
+Presented Papers:
+- [Interaction of the relativistic jet and the narrow-line region of PMN J0948+0022](https://arxiv.org/pdf/2505.14776) (Dalla Barba et al., 05-2025)
+- [Do multifrequency polarimetric observations of BL Lac exclude a hadronic origin of its X-ray emission?](https://arxiv.org/pdf/2505.19784) (Tavecchio et al., 05-2025)
+- [Origin of the X-ray emission in blazars through multiwavelength polarization](https://arxiv.org/pdf/2505.136030) (Liodakis et al., 05-2025)
+
+### 2025-05-27: Fergus
+Discusses Papers:
+[Distinguishing the origin of eccentric black-hole mergers with gravitational-wave spin measurements](https://arxiv.org/abs/2505.13589) (Stegmann et al., 05-2025)
+- Constraining origins of binary black holes using the spins of the eccentric sub-population with current and future GW detectors
+
+Presented Paper:
+[A rapid black hole spin or emission from the plunging region?](https://arxiv.org/abs/2505.13119) (Mummery et al., 05-2025)
+- [Rapid population synthesis of black-hole high-mass X-ray binaries: implications for binary stellar evolution](https://arxiv.org/abs/2303.05375) (Romero-Shaw et al., 06-2023)
+- Rapid population synthesis of black-hole high-mass X-ray binaries: implications for binary stellar evolution (similar to the Liotine+ paper but using different pop synth and criteria for observing high-mass X-ray binaries)
+- Found that a maximum of around 2-5 BBHs observed by LVK so far could have gone through a high-mass X-ray binary phase
 
 ### 2025-05-20: Darius
 Discussed papers:
