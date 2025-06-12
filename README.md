@@ -31,6 +31,9 @@ To generate additional entries for the rota, use `scripts/rota.py`.
 ### 2025-06-10: Tom
 Discussed:
 [RUBIES: A Spectroscopic Census of Little Red Dots](https://arxiv.org/pdf/2506.05459) (Hviding et al., 06-2025)
+- JWST study of sample of 80 broad-lines sources selected from a detailed study of ~1500 AGN from the RUBIES NIRCAM/NIRSPEC/PRISM survey, z>3.1. A significant number (36) have the LRD-blue+red continuum, a point source at the core and broad emission lines.
+- They find that all point sources with (spectroscopic) v-shaped continua exhibit broad Balmer lines where the data quality permits
+detection, suggesting these properties are directly linked.
 [XRISM Reveals a Remnant Torus in the Low-Luminosity AGN M81*](https://arxiv.org/abs/2505.13730) (Miller et al., 05-2025)
 [X-ray reflection spectroscopy with improved calculations of the emission angle](https://arxiv.org/abs/2506.00946v1) (Huang et al., 06-2025)
 - [The effects of redshifts and focusing on the spectrum of an accretion disk around a Kerr black hole](https://ui.adsabs.harvard.edu/abs/1975ApJ...202..788C/abstract) (Cunningham 12-1975)
