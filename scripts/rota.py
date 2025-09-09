@@ -1,3 +1,5 @@
+#%%
+
 import random
 import datetime
 import itertools
@@ -35,7 +37,6 @@ def assemble_rota(
 
     return rota
 
-
 def format_rota(rota: dict[datetime.date, str]) -> str:
     data = []
     for date, person in rota:
@@ -46,14 +47,11 @@ def format_rota(rota: dict[datetime.date, str]) -> str:
 if __name__ == "__main__":
     members = [
         "Tom",
-        "Teresa",
-        "Matt",
-        "Rhys",
         "Jiachen",
         "Gloria",
         "Belinda",
+        "Darius",
         "Anantanarayanan",
-        "Fergus",
         "Andy",
     ]
     exclude_from_rota = [
@@ -64,9 +62,11 @@ if __name__ == "__main__":
     random.seed(42 + 11)
     rota = assemble_rota(
         members,
-        datetime.date(2024, 9, 17),
+        datetime.date(2025, 9, 30),
         len(members) - len(exclude_from_rota),
         exclude=exclude_from_rota,
     )
 
     print(format_rota(rota))
+
+# %%
