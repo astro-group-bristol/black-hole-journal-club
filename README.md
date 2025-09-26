@@ -3,7 +3,7 @@ If you would like to join this Journal Club please email: thomas.higginson@brist
 
 We meet every Tuesday at:
 
-- **12:00 until 13:00 (UTC + 0)**
+- **11:00 until 12:00 (UTC + 0)**
 
 The Zoom link has been emailed to the group.
 
@@ -20,8 +20,7 @@ To generate additional entries for the rota, use `scripts/rota.py`.
 | Date       | Presenter   |
 |------------|-------------|
 | 2025-09-30 | Darius      |
-| 2025-10-07 | Jiachen     |
-| 2025-10-14 | Andy        |
-| 2025-10-21 | Belinda     |
-| 2025-10-28 | Gloria      |
-| 2025-11-04 | Tom         |
+| 2025-10-7  | Andy        |
+| 2025-10-14 | Belinda     |
+| 2025-10-21 | Gloria      |
+| 2025-10-28 | Tom         |
