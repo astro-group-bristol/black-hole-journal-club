@@ -33,13 +33,13 @@ To generate additional entries for the rota, use `scripts/rota.py`.
 
 Discussed papers:
 
-Belinda's paper
+[A Bolometric Luminosity Correction Recipe for AGN at Any Epoch](https://arxiv.org/abs/2509.19666v1) (M. Azadi et al., 09-2025)
 - Paper on looking at different parameters to probe bolomentric correction (total luminosity)
 - Based on fact from Intrinsic from IR to UV
 
 Presented:
 
-Darius's Paper
+[The Broadband View of the Bare Seyfert PG 1426+015: Relativistic Reflection, the Soft Excess and the Importance of Oxygen](https://arxiv.org/abs/2509.13411) (D. Walton et al., 09-2025)
 - Seyfert PG 1426+015 - almost zero galactic absorption evident
 - Near Consistent flux, HR changes a little
 - Possible anti-correlation for HR and flux
