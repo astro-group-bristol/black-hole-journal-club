@@ -20,8 +20,8 @@ To generate additional entries for the rota, use `scripts/rota.py`.
 | Date       | Presenter   |
 |------------|-------------|
 | 2025-10-07 | Andy        |
-| 2025-10-14 | Belinda     |
-| 2025-10-21 | Gloria      |
+| 2025-10-14 | Gloria      |
+| 2025-10-21 | Belinda     |
 | 2025-10-28 | Tom         |
 | 2025-11-04 | Jiachen     |
 | 2025-11-11 | Darius      |
