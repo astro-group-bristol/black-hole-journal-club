@@ -17,17 +17,139 @@ The Zoom link has been emailed to the group.
 
 To generate additional entries for the rota, use `scripts/rota.py`.
 
-| Date       | Presenter   |
-|------------|-------------|
-| 2025-10-21 | Belinda     |
-| 2025-10-28 | Tom         |
-| 2025-11-04 | Jiachen     |
-| 2025-11-11 | Darius      |
-| 2025-11-18 | Andy        |
-| 2025-11-25 | Gloria      |
+| Date       | Presenter   | Room |
+|------------|-------------|------|
+| 2025-11-11 | Darius      | 3.29 |
+| 2025-11-18 | Andy        | TBC  |
+| 2025-11-25 | Gloria      | 3.29 |
+| 2025-12-02 | Belinda     | 3.29 |
+| 2025-12-09 | Tom H       | 3.29 |
+| 2025-12-16 | Thomas B    | 3.29 |
+| 2026-01-06 | Jiachen     | TBC  |
 
 
 ## Minutes
+
+### 2025-11-04: Jiachen
+
+Discussed Papers:
+
+[XRISM Spectroscopy of the Stellar-mass Black Hole GRS 1915+105](https://arxiv.org/abs/2510.25089) (Miller et al., 10-2025)
+- traditional type-1 Stella-mass BH transitioning to type-2. 
+- Nice image included of a warped AD: A stellar-mass black hole which transformed from "type-1"-like to "type-2"-like with its central engine now obscured by warm, Compton-thick gas and exhibiting strong photoionized emission lines and radiative recombination continuum features.
+<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/01219ed9-d7a9-4f7e-8856-dbdba6386bae" />
+
+[XRISM/Resolve reveals the complex iron structure of NGC 7213: Evidence for radial stratification between inner disk and broad-line region](https://arxiv.org/abs/2510.24971) (Kammoun et al., 10-2025)
+- NuSTAR no compton hump
+- Low density at sublimation limit. Weak/neutral Fe - $k\alpha$
+- Again another nice figure: Revealing a radially stratified iron line emitting structure that spans nearly four orders of magnitude in radius, with evidence for distinct emission components from the inner disk and broad-line region, placing the source in an intermediate accretion state where the inner disk and broad-line region persist while the torus shows signs of dissipation.
+<img width="897" height="505" alt="image" src="https://github.com/user-attachments/assets/78bf2b24-ae5f-48bb-ab0b-5d6eb5b9a3d8" />
+
+[XRISM/Resolve Spectroscopy of the Central Engine in the Seyfert-1 AGN Mrk 279](https://arxiv.org/abs/2510.20083) (Miller et al., 10-2025)
+- tentative evidence for UFOs
+- Basically Xrism resolving narrow absorption features in hard X-rays
+- 'Sy-1 with distinct velocity components in the Fe-Kα emission line linked to the molecular torus, broad line region (BLR), and inner accretion disk, along with tentative evidence for ultra-fast outflows (UFOs)'
+
+Presented paper:
+
+[A Sharper View of the X-ray Spectrum of MCG–6-30-15 with XRISM, XMM-Newton and NuSTAR](https://arxiv.org/pdf/2510.08926) (Brenneman et al., 10-2025)
+- z=0.00775, Host is NL syfert-1. Small BH Mass, not too broad optical lines so similar to syfert-2
+- High spectral resolution, can we look at disc reflection? (No)
+- Possible lamppost model does not work well
+- Reflection model is always lower than expected from lamppost - not too bad to assume since an out-flowing corona is possible and therefore can appear similar to a moving lamp post model.
+- Need a stronger compton hump if you have a higher power law cut off or no cut off
+
+Also see:
+[Normalizing a relativistic model of X-ray reflection Definition of the reflection fraction and its implementation in relxill](https://arxiv.org/pdf/1601.03771) (Dauser et al., 05-2016)
+- For comments on using relxill for model fitting and the MC simulation.
+[A Chandra HETGS Spectral Study of the Iron K Bandpass in MCG-6-30-15: A Narrow View of the Broad Iron Line](https://arxiv.org/abs/astro-ph/0506082) (Young et al., 06-2005)
+- For comments on the broad iron lines which has some useful connection between absroption models.
+[Black Hole Spin Measurements Based on a Thin Disc Model with Finite Thickness I. An example study of MCG-06-30-15](https://arxiv.org/abs/2205.06696) (Jiang et al., 05-2022)
+- For comments on the use if the lamppost model and the reflection flux overestimates from the lamppost model.
+
+
+### 2025-10-28: Tom
+
+Discussed Papers:
+
+[Discovery of Powerful Multi-Velocity Ultra-Fast Outflows in the Starburst Merger Galaxy IRAS 05189−2524 with XRISM](https://arxiv.org/abs/2510.18027) (Noda et al., 10-2025)
+- "Crucial role for these outflows in galaxy evolution during a transitional phase preceding the quasar phase."
+- XRISM observations with outflows at 0.076c, 0.101c and 0.143c
+- Recently merged and undergoing SF
+- Slower closer in, but hotter 
+- Consistent with radiative drivin
+- AGN feedback to quench SF but not there yet - in transition to quasar
+
+[A supermassive black hole under the radar: repeating X-ray variability in a Seyfert galaxy](https://arxiv.org/abs/2510.02832) (Imbrogno et al., 10-2025)
+- Revealing short-term quasi-periodic oscillations or flare-like behaviours (QPO vs QPE; see [Variability in a low-mass active galactic nucleus: oscillation or eruption?](https://ui.adsabs.harvard.edu/abs/2023MNRAS.518.3428W/abstract) (Webbe & Young, 01-2023)
+- QPE and QPO connections? They don't know
+- QPE and QPO models can both fit the data somewhat well
+
+[XRISM constraints on unidentified X-ray emission lines, including the 3.5 keV line, in the stacked spectrum of ten galaxy clusters](https://arxiv.org/abs/2510.24560) (XRISM Collaboration et al., 10-2025)
+- 'no unidenified lines are detected in the stacked spectrum'
+- In relation to [Detection of An Unidentified Emission Line in the Stacked X-ray spectrum of Galaxy Clusters](https://iopscience.iop.org/article/10.1088/0004-637X/789/1/13) (Bulbul et al., 06-2014) reporting a weak line at 3.5 keV (decay of sterile neutrino, warm dark matter particles candidate?) XRISM paper doesn't find anything
+- but not as sensitive as XMM so not ruled out
+
+Presented paper:
+[Investigating the emission mechanism in the spatially-resolved jet of two z≈3 radio-loud quasars](https://arxiv.org/pdf/2504.09676) (Maithil et al., 04-2025)
+- 2 high redshift quasars with Chandra X-ray resolved jets with high-res radio follow up Exploring the iC/CMB
+- Power of jetted outflows is useful to understand the formation and growth of galaxies due to the BH formation & evolution links to the host formation and evolution
+- Mechanical energy outflow can exceed totla radiation output of SMBH after cosmic noon.
+- Directly detected X-ray jets can be used to calculate enthalpy if produced by iC/CMB
+- at $z>3$ with a bulk lorentz factor $\Gamma\sim4$ CMB energy density dominates synchrotron energy density for a $B<100\text{s }\mu\text{G}$
+- Higher $B$ gives Synchrotron domination
+- Doppler factor from X-ray fluxes can be used to calculate enthaly flux
+- iC/CMB dominant emission corresponds to lack of radio jet detection
+- One source (J1405+0415) is near the equatorial plane leading to issues with RFI - they discuss how they mitigated this with their observation.
+- 3C 286 was their flux calibrator which remains unresolved at this level and therefore makes a good flux calibration target. They used a phase calibrator in a loop with the science target, which is standard practice (LOFAR uses a phase calibrator in its field of view)
+- Pile-up reduced by a 1/4 subarray type. They used subpixel image alignment - standard reprocess was used beyond this.
+-  They observed a knot in J1405+0415 near the core, resolvable with 0.3" resolution (the synthesised beam (resolution) is 0.29"x0.25")
+- Neither had a continuous radio jet to connect the HSs and core.
+- They subpixelised to the radio resolution of 0.25"
+- They investigate the a circle with 90% of the emission from the core (~0.1") over the now-standard 0.5-7.0 keV energy range
+- They model the just a power law with galactic absorption, then add in the intrinsic absorption and say they find "including an intrinsic absorber does not significantly improve the fit" yet they still end up with the conclusion of intrinsic absorption of around $n_{H}\sim5\times10^{22}$ cm$^{-2}$ which is a typical value for type I.
+- They fit power law and HR models for each individual observation and the merged observation but notable they seem slightly inconsistent so it could be interesting to look at the dates of the observations which they do not supply.
+- When looking at the PSF model they note changes in the HRMA likely are not included in SAOTrace leading to issues with the AspectBlur
+- They observe evidence for extended emission but one of the extension regions (within 1") they attribute to the HRMA known asymmetric smearing  
+- It seems they spend a decent amount of time on emission structure within with central 1" yet admit the blurring from chandra means they cannot realisitically use widths smaller than about 1.5" for the jet axis.
+- Since they cannot see the radio jet they assume a jet radius of 3kpc
+- They first investigate iC/CMB and use a cylindrical jet model of 3kpc radius
+- Using properties of the expressions for jet rest-frame magnetic field and observed magnetic field, they generate an expression that relies on the bulk lorentz factor, $\Gamma$, and angle $\theta$ that and determine a most-probable line-of-sight.
+- They show that the radio-emitting e- lifetime is shorter than the X-ray iC/CMB emitting e-, and the population responsible is around 144MHz or less
+- They find factors $\theta$, $n_e$, B and KE scale relative to the radio--X-ray flux
+
+
+### 2025-10-21: Belinda
+
+Discussed Papers:
+
+[Gradus.jl: spacetime-agnostic general relativistic ray-tracing for X-ray spectral modelling](https://arxiv.org/abs/2510.15049) (Baker & Young, 10-2025)
+- Description of the GRADUS julia package for general relativitic ray tracing.
+
+[XRISM Resolves Relativistic Effects from the Innermost Accretion Disk in Serpens X-1](https://arxiv.org/abs/2510.13739) (Ludlam et al., 10-2025)
+- XRISM/Resolve observation of Low-mass XRB
+- Average 73.1cps
+- Accretion disk appears to be close to the NS with the inner orbit almost at the ISCO.
+
+Presented: 
+
+[AGN-Driven Multiphase Outflows: Toward Consensus Between Theory and Observation](https://ras.ac.uk/events-and-meetings/ras-meetings/agn-driven-multiphase-outflows-toward-consensus-between-theory-and) (10-2025)
+- Belinda gave a summary of the AGN-Driven multiphase outflows meeting from the RAS meeting, due to publishing only comments directly from papers will be in these minutes.
+
+[A striking relationship between dust extinction and radio detection in DESI QSOs: evidence for a dusty blow-out phase in red QSOs](https://arxiv.org/abs/2308.14790) (Fawcett et al., 08-2023)
+[Connection between steep radio spectral slopes and dust extinction in QSOs: evidence for outflow-driven shocks in dusty QSO](https://arxiv.org/abs/2501.10501) (Fawcett et al., 01-2025)
+- There appears to be a link between dust obscuration and radio steepness which could suggest an outflow-driven shock within the dusty QPOs.
+- Using DESI and LoTSS DR2 objects, a dust-reddened blue QSO spectrum can typically fit to and explain type 1 QSOs.
+- Red QSOs could be in a blow-out phase
+
+[Outflow densities and ionisation mechanisms in the NLRs oftheprototypical Seyfert galaxies NGC 1068 and NGC 4151](https://arxiv.org/pdf/2306.03920) (Holden et al., 06-2023)
+[No evidence for fast, galaxy-wide ionised outflows in a nearby quasar — the importance of accounting for beam smearing](https://arxiv.org/abs/2411.17500) (Holden & Tadhunter, 11-2024)
+- Transural emission line ratios with spatially resoved observations was used to derive electron densities.
+- Evidence for Shock ionisation and radiation bounded AGN photoionisation.
+- Beam smearing effects could lead to over estimates of outflows and kinematics by orders of magnitude.
+- Possible historical large-scale outflows could be due to beam smearing effects.
+
+  
 
 ### 2025-10-14: Gloria
 
