@@ -29,6 +29,44 @@ To generate additional entries for the rota, use `scripts/rota.py`.
 
 ## Minutes
 
+### 2025-11-04: Jiachen
+
+Discussed Papers:
+
+[XRISM Spectroscopy of the Stellar-mass Black Hole GRS 1915+105](https://arxiv.org/abs/2510.25089) (Miller et al., 10-2025)
+- traditional type-1 Stella-mass BH transitioning to type-2. 
+- Nice image included of a warped AD: A stellar-mass black hole which transformed from "type-1"-like to "type-2"-like with its central engine now obscured by warm, Compton-thick gas and exhibiting strong photoionized emission lines and radiative recombination continuum features.
+<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/01219ed9-d7a9-4f7e-8856-dbdba6386bae" />
+
+[XRISM/Resolve reveals the complex iron structure of NGC 7213: Evidence for radial stratification between inner disk and broad-line region](https://arxiv.org/abs/2510.24971) (Kammoun et al., 10-2025)
+- NuSTAR no compton hump
+- Low density at sublimation limit. Weak/neutral Fe - $k\alpha$
+- Again another nice figure: Revealing a radially stratified iron line emitting structure that spans nearly four orders of magnitude in radius, with evidence for distinct emission components from the inner disk and broad-line region, placing the source in an intermediate accretion state where the inner disk and broad-line region persist while the torus shows signs of dissipation.
+<img width="897" height="505" alt="image" src="https://github.com/user-attachments/assets/78bf2b24-ae5f-48bb-ab0b-5d6eb5b9a3d8" />
+
+[XRISM/Resolve Spectroscopy of the Central Engine in the Seyfert-1 AGN Mrk 279](https://arxiv.org/abs/2510.20083) (Miller et al., 10-2025)
+- tentative evidence for UFOs
+- Basically Xrism resolving narrow absorption features in hard X-rays
+- 'Sy-1 with distinct velocity components in the Fe-Kα emission line linked to the molecular torus, broad line region (BLR), and inner accretion disk, along with tentative evidence for ultra-fast outflows (UFOs)'
+
+Presented paper:
+
+[A Sharper View of the X-ray Spectrum of MCG–6-30-15 with XRISM, XMM-Newton and NuSTAR](https://arxiv.org/pdf/2510.08926) (Brenneman et al., 10-2025)
+- z=0.00775, Host is NL syfert-1. Small BH Mass, not too broad optical lines so similar to syfert-2
+- High spectral resolution, can we look at disc reflection? (No)
+- Possible lamppost model does not work well
+- Reflection model is always lower than expected from lamppost - not too bad to assume since an out-flowing corona is possible and therefore can appear similar to a moving lamp post model.
+- Need a stronger compton hump if you have a higher power law cut off or no cut off
+
+Also see:
+[Normalizing a relativistic model of X-ray reflection Definition of the reflection fraction and its implementation in relxill](https://arxiv.org/pdf/1601.03771) (Dauser et al., 05-2016)
+- For comments on using relxill for model fitting and the MC simulation.
+[A Chandra HETGS Spectral Study of the Iron K Bandpass in MCG-6-30-15: A Narrow View of the Broad Iron Line](https://arxiv.org/abs/astro-ph/0506082) (Young et al., 06-2005)
+- For comments on the broad iron lines which has some useful connection between absroption models.
+[Black Hole Spin Measurements Based on a Thin Disc Model with Finite Thickness I. An example study of MCG-06-30-15](https://arxiv.org/abs/2205.06696) (Jiang et al., 05-2022)
+- For comments on the use if the lamppost model and the reflection flux overestimates from the lamppost model.
+
+
 ### 2025-10-28: Tom
 
 Discussed Papers:
