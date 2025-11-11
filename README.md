@@ -19,16 +19,42 @@ To generate additional entries for the rota, use `scripts/rota.py`.
 
 | Date       | Presenter   | Room |
 |------------|-------------|------|
-| 2025-11-11 | Darius      | 3.29 |
-| 2025-11-18 | Andy        | TBC  |
+| 2025-11-18 | Andy        | G.45 |
 | 2025-11-25 | Gloria      | 3.29 |
 | 2025-12-02 | Belinda     | 3.29 |
 | 2025-12-09 | Tom H       | 3.29 |
 | 2025-12-16 | Thomas B    | 3.29 |
 | 2026-01-06 | Jiachen     | TBC  |
+| 2026-01-13 | Darius      | TBC  |
 
 
 ## Minutes
+
+### 2025-11-11: Darius
+
+Discussed papers:
+
+[Probing AGN-ISM Feedback through Extended X-ray Emission in ESO 137-G034](https://arxiv.org/abs/2510.22453) (Król et al., 10-2025)
+- Use radial profiles to investigate extended X-ray emission at different energies.
+- Possible shock emission assiciated with the termination of a radio jet.
+- Thermal X-ray and photoionized emission in the inner region.
+- Radial and mechanical feedback appears to be impacting the inner 1kpc environment.
+
+
+Presented Papers:
+
+[The strong Fe K line and spin of the black-hole X-ray binary MAXI J1631-479](https://arxiv.org/abs/2511.03386) (Zdziarski et al., 11-2025)
+
+- Intrinisic Fe K disk emission and disk irradiation by BB emission are previous models; Kerr disk model used here with thin disk
+- XRB outburst in 2018
+- V strong broad Fe K emission
+- NuSTAR & NICER light curves show soft-to-hard transitionary state
+- High E tales in soft state - leads to stronger illumination of disk
+- Disk Models: Kerrbb & slimbh 
+- Spin parameters across both parts are vastly different for kerbb but closer to agreement for slimbh
+- They suggest a need for a slim disk model
+- Strongly absorbed source (observed flux is 4 times smaller than detected flux)
+- They justify their conclusion of the observed Fe-K line being explained by irradiation from Compton scattering of BB photons despite the limitations they mention by using xilconv
 
 ### 2025-11-04: Jiachen
 
