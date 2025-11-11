@@ -19,7 +19,7 @@ To generate additional entries for the rota, use `scripts/rota.py`.
 
 | Date       | Presenter   | Room |
 |------------|-------------|------|
-| 2025-11-18 | Andy        | TBC  |
+| 2025-11-18 | Andy        | G.45 |
 | 2025-11-25 | Gloria      | 3.29 |
 | 2025-12-02 | Belinda     | 3.29 |
 | 2025-12-09 | Tom H       | 3.29 |
