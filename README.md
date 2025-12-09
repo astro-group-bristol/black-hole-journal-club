@@ -24,8 +24,14 @@ To generate additional entries for the rota, use `scripts/rota.py`.
 | 2025-12-02 | Belinda     | 3.29 |
 | 2025-12-09 | Tom H       | 3.29 |
 | 2025-12-16 | Thomas B    | 3.29 |
-| 2026-01-06 | Jiachen     | TBC  |
-| 2026-01-13 | Darius      | TBC  |
+| 2026-01-06 | Darius      | TBC  |
+| 2026-01-13 | Andy        | TBC  |
+| 2026-01-20 | Gloria      | TBC  |
+| 2026-01-27 | Belinda     | TBC  |
+| 2026-02-03 | Tom H       | TBC  |
+| 2026-02-10 | Jiachen     | TBC  |
+
+
 
 
 ## Minutes
