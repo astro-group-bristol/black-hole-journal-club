@@ -3,7 +3,7 @@ If you would like to join this Journal Club (presenting is not compulsory) pleas
 
 We meet every Tuesday at:
 
-- **15:00 until 16:15 (UTC + 0)**
+- **14:00 until 15:00 (UTC + 0)**
 
 The Zoom link has been emailed to the group.
 
@@ -19,22 +19,98 @@ To generate additional entries for the rota, use `scripts/rota.py`.
 
 | Date       | Presenter   | Room |
 |------------|-------------|------|
-| 2025-11-18 | Andy        | G.45 |
-| 2025-11-25 | Gloria      | 3.29 |
-| 2025-12-02 | Belinda     | 3.29 |
-| 2025-12-09 | Tom H       | 3.29 |
-| 2025-12-16 | Thomas B    | 3.29 |
-| 2026-01-06 | Darius      | TBC  |
-| 2026-01-13 | Andy        | TBC  |
-| 2026-01-20 | Gloria      | TBC  |
-| 2026-01-27 | Belinda     | TBC  |
+| 2026-01-06 | Darius      | 3.30 |
+| 2026-01-13 | Andy        | 3.30 |
+| 2026-01-20 | Gloria      | 3.30 |
+| 2026-01-27 | Belinda     | 3.30 |
 | 2026-02-03 | Tom H       | TBC  |
-| 2026-02-10 | Jiachen     | TBC  |
+| 2026-02-10 | Jiachen     | 3.30 |
+| 2026-02-17 | Thomas B    | 3.30 |
+| 2026-02-24 | Shashanth   | 3.30 |
 
 
 
 
 ## Minutes
+
+### 2025-12-16: Thomas B
+
+[A dual AGN at z = 5.4 associated with a Lyman-alpha nebula in the centre of a cosmic filament](https://ui.adsabs.harvard.edu/abs/2025MNRAS.544.4160L/abstract) (Qiong et al., 12-2025)
+- Presentation Slides: [Dual AGN Presentatio.pdf](https://github.com/user-attachments/files/24196437/Dual.AGN.Presentatio.pdf)
+- Paper on Varstrometry technique: https://ui.adsabs.harvard.edu/abs/2020ApJ...888...73H/abstract
+- Dual Quasar detection: https://ui.adsabs.harvard.edu/abs/2025ApJ...982...22I/abstract
+- An additional survey paper: https://ui.adsabs.harvard.edu/abs/2025A%26A...696A..59P/abstract
+
+### 2025-12-08: Tom H
+
+Discussed papers:
+
+[XRISM Observations of Accretion Disk Corona in Cyg X-2](https://arxiv.org/abs/2512.00589) (Mizumoto et al., 11-2025)
+- High resolution X-ray spectrim of Cyg X-2.
+- Precise characertzation of the Fe-K emission lines.
+- Possible UFO detection
+
+Presented Paper:
+
+[Evidence for in-situ acceleration of relativistic particles in the wings of X-shaped radio galaxies](https://arxiv.org/pdf/2511.08676) (Patra et al., 11-2025)
+- A paper which looks into possible reasons behind the unexpected result of synchrotron spectral flattening in the wings of some XRGs and apparent indistinguishable spectral slopes between wings and primary lobes in a 'large' sample (26) of other XRGs.
+- presentation Slides: [Journal_Club_Presentations.pdf](https://github.com/user-attachments/files/24059089/Journal_Club_Presentations.pdf)
+
+
+### 2025-12-02: Belinda
+
+[Jet reorientation revealed by intermittent jet activity in radio galaxy 0954+556](https://arxiv.org/pdf/2511.20434) (Zeng et al., 11-2025)
+- Jet re-orientation between kpc- and pc-scale structures in a Compact AGN.
+- Significant jet re-orientation in young radio galaxies is not readily reported.
+- Uses Multiscale and multifrequency radio data to investigate the mechanism behind jet re-orientation.
+- They detect faint counter jets abd pc- and kpc-scales along with diffuse connecting emission.
+- 0954+556 likely underwent at least two episodes of jet activity duing the current AGN phase.
+- Jet direction change on scales of ~1 million years.
+
+### 2025-11-25: Gloria
+
+Discussed Papers:
+
+[A XRISM View of Relativistic Reflection in Cygnus X-1](https://arxiv.org/abs/2511.17338) (Draghis et al., 11-2025)
+- "By modeling the shape of the broad line, we find a black hole spin of a≃0.98 and an inclination of the inner accretion disk of θ≃63∘. The spin is consistent with prior reflection studies, reaffirming the robustness of past spin measurements using the relativistic reflection method."
+
+[A search for cold molecular outflows in cosmic noon galaxies](https://arxiv.org/pdf/2511.16733) (Langan et al., 11-2025)
+- Lack of molecular gas outflows in cosmic noon star-forming galaxies.
+
+[Identification of Large-Scale (>100 kpc) Radio Jets in Narrow-Line Seyfert 1 Galaxies](https://arxiv.org/abs/2510.25678v1) (Umayal et al., 10-2025)
+- 33 large double-lobed radio structures of >100kpc.
+- 29 confirmed and 4 candidates
+- J1318+2626 found to have 4.3 Mpc deprojected jet size
+- Some of the sample are blazars and some deteted in $\gamma$-ray band - these have dominant radio cores and flat spectra
+- GRGs have smaller BH masses than the blazars.
+  
+### 2025-11-18: Andy
+
+Discussed Papers:
+
+[Back to basics: Little Red Dots as galaxies and dust-obscured AGNs in a synthetic NIRCamsky simulated with L-GalaxiesBH](https://arxiv.org/pdf/2511.10725) (Herrero-Carrión et al., 11-2025)
+- Restframe UV-optical emission is dominated by AGN and dust absorption is secondary.
+- LDRs host lighter MBHs and fainter emission unable to balance Balmer break.
+- No evidence of dominant heavy-seed MBHs
+
+[Gravitational Wave Phase shifts of black hole mergers in AGN Disks](https://arxiv.org/pdf/2511.15193) (Tagawa et al., 11-2025)
+- If the BBH is accelerating (for example, because it's orbiting a SMBH in an AGN disk, or being yanked by a nearby third black hole), this motion imprints a specific distortion on the waveform.
+
+Presented Paper:
+
+[Multi-messenger constraints on LIGO/Virgo/KAGRA gravitational wave binary black holes merging in AGN disks](https://arxiv.org/abs/2510.20767) (Cabrera et al., 10-2025)
+- 300 Binary BH mergers detected - > 95% of detections are BBH mergrs
+- EM confirmation is low (maybe ~ dozen)
+- More work for mergers is needed
+- Formation channel: AGN, ADs
+- AGN intrinsically variable without BBH events -> AGN flare challenging to assosciate
+- Statistically not good enough yet
+- $1\times10^{-8}$ flares per AGN per day
+- Most likely explination is most EM events are random flares instead of mergers
+- $\lambda$ is consistent with $\lambda=0$ case
+- <3% of LVK BBHs produce detectable flares
+- Constraints allow for around <40% LVK BBH events originate in disk of AGN
+  
 
 ### 2025-11-11: Darius
 
