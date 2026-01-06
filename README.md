@@ -19,19 +19,43 @@ To generate additional entries for the rota, use `scripts/rota.py`.
 
 | Date       | Presenter   | Room |
 |------------|-------------|------|
-| 2026-01-06 | Darius      | 3.30 |
-| 2026-01-13 | Andy        | 3.30 |
-| 2026-01-20 | Gloria      | 3.30 |
-| 2026-01-27 | Belinda     | 3.30 |
-| 2026-02-03 | Tom H       | TBC  |
-| 2026-02-10 | Jiachen     | 3.30 |
-| 2026-02-17 | Thomas B    | 3.30 |
-| 2026-02-24 | Shashanth   | 3.30 |
+| 2026-01-13 | Darius      | 3.30 |
+| 2026-01-20 | Andy        | 3.30 |
+| 2026-01-27 | Gloria      | 3.30 |
+| 2026-02-03 | Belinda     | TBC  |
+| 2026-02-10 | Tom H       | 3.30 |
+| 2026-02-17 | Jiachen     | 3.30 |
+| 2026-02-24 | Thomas B    | 3.30 |
+| 2026-03-03 | Shashanth   | TBC  |
 
 
 
 
 ## Minutes
+
+## 2026-01-06: ArXiv
+
+Discussed Papers:
+[IMPACTX: An X-ray Spectral Model for Polar Dust and Clumpy Torus](https://arxiv.org/abs/2512.20993) (Fujiwara et al., 12-2025)
+- A new X-ray reflection model for a clumpy torus with dusty gas in the polar region.
+- 3D radiative transfer code powered by Monte-carlo simulations calculate the spectra.
+- Applied to NGC 4388
+
+[A comprehensive search for high-velocity X-ray sources: New compact object binary candidates in the Gaia era](https://arxiv.org/abs/2601.02287) (Zhao et al., 01-2026)
+- Gaia DR3 crossmatch with X-ray point sources to identify new binary candidates (both BH and NS binaries)
+- Found an X-ray sampling that excludes most contaminants ($\nu_\text{pec,min}>200\text{ km s}^{-1}$)
+
+[Evidence for a Stratified Accretion Disk Wind in AGN](https://arxiv.org/abs/2512.22617) (Marziani et al., 12-2025)
+- Multiwavelength spectroscopy of broad and narrow emission lines.
+- Diversity in profiles suggests structured outflows from AD.
+- Suggests clear evidence of Stratified wind emission.
+
+[XRISM finds the Changing-Look AGN NGC 1365 in an extended low state: A dense, highly ionized outflow obscures the central source](https://arxiv.org/abs/2601.00795) (Zaidouni et al., 01-2026)
+- Rapid Compton-thick--Commpton-thin transisions
+- Persistent Low flux state with hard--X-ray luminosity decrease.
+- Features from either reemission of photoionized winds or collisionally ionized gas (with ISM shocks)
+- launch radius consistent with X-ray broadline region.
+
 
 ### 2025-12-16: Thomas B
 
