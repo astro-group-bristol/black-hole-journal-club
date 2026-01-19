@@ -19,14 +19,15 @@ To generate additional entries for the rota, use `scripts/rota.py`.
 
 | Date       | Presenter   | Room |
 |------------|-------------|------|
-| 2026-01-13 | Darius      | 3.30 |
-| 2026-01-20 | Andy        | 3.30 |
-| 2026-01-27 | Gloria      | 3.30 |
-| 2026-02-03 | Belinda     | TBC  |
-| 2026-02-10 | Tom H       | 3.30 |
-| 2026-02-17 | Jiachen     | 3.30 |
-| 2026-02-24 | Thomas B    | 3.30 |
-| 2026-03-03 | Shashanth   | TBC  |
+| 2026-01-20 | Andy        | 4.41 |
+| 2026-01-27 | Gloria      | 4.41 |
+| 2026-02-03 | Belinda     | 4.41 |
+| 2026-02-10 | Tom H       | 4.41 |
+| 2026-02-17 | Jiachen     | 4.41 |
+| 2026-02-24 | Thomas B    | 4.41 |
+| 2026-03-03 | Shashanth   | 4.41 |
+| 2026-03-10 | TBD         | 4.41 |
+| 2026-03-17 | Darius      | 4.41 |
 
 ## Interesting Conferences
 
@@ -59,6 +60,19 @@ To generate additional entries for the rota, use `scripts/rota.py`.
 $^*$ Registration Only
 
 ## Minutes
+
+## 2026-01-13: Darius
+
+Presented Paper:
+[The dynamic central environment of NGC 3516 revealed by XRISM](https://arxiv.org/abs/2512.07950) (Juráňová et al., 12-2025)
+- This paper presented a detailed analysis of the XRISM observation of the Seyfert 1.5 galaxy NGC 3516.
+- The continuum of NGC 3516 is well described by a power law, modified by both relativistic and distant reflection.
+- The Resolve spectrum revealed six distinct high ionisation absorption components The turbulent velocity broadening of these being relatively small (≲400 km s−1 ), pointing to similar internal kinematics.
+- Most of the detected absorbers are likely thermally unstable and thus may represent transient structures.
+- Time-resolved spectroscopy reveals significant changes in the absorption features associated with three of the components with their spectral signatures appear and disappear over tens of kiloseconds.
+- The observed correlation between the absorber visibility and the continuum level, particularly for component O, favors ionization-driven variability, whereas the intermittent appearance of components I and U is more consistent with geometric effects.
+- An additional transient absorption-like feature was detected in the red wing of the Fe Kα emission line, possibly revealing the presence of a brief, ultra-fast inflow event. This feature persisted for about 60 ks and was not accompanied by a comparable blueshifted counterpart, suggesting short-lived local episode of gas accretion.
+- The latter part of the observation revealed oscillatory variability in the continuum light curve, with a tentative period of ≈40 ks and a transient narrow emission feature alternately shifted to red and blue energies. This “rocking” motion suggests coupling between the continuum source and the line-emitting region, potentially linked to orbiting hotspots, disc inhomogeneities, or oscillations in the corona.
 
 ## 2026-01-06: ArXiv
 
