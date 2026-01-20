@@ -19,15 +19,16 @@ To generate additional entries for the rota, use `scripts/rota.py`.
 
 | Date       | Presenter   | Room |
 |------------|-------------|------|
-| 2026-01-20 | Andy        | 4.41 |
 | 2026-01-27 | Tom H       | 4.41 |
 | 2026-02-03 | Belinda     | 4.41 |
 | 2026-02-10 | Gloria      | 4.41 |
 | 2026-02-17 | Jiachen     | 4.41 |
 | 2026-02-24 | Thomas B    | 4.41 |
 | 2026-03-03 | Shashanth   | 4.41 |
-| 2026-03-10 | TBD         | 4.41 |
-| 2026-03-17 | Darius      | 4.41 |
+| 2026-03-10 | Arxiv       | 4.41 |
+| 2026-03-17 | Biz         | 4.41 |
+| 2026-03-24 | Darius      | 4.41 |
+| 2026-03-31 | Adny		   | 4.41 |
 
 ## Interesting Conferences
 
@@ -60,6 +61,29 @@ To generate additional entries for the rota, use `scripts/rota.py`.
 $^*$ Registration Only
 
 ## Minutes
+
+## 2026-01-21: Andy
+
+Disucssed Papers: 
+
+[Little red dots as young supermassive black holes in dense ionized cocoons](https://www.nature.com/articles/s41586-025-09900-4) (Rusakov et al., 01-2026)
+- Exponential emission lines rather and Guassian emission lines from different regions.
+- Subtracting electron scattering of hydrogen spectra leaves a Gaussian peak in reach the central SMBH mass can be calculated.
+- New findings suggest masses of $10^{5-7} M_\odot$ which is two orders of magnitude lower than previous estimates 
+- https://private-user-images.githubusercontent.com/58453313/537689190-f9ef2951-20c0-4e40-971f-8143fd9bd2d3.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Njg5MTQyMjMsIm5iZiI6MTc2ODkxMzkyMywicGF0aCI6Ii81ODQ1MzMxMy81Mzc2ODkxOTAtZjllZjI5NTEtMjBjMC00ZTQwLTk3MWYtODE0M2ZkOWJkMmQzLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAxMjAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMTIwVDEyNTg0M1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTEwYTNiMTk0YzhmMmU4N2NjY2JlZGYzODRmYmRmNTIyYTNmNjhiNzNjNjgyOGRkYTMwYmNjNGMwMGRiYjVhYTcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.c2GAeO27LAoAtks3xtYUrUugQsrbgCEbajkFjlcQM2I<img width="1126" height="784" alt="image" src="https://github.com/user-attachments/assets/9bddb1a7-efb6-4d55-a382-6555b58bb2eb" />
+
+Presented Paper:
+[Constraining black hole spin in PG 1535+547 amidst complex multi-layered absorption](https://arxiv.org/abs/2512.17539v1) (Madathil-Pottayil et al., 12-2025)
+- X-ray source close to BH
+- More light shining on disk than the observer
+- High (a>0.99 for lamp post model) black hole spin
+- Spin can be calculated from the Fe $k\alpha$
+- Observed 3 epochs with XMM, the 3rd overlapped with NuSTAR observations
+- Large absorption observed in epoch 2
+- Fit the data with a lamp post model and a corona-agnostic model (RELXIL-) LPCP and CP models
+- Reflection generally smaller than the continuum, except for epoch 3.
+- High emission widths suggest light bending
+- Thicker disk could lead to more reflection
 
 ## 2026-01-13: Darius
 
