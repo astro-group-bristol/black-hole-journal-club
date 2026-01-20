@@ -70,7 +70,7 @@ Disucssed Papers:
 - Exponential emission lines rather and Guassian emission lines from different regions.
 - Subtracting electron scattering of hydrogen spectra leaves a Gaussian peak in reach the central SMBH mass can be calculated.
 - New findings suggest masses of $10^{5-7} M_\odot$ which is two orders of magnitude lower than previous estimates 
-- https://private-user-images.githubusercontent.com/58453313/537689190-f9ef2951-20c0-4e40-971f-8143fd9bd2d3.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Njg5MTQyMjMsIm5iZiI6MTc2ODkxMzkyMywicGF0aCI6Ii81ODQ1MzMxMy81Mzc2ODkxOTAtZjllZjI5NTEtMjBjMC00ZTQwLTk3MWYtODE0M2ZkOWJkMmQzLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAxMjAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMTIwVDEyNTg0M1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTEwYTNiMTk0YzhmMmU4N2NjY2JlZGYzODRmYmRmNTIyYTNmNjhiNzNjNjgyOGRkYTMwYmNjNGMwMGRiYjVhYTcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.c2GAeO27LAoAtks3xtYUrUugQsrbgCEbajkFjlcQM2I<img width="1126" height="784" alt="image" src="https://github.com/user-attachments/assets/9bddb1a7-efb6-4d55-a382-6555b58bb2eb" />
+- <img width="1126" height="784" alt="image" src="https://github.com/user-attachments/assets/9bddb1a7-efb6-4d55-a382-6555b58bb2eb" />
 
 Presented Paper:
 [Constraining black hole spin in PG 1535+547 amidst complex multi-layered absorption](https://arxiv.org/abs/2512.17539v1) (Madathil-Pottayil et al., 12-2025)
