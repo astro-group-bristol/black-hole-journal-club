@@ -28,7 +28,7 @@ To generate additional entries for the rota, use `scripts/rota.py`.
 | 2026-03-10 | Arxiv       | 4.41 |
 | 2026-03-17 | Biz         | 4.41 |
 | 2026-03-24 | Darius      | 4.41 |
-| 2026-03-31 | Adny		   | 4.41 |
+| 2026-03-31 | Andy		   | 4.41 |
 
 ## Interesting Conferences
 
