@@ -19,15 +19,16 @@ To generate additional entries for the rota, use `scripts/rota.py`.
 
 | Date       | Presenter   | Room |
 |------------|-------------|------|
-| 2026-02-03 | Arxiv       | 4.41 |
-| 2026-02-10 | Gloria      | 4.41 |
 | 2026-02-17 | Jiachen     | 4.41 |
 | 2026-02-24 | Belinda     | 4.41 |
 | 2026-03-03 | Shashanth   | 4.41 |
-| 2026-03-10 | Arxiv       | 4.41 |
+| 2026-03-10 | Thomas B    | 4.41 |
 | 2026-03-17 | Biz         | 4.41 |
 | 2026-03-24 | Darius      | 4.41 |
 | 2026-03-31 | Andy		   | 4.41 |
+| 2026-04-14 | Gloria      | 4.41 |
+| 2026-04-21 | Tom         | 4.41 |
+
 
 ## Interesting Conferences
 
@@ -60,6 +61,56 @@ To generate additional entries for the rota, use `scripts/rota.py`.
 $^*$ Registration Only
 
 ## Minutes
+
+## 2026-02-03: ArXiv
+
+Discussed Papers:
+[Little Red Dots and Supermassive Black Hole Seed. Formation in Ultralight Dark Matter Halos](https://arxiv.org/pdf/2601.21676) (Bak & Lee, 01-2026)
+
+- Baryonic gas confined to Solitonic central cores can lead to gas $> 3 \times 10^4$ K without external UV background.
+- Determined Maximum $M_{SMBH}$ as a function of $z$, with upper $z=0$ limit of order $10^{10} M_{\odot}$. 
+- Seed requirement: seed $m\sim10^{-22}$ eV and $z\geq 10$
+
+[Fast, Dust-poor outflows in the local candidate dual AGN MCG-03-34-64 observed with VLT/ERIS](https://arxiv.org/pdf/2601.22254) (Lamperti et al., 01-2026)
+
+- They observed two distinct outflows either from two separate nuclei or jet-ISM interaction
+- Systematic absence of [Fe VII] interpreted as suppression from iron depletion
+
+[How Plasma Properties of the Fararoff-Reiley Jet can Shape its Morphology](https://arxiv.org/pdf/2601.09349) (Tripathi et al., 01-2026)
+
+- 3D-MHD simulations of kpc-scale low-powered supersonic jets to see a mixed plasma composition jet tending to evolve into an FRI morphology, electron-proton jets show FRI-II transitions during evolution. A highly supersonic jets tended to evolve into FRII with a bright HS.
+
+[An X-ray-Emitting Proto-Cluster at z ≈5.7 Reveals Rapid Structure Growth](https://arxiv.org/pdf/2601.19978) (Bogdan et al., 01-2026)
+
+- Reports Chandra detection of hot intracluster gas in the high-redshift protocluster JADES-ID1 at z~5.7, about 1 billion years after the Big Bang.
+- X-ray evidence for already devloping cluster-scale hot atmosphere -> galaxy overdensity
+- Virial heating and cluster formation in action
+- Suprisingly massive given survey volume -> rarely predicted this early
+
+[A highly ionised outflow in the X-ray binary 4U 1624-49 detected with XRISM](https://arxiv.org/abs/2601.19480) (Trigo et al., 01-2026)
+- More nice XRISM data
+- Lines consistent with winds from outer regions of disk
+
+[Investigation on Quasi-periodic Oscillation Phase Lag of RE J1034+396](https://arxiv.org/abs/2602.01373) (Li et al., 02-2026)
+- Seems like a phase/time resolved analysis of phase lags in the QPOs, they find different states at which they see hard/soft lags which sounds similar to what is seen in BH XRBs
+
+## 2026-01-27: Tom
+
+Discussed Papers:
+[Discovery of a soft X-ray lag in the tidal disruption event AT2021ehb](https://arxiv.org/abs/2601.12240) (Zhang, 01-2026)
+- This looks like a very interesting result. Also interesting that this is a single author paper.
+- Looks at timelags to investigate rapid X-ray flux decline, possibly from rapid corona cooling due to the removal of magnetic support.
+
+[Analytical and Numerical Studies of Central Galactic Out ows Powered by Tidal Disruption Events: A Model for the Fermi Bubbles?](https://iopscience.iop.org/article/10.3847/1538-4357/abbda4/pdf) (Ko et al., 11-2020) 
+- Answering last weeks question in origin of cocoons in LDRs
+- If the SMBH has unusual accretion events, e.g., repeated TDEs, the resulting outflows can launch the Fermi bubble observed in our Galaxy.
+- (Historical star formation activities will be able to launch the Fermi bubble too)
+
+Present:
+[Simulating radio emission from flickering AGN jets: travelling shocks and hotspot brightening](https://arxiv.org/abs/2601.13138) (Elley et al., 01-2026)
+Presentation slides:
+[Journal_Club_Presentations-3.pdf](https://github.com/user-attachments/files/25207138/Journal_Club_Presentations-3.pdf)
+
 
 ## 2026-01-21: Andy
 
