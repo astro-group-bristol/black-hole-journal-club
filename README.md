@@ -36,26 +36,26 @@ To generate additional entries for the rota, use `scripts/rota.py`.
 |------------|--------|------|------------|
 | [BlackHolistic 2026: black hole accretion and how it shapes the cosmos](https://blackholesoxford2026.web.ox.ac.uk/home) | 23-27 March 2026 | Oxford, UK | CLOSED |
 | [18th IACHEC meeting](https://iachec.org/2026-seeblick-pelham-germany/) | 20-23 April 2026 | Bavaria, Germany | 30 March |
-| [Massive Black Hole Spin Workshop](https://indico.ph.ed.ac.uk/event/385/) | 21-24 April 2026 | Edinburgh, UK | 19 January* |
-| [Torus 2026: Multi-wavelength approach to the AGN structures](https://astrophysics.jp/torus2026/index.html) | 18-22 May 2026 | Kyoto, Japan | 31 January |
-| [IAU Symposium 406 - Future landascape of astrophysocal transients: novel approaches in theory and observations](https://iaus2026-transients.utu.fi/objectives/) | 18-22 May 2026 | Turku, Finland | 01 March* |
-| [The X-ray Universe 2026](https://www.cosmos.esa.int/web/xmm-newton/2026-symposium) [Other website](http://xrayuniverse.esa.int/) | 8-11 June 2026 | Elche, Spain | 20 February |
+| [Massive Black Hole Spin Workshop](https://indico.ph.ed.ac.uk/event/385/) | 21-24 April 2026 | Edinburgh, UK | CLOSED |
+| [Torus 2026: Multi-wavelength approach to the AGN structures](https://astrophysics.jp/torus2026/index.html) | 18-22 May 2026 | Kyoto, Japan | *Suspended registration* |
+| [IAU Symposium 406 - Future landascape of astrophysocal transients: novel approaches in theory and observations](https://iaus2026-transients.utu.fi/objectives/) | 18-22 May 2026 | Turku, Finland | CLOSED |
+| [The X-ray Universe 2026](https://www.cosmos.esa.int/web/xmm-newton/2026-symposium) [Other website](http://xrayuniverse.esa.int/) | 8-11 June 2026 | Elche, Spain | 5 June* |
 | [High Energy Astrophysics and Cosmology in the era of all-sky serveys](https://indico.global/event/16224/) | 15-19 June 2026 | Yerevan, Armenia | 31 March |
-| Dartmouth-Durham Black Hole Workshop 2026 | 22-26 June 2026 | Fairlee, Vermont, USA | TBC |
-| [Breaking the limits 2026 - Super Eddington Accretion onto Compact Objects](https://breakingthelimits.github.io/supereddington2026/) | 22-26 June 2026 | Cagliari, Sardinia, Italy | TBC |
-| [Simulation based inference for Galaxy Evolution 2026](https://sbi-galev.github.io/2026/) | 23-26 June 2026 | Cambridge UK | 2 March |
-| [Supermassice Black Holes and Blue Notes ](https://sites.google.com/view/smbh2026/home) | 29-3 June\July 2026 | Montreal, Canada | 15 February |
+| [Breaking the limits 2026 - Super Eddington Accretion onto Compact Objects](https://breakingthelimits.github.io/supereddington2026/) | 22-26 June 2026 | Cagliari, Sardinia, Italy | 31 March |
+| [Simulation based inference for Galaxy Evolution 2026](https://sbi-galev.github.io/2026/) | 23-26 June 2026 | Cambridge UK | 22 May* |
+| [Supermassice Black Holes and Blue Notes ](https://sites.google.com/view/smbh2026/home) | 29-3 June\July 2026 | Montreal, Canada | CLOSED |
 | [AGN Feedback Across All Scales and Time](https://www.eso.org/sci/meetings/2026/AGN-FAAST.html) | 6-10 July 2026 | Garching (Munich), Germany | 15 April* |
 | [The many scales of galaxy environments](https://astro.dur.ac.uk/ascona/) | 13-17 July 2026 | Ascona, Swizerland | 30 April* |
 | [ESO summer school - Writing and Communicating Your Science](https://astro.dur.ac.uk/ascona/) | 20-24 July 2026 | Garching (Munich), Germany | 14 June* |
 | [NAM 2026](https://ras.ac.uk/news-and-press/news/birmingham-host-2026-national-astronomy-meeting) | 20-24 July 2026 | Brimginham, UK | TBC |New
 | UK & Ireland Accretion Discs Meeting 2026 | 20-22 July 2026 | Cambridge, UK | TBC |
 | [Rise_Time 2026: Explosive Astrophysics](https://www.physics.purdue.edu/duffell/rise_time2026.html) | 12-14 August 2026 | West Lafayette, Indiana, USA | NA |
-| [Dynamic Radio Sky 2026](https://drs2026.github.io/) | 24-28 August 2026 | McGill, Canada | TBC |
-| [Scientific workshop on the eXTP mission](https://indico.global/event/15804/) | 31-2 August/September 2026 | Turku, Finland | 1 March |
-| [Tidal Disruption Events and Nuclear Transients in Crete val. 2](https://sites.google.com/view/tdesandntsincrete2026) | 24-28 August 2026 | Heraklion, Crete, Greece | 15 March |
+| [Dynamic Radio Sky 2026](https://drs2026.github.io/) | 24-28 August 2026 | McGill, Canada | 31 March |
+| [Scientific workshop on the eXTP mission](https://indico.global/event/15804/) | 31-2 August/September 2026 | Turku, Finland | 2 April |
+| [Tidal Disruption Events and Nuclear Transients in Crete val. 2](https://sites.google.com/view/tdesandntsincrete2026) | 24-28 August 2026 | Heraklion, Crete, Greece | 30 June* |
 | New Results in X-ray Astronomy | TBC | TBC | TBC |
-| AGN on the Beach II: A Multi-scale view of jetted AGN | 21-25 September 2026 | Diani, Kenya | TBC |
+| [ERIS 2026 - XI European Radio Interferometry School](https://acme-eris-2026.sciencesconf.org) | 7-11 September | Noto, Scicily (Italy) | TBC |
+| [AGN on the Beach II: A Multi-scale view of jetted AGN](https://www.jb.man.ac.uk/AGNbeachII/) | 21-25 September 2026 | Diani, Kenya | 17 April |
 | [Many Faces of stellar-mass Black Holes](https://sites.google.com/view/bh-nepal-2026/home) | 12-16 October 2026 | Kathmandu, Nepal | 05 June | 
 
 $^*$ Registration Only
