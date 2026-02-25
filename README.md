@@ -63,11 +63,11 @@ $^*$ Registration Only
 
 ## 2026-02-24: Belinda
 
-Discussed Paper:[Winds of Change: XRISM Resolve X-ray spectroscopy of NGC 4051](https://arxiv.org/abs/2602.19897) (Reeves et al., 02-2026)
+Discussed Paper: [Winds of Change: XRISM Resolve X-ray spectroscopy of NGC 4051](https://arxiv.org/abs/2602.19897) (Reeves et al., 02-2026)
 
 - High-resolution XRISM spectrum of NGC 4051. The 150 ks observation show a blue shifted absorption feature which increases its blueshift in the later part of the observation 
-- They propose either a single ionised absorber which is accelerated outward coinciding with an increase in the continuum flux of two separate absorbers at different velocities moving in and out of line of sight 
-- They cannot distinguish between the two scenarios but highlight how the increase in flux is not sufficient to explain the acceleration by radiation pressure only but instead highlight the importance of magnetic acceleration in recombination events which may lead to both the flare and acceleration 
+- They propose either a single ionised absorber which is accelerated outward coinciding with an increase in the continuum flux or two separate absorbers at different velocities moving in and out of line of sight 
+- They cannot distinguish between the two scenarios but highlight how the increase in flux is not sufficient to explain the acceleration by radiation pressure only but instead highlight the importance of magnetic acceleration in recombination events which may lead to both the flare and acceleration.
 
 Presented Paper: [A Theoretical Three-Dimensional Diagram to Separate Star Formation, Active Galactic Nuclei, and Shocks in Galaxies](https://arxiv.org/abs/2506.09962) (Zhu et al., 06-2025)
 
@@ -75,7 +75,7 @@ Presented Paper: [A Theoretical Three-Dimensional Diagram to Separate Star Forma
 
 - The method assigns each spatial pixel a fractional contribution from the three ionization mechanisms. Applying the diagnostic to VLT data of NGC 5728 reveals a kpc-scale star-forming ring, an AGN ionization bicone, and a fast shock-dominated region at the base of the outflow.
 
-- The method opens new windows to study interplay in star forming regions, AGN, and shocks but makes clear that significant overlap in these regions require high quality data to disentangle 
+- The method opens new windows to study interplay in star forming regions, AGN, and shocks but makes clear that significant overlap in these regions require high quality data to disentangle. 
 
 ## 2026-02-17: Jiachen
 
@@ -86,7 +86,10 @@ May be interesting to some.
 - TDEs launch outflows at super-Eddington and a distinctly different outflow at $L_{\text{crit}} \approx 0.02 L_{\text{Edd}}$ (the same as seen in stellar-mass BHs)
 - They study mechanism, properties and detections and seem to conclude that jet formation is BH-scale invariant.
 
-[Transient Relativistic Iron Emission Line from an X-ray Flaring Supermassive Black Hole](https://arxiv.org/abs/2602.09232) 
+[Transient Relativistic Iron Emission Line from an X-ray Flaring Supermassive Black Hole](https://arxiv.org/abs/2602.09232) (Zhao et al., 02-2026)
+- They present evidence for a flare in AGN J1047+5907 followed by a subsequent emergence of a broadened Fe line around 40 days afterwards
+- The corresponding light travel distance matches the expected broadening from keplerian motion for material at that distance from the central black hole 
+- They describe running 10000 simulations of the spectra to test if the observed line could be explained by chance and conclude it cannot but the detection is tentative and not conclusive 
 
 [X-ray Timing and Spectral studies of bare AGN Mrk 110](https://arxiv.org/pdf/2602.09582) (Lahiri et al., 02-2026)
 Studies at the time lag of the soft excess of a Seyfert galaxy AGN with XMM observations. 
