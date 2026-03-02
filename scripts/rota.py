@@ -48,14 +48,20 @@ if __name__ == "__main__":
     members = [
         "Tom",
         "Jiachen",
+        "Fergus",
         "Gloria",
         "Belinda",
         "Darius",
         "Anantanarayanan",
         "Andy",
+        "Biz",
+        "Shashanth",
+        "Teresa"
     ]
     exclude_from_rota = [
         "Anantanarayanan",
+        "Gloria",
+        "Fergus"
     ]
     # needed a random seed so that either andy, tom or fergus was the first to
     # present
