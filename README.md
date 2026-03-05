@@ -19,7 +19,6 @@ To generate additional entries for the rota, use `scripts/rota.py`.
 
 | Date       | Presenter   | Room |
 |------------|-------------|------|
-| 2026-03-03 | Shashanth   | 4.41 |
 | 2026-03-10 | Thomas B    | 4.41 |
 | 2026-03-17 | Biz         | 4.41 |
 | 2026-03-24 | Darius      | 4.41 |
@@ -61,6 +60,34 @@ $^*$ Registration Only
 
 ## Minutes
 
+## 2026-03-03: Shashanth
+
+Discussed Papers: 
+[Unraveling the Origin of Unequal Mass Gravitational Wave Events: Insights from a Galactic High Mass X-ray Binary](https://arxiv.org/pdf/2602.12327) (Shah et al., 02-2026)
+
+- The paper investigates the origin of highly unequal mass binary mergers, such as the gravitational wave event GW190814, which had a mass ratio ~0.1. This low a ratio is difficult to explain with standard binary evolution models.
+- The authors propose that these events may follow an evolutionary pathway similar to the HMXB binary 4U 1700-37 / HD 153919, one of the most extreme unequal mass binaries known of.
+- Using binary stellar evolution modelling, they show that stable mass transfer and common envelope evolution in such systems can naturally produce binaries containing a massive black hole paired with a much lighter compact object.
+- These systems can eventually evolve into compact object mergers detectable through gravitational waves, providing a plausible formation channel for asymmetric mergers like GW190814.
+- The study links observed X-ray binaries to future gravitational wave sources, highlighting how electromagnetic observations of HMXBs can help constrain the evolutionary pathways of compact binary mergers.
+
+[The possible accretion discs of GN-z11 at redshift 𝑧 = 10.6, MoM-z14 at 𝑧 = 14.44 and other high redshift objects](https://arxiv.org/pdf/2509.05459) (Fabian et al.,02-2026)
+
+- JWST observations of extremely high redshift AGN show UV spectra whose slopes are consistent with emission from standard accretion discs, suggesting that black hole accretion is already established in galaxies less than a few hundred million years after the Big Bang.
+- The observed spectral shapes of GN-z11 and MoM-z14 resemble those of stellar mass black holes in the soft accretion state, implying disc dominated emission and suggesting relatively stable, thermal accretion flows rather than highly variable AGN activity.
+- Applying the same modelling approach to several other high redshift objects yields similar disc like spectral signatures, indicating that a significant fraction of early AGN may be powered by standard disc accretion.
+- If these sources truly host massive black holes only so soon after the Big Bang, their existence requires either very massive initial seeds or primordial black holes.
+
+Presented Paper:
+[A NICER view of the corona through time-dependent Comptonization of the quasi-periodic oscillations in nine black-hole X-ray binaries](https://arxiv.org/abs/2602.07247v1) (Zhang et al., 02-2026)
+
+- The paper looked at observations from 9 LMXRBs calssified into various spectral states. They calculated rms and phase lags from power spectra and cross spectra for each. 
+- These were modeled with the comptonisation model vKompthdk.
+- For each observation, the time avaraged flux spectra was fit as well as the rms and phase lag spectra.
+- They find that QPO frequency increases with hue monotonically.
+- Coronal size increases with hue in the low hard state then reduces in the hard intermediary state (although the sizes they find may not be robust).
+- They see that reducing coronal sizer is consistent with increasing QPO frequency. 
+
 ## 2026-02-24: Belinda
 
 Discussed Paper: [Winds of Change: XRISM Resolve X-ray spectroscopy of NGC 4051](https://arxiv.org/abs/2602.19897) (Reeves et al., 02-2026)
@@ -100,7 +127,8 @@ Studies at the time lag of the soft excess of a Seyfert galaxy AGN with XMM obse
 - Looks at some background constraints and separating the characteristic strain from the Galactic White Drawf foreground and stellar-mass EMRI background.
 - Links results to new proposed observatories including LISA and the Big Bang Observer.
 
-Presented Paper: [Modeling reflection spectra of super-Eddington X-ray sources](https://arxiv.org/abs/2407.12890) (Shashank et al., 07-2024)
+Presented Paper: 
+[Modeling reflection spectra of super-Eddington X-ray sources](https://arxiv.org/abs/2407.12890) (Shashank et al., 07-2024)
 
 - The paper develops new relativistic reflection models for super-Eddington accretion, where the standard thin, flat disc assumption is invalid and the flow becomes geometrically thick.
 - It introduces two key geometries: a slim disc with self-shadowing and a wind-funnel reflection surface, both of which change how the corona illuminates the reflector.
