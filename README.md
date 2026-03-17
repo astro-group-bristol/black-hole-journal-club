@@ -19,12 +19,14 @@ To generate additional entries for the rota, use `scripts/rota.py`.
 
 | Date       | Presenter   | Room |
 |------------|-------------|------|
-| 2026-03-10 | Thomas B    | 4.41 |
 | 2026-03-17 | Biz         | 4.41 |
 | 2026-03-24 | Darius      | 4.41 |
 | 2026-03-31 | Andy		   | 4.41 |
 | 2026-04-14 | Tom         | 4.41 |
 | 2026-04-21 | Teresa      | 4.41 |
+| 2026-04-28 | Belinda     | 4.41 |
+| 2026-05-05 | Shashanth   | 4.41 |
+| 2026-05-12 | Thomas      | 4.41 |
 
 ## Interesting Conferences
 
@@ -60,7 +62,7 @@ $^*$ Registration Only
 
 ## Minutes
 
-## 2026-03-10: Thomas B
+## 2026-03-10: Thomas
 
 Presented Papers: 
 [AGN Feedback Models and AGN Demographics. I. Radio-mode AGN in EAGLE, SIMBA, and TNG100 Are Inconsistent with Observations](https://iopscience.iop.org/article/10.3847/1538-4357/ae2608) (Suresh et al., 01-2026)
