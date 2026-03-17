@@ -60,6 +60,12 @@ $^*$ Registration Only
 
 ## Minutes
 
+## 2026-03-10: Thomas B
+
+Presented Papers: 
+[AGN Feedback Models and AGN Demographics. I. Radio-mode AGN in EAGLE, SIMBA, and TNG100 Are Inconsistent with Observations](https://iopscience.iop.org/article/10.3847/1538-4357/ae2608) (Suresh et al., 01-2026)
+Slides will be added in due course 
+
 ## 2026-03-03: Shashanth
 
 Discussed Papers: 
