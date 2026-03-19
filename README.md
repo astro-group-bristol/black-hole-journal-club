@@ -19,8 +19,6 @@ To generate additional entries for the rota, use `scripts/rota.py`.
 
 | Date       | Presenter   | Room |
 |------------|-------------|------|
-| 2026-03-10 | Thomas B    | 4.41 |
-| 2026-03-17 | Biz         | 4.41 |
 | 2026-03-24 | Darius      | 4.41 |
 | 2026-03-31 | Andy		   | 4.41 |
 | 2026-04-14 | Tom         | 4.41 |
@@ -60,6 +58,29 @@ $^*$ Registration Only
 
 ## Minutes
 
+## 2026-03-17 Biz
+
+Presented Paper:
+[The multimessenger view of Pulsar Timing Array black holes with the Horizon-AGN simulation](https://arxiv.org/abs/2510.14613) (Quelquejay Leclere et al., 02-2026)
+
+- The authors use the Horizon‑AGN simulation to predict the population of supermassive black hole binaries that produce the gravitational-wave background measured by Pulsar Timing Arrays. 
+- The gravitational-wave background detected by pulsar timing arrays is predicted to arise from large populations of massive black hole binaries at moderate redshift primarily in massive, quiescent galaxies.
+- Individually detectable continuous-wave (CW) sources are rare, with only a small probability of detection using current sensitivities, though this improves significantly for future facilities like the SKA.
+- The most promising CW candidates are very massive, nearby binaries in dense environments, which may still be observable electromagnetically.
+
+## 2026-03-10 Thomas B 
+
+Presented Paper:
+[AGN Feedback Models and AGN Demographics. I. Radio-mode AGN in EAGLE, SIMBA, and TNG100 Are Inconsistent with Observations](https://iopscience.iop.org/article/10.3847/1538-4357/ae2608) (Suresh et al., 01-2026)
+
+- The paper tested the black hole feedback models of the EAGLE, SIMBA, and TNG100 cosmological simulations to evaluate their underlying physics by studying their radio AGN fractions.
+- Specifically they look at the fraction of galaxies F<sub>AGN</sub> that are radio AGNs with an Eddington ratio λ > λ<sub>c</sub>, where λ<sub>c</sub> = 10<sup>-3</sup>, as a function of M<sub>star</sub>
+- None of the three models predict F<sub>AGN</sub> trends that are in line with the observations. The model-predicted F<sub>AGN</sub> curves fail to recreate the strong observed dependence on M<sub>star</sub>
+- The simulations almost always predict F<sub>AGN</sub>(M<sub>star</sub>) curves with negative slopes while observations predict positive slopes of ~1.03 or ~0.85 for quiescent and
+for star-forming galaxies respectively.
+- SIMBA consistently predicts higher values of F<sub>AGN</sub> than TNG100 and EAGLE values higher still across the entire stellar mass range.
+- The simulations generally either overestimate or underestimate the amount of radio-mode feedback. This may be because they possess nuclear gas densities that differ from those typically observed in real galaxies, or because similar gas densities do not trigger radio AGN activity in the simulations.
+
 ## 2026-03-03: Shashanth
 
 Discussed Papers: 
@@ -71,7 +92,7 @@ Discussed Papers:
 - These systems can eventually evolve into compact object mergers detectable through gravitational waves, providing a plausible formation channel for asymmetric mergers like GW190814.
 - The study links observed X-ray binaries to future gravitational wave sources, highlighting how electromagnetic observations of HMXBs can help constrain the evolutionary pathways of compact binary mergers.
 
-[The possible accretion discs of GN-z11 at redshift 𝑧 = 10.6, MoM-z14 at 𝑧 = 14.44 and other high redshift objects](https://arxiv.org/pdf/2509.05459) (Fabian et al.,02-2026)
+[The possible accretion discs of GN-z11 at redshift 𝑧 = 10.6, MoM-z14 at 𝑧 = 14.44 and other high redshift objects](https://arxiv.org/pdf/2509.05459) (Fabian et al., 02-2026)
 
 - JWST observations of extremely high redshift AGN show UV spectra whose slopes are consistent with emission from standard accretion discs, suggesting that black hole accretion is already established in galaxies less than a few hundred million years after the Big Bang.
 - The observed spectral shapes of GN-z11 and MoM-z14 resemble those of stellar mass black holes in the soft accretion state, implying disc dominated emission and suggesting relatively stable, thermal accretion flows rather than highly variable AGN activity.
