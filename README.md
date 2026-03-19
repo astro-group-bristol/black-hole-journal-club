@@ -23,6 +23,9 @@ To generate additional entries for the rota, use `scripts/rota.py`.
 | 2026-03-31 | Andy		   | 4.41 |
 | 2026-04-14 | Tom         | 4.41 |
 | 2026-04-21 | Teresa      | 4.41 |
+| 2026-04-28 | Belinda     | 4.41 |
+| 2026-05-05 | Shashanth   | 4.41 |
+| 2026-05-12 | Thomas      | 4.41 |
 
 ## Interesting Conferences
 
