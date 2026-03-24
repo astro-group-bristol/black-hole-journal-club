@@ -55,7 +55,8 @@ Please open an issue with any conferences you think might be of interest for the
 | New Results in X-ray Astronomy | TBC | TBC | TBC |
 | [ERIS 2026 - XI European Radio Interferometry School](https://acme-eris-2026.sciencesconf.org) | 7-11 September | Noto, Scicily (Italy) | TBC |
 | [AGN on the Beach II: A Multi-scale view of jetted AGN](https://www.jb.man.ac.uk/AGNbeachII/) | 21-25 September 2026 | Diani, Kenya | 17 April |
-| [Many Faces of stellar-mass Black Holes](https://sites.google.com/view/bh-nepal-2026/home) | 12-16 October 2026 | Kathmandu, Nepal | 05 June | 
+| [Many Faces of stellar-mass Black Holes](https://sites.google.com/view/bh-nepal-2026/home) | 12-16 October 2026 | Kathmandu, Nepal | 05 June |
+| [The many tones of accretion - to the memory of Tommaso Belloni](https://indico.ict.inaf.it/event/3459) | 7-11 September 2026 | Cefalù, Sicily (Italy) | End of May |
 
 $^*$ Registration Only
 
