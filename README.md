@@ -1,4 +1,4 @@
-Please see below for the upcoming schedule and minute from this year for our Journal Club.
+Please see below for the upcoming schedule and minutes from this year for our Journal Club.
 If you would like to join this Journal Club (presenting is not compulsory) please email: darius.michienzi@bristol.ac.uk and use the subject: "BH Journal Club".
 
 We meet every Tuesday at:
@@ -19,7 +19,6 @@ To generate additional entries for the rota, use `scripts/rota.py`.
 
 | Date       | Presenter   | Room |
 |------------|-------------|------|
-| 2026-03-24 | Darius      | 4.41 |
 | 2026-03-31 | Andy		   | 4.41 |
 | 2026-04-14 | Tom         | 4.41 |
 | 2026-04-21 | Teresa      | 4.41 |
@@ -33,7 +32,6 @@ Please open an issue with any conferences you think might be of interest for the
 
 | Title | Dates | Location | Abstract Deadline |
 |------------|--------|------|------------|
-| [BlackHolistic 2026: black hole accretion and how it shapes the cosmos](https://blackholesoxford2026.web.ox.ac.uk/home) | 23-27 March 2026 | Oxford, UK | CLOSED |
 | [18th IACHEC meeting](https://iachec.org/2026-seeblick-pelham-germany/) | 20-23 April 2026 | Bavaria, Germany | 30 March |
 | [Massive Black Hole Spin Workshop](https://indico.ph.ed.ac.uk/event/385/) | 21-24 April 2026 | Edinburgh, UK | CLOSED |
 | [Torus 2026: Multi-wavelength approach to the AGN structures](https://astrophysics.jp/torus2026/index.html) | 18-22 May 2026 | Kyoto, Japan | *Suspended registration* |
@@ -61,6 +59,24 @@ Please open an issue with any conferences you think might be of interest for the
 $^*$ Registration Only
 
 ## Minutes
+
+## 2026-03-24 Darius
+
+Discussed Paper:
+[Effects of ultrafast outflows on X-ray time lags in active galactic nuclei](https://ui.adsabs.harvard.edu/abs/2024A%26A...692A..78X/abstract) (Yerong er al., 11-2024)
+
+- Using archival XMM-Newton data, they used UFO-resolved spectral-timing analysis of three AGNs with transient UFOs to investigate the potential influence of UFOs on X-ray time lags. 
+-  They showed that low-frequency hard lags become weak, accompanied by UFOs, in all three targets. Another three variable AGNs without UFOs indicate that suppressed low-frequency hard lags might be unrelated to flux variability.
+- They propose an additional time delay associated with UFOs or the inhibited energy and variability transfer between the disk and corona as explanations. They indicate that any analysis of X-ray time lags in AGNs must account for the potential effects of ionized absorbers if they are present.
+
+Presented Paper:
+[Unveiling the biconical geometry of the outflow in the ultraluminous X-ray source NGC 5204 X-1](https://arxiv.org/abs/2603.11922) (Caserta et al., 03-2026)
+
+- They analysed archival XMM-Newton data of the ultraluminous X-ray source NGC 5204 X-1, with the aim of studying the geometry of the accretion disc and the outflows. 
+- From the spectral analysis they propose a collisionally-ionised plasma (CIE) blueshifted to 0.3c and another component outflowing in opposite direction redshifted to 0.3c.These detections suggest a biconical structure of the outflow in analogy with previously detected Galactic super-Eddington accretors such as SS433. 
+- They show a more tentative detection of a photoionised plasma in the emission features moving towards the observer, which is attributed to a  thermal wind. 
+- The cone of CIE outflowing plasma might suggest super-Eddington accretion and shocks onto either a black hole or a magnetised neutron star
+powering this ULX.
 
 ## 2026-03-17 Biz
 
