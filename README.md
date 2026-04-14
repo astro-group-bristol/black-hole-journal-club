@@ -19,12 +19,13 @@ To generate additional entries for the rota, use `scripts/rota.py`.
 
 | Date       | Presenter   | Room |
 |------------|-------------|------|
-| 2026-03-31 | Andy		   | 4.41 |
-| 2026-04-14 | Tom         | 4.41 |
-| 2026-04-21 | Teresa      | 4.41 |
-| 2026-04-28 | Belinda     | 4.41 |
-| 2026-05-05 | Shashanth   | 4.41 |
-| 2026-05-12 | Thomas      | 4.41 |
+| 2026-04-14 | arXiv       | 4.41 |
+| 2026-04-21 | Tom         | 4.41 |
+| 2026-04-28 | Teresa      | 4.41 |
+| 2026-05-05 | Belinda     | 4.41 |
+| 2026-05-12 | Shashanth   | 4.41 |
+| 2026-05-19 | Thomas      | 4.41 |
+
 
 ## Interesting Conferences
 
@@ -60,10 +61,29 @@ $^*$ Registration Only
 
 ## Minutes
 
+## 2026-03-24 Andy
+
+Discussed Paper:
+[Measuring fundamental jet properties with multi-wavelength fast timing of the black hole X-ray binary MAXI J1820+070](https://arxiv.org/abs/2103.09318) (Tetarenko et al., 03-2026)
+
+- The paper presents simultaneous X-ray and radio observations of the black hole binary MAXI J1820+070 during its hard state, capturing rapid variability.
+- Strong correlated variability is detected across wavelengths, with measured time lags ranging from milliseconds (X-ray/optical) to minutes (radio/sub-mm), tracing how fluctuations propagate along the jet.
+- Using timing and Fourier analysis, the authors show that variability originates near the black hole and travels outward through the jet, providing a direct probe of jet structure and emission regions.
+- Modelling these lags constrains key jet properties, finding a highly relativistic, narrowly collimated jet that carries a significant fraction of the system’s accretion power.
+- The work demonstrates that time-domain analysis alone can robustly measure jet physics, offering a powerful alternative to traditional spectral modelling for studying accretion–ejection processes.
+
+Presented Paper: [Tracing Fe K X-ray reverberation lag in the energy-resolved spectra of Narrow-line Seyfert 1 galaxy Ton S180](https://arxiv.org/abs/2602.14197v1) (Roy et al., 02-2026)
+
+- The paper reports the first detection of a relativistic Fe K reverberation lag in the Narrow-Line Seyfert 1 galaxy Ton S180, using XMM-Newton observations.
+- A clear time delay (~117 s at low frequencies) is measured between the primary X-ray continuum and the reflected Fe K emission, interpreted as light-travel time between the corona and inner accretion disc.
+- The lag amplitude decreases at higher Fourier frequencies, consistent with standard reverberation behavior where shorter timescale variability probes smaller emitting regions.
+- Spectral modelling indicates a relatively narrow Fe K line and low black hole spin, suggesting the inner disc may not extend as close to the event horizon as in high-spin systems.
+- The results support a compact corona–disc geometry and demonstrate that Fe K reverberation can be detected even in sources where the line is weak, providing a tool to probe inner accretion physics in NLS1 galaxies.
+
 ## 2026-03-24 Darius
 
 Discussed Paper:
-[Effects of ultrafast outflows on X-ray time lags in active galactic nuclei](https://ui.adsabs.harvard.edu/abs/2024A%26A...692A..78X/abstract) (Yerong er al., 11-2024)
+[Effects of ultrafast outflows on X-ray time lags in active galactic nuclei](https://ui.adsabs.harvard.edu/abs/2024A%26A...692A..78X/abstract) (Yerong et al., 11-2024)
 
 - Using archival XMM-Newton data, they used UFO-resolved spectral-timing analysis of three AGNs with transient UFOs to investigate the potential influence of UFOs on X-ray time lags. 
 -  They showed that low-frequency hard lags become weak, accompanied by UFOs, in all three targets. Another three variable AGNs without UFOs indicate that suppressed low-frequency hard lags might be unrelated to flux variability.
