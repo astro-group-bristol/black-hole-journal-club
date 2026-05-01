@@ -19,7 +19,6 @@ To generate additional entries for the rota, use `scripts/rota.py`.
 
 | Date       | Presenter   | Room |
 |------------|-------------|------|
-| 2026-04-28 | Teresa      | 4.41 |
 | 2026-05-05 | Belinda     | 4.41 |
 | 2026-05-12 | Thomas      | 4.41 |
 | 2026-05-19 | Shashanth   | 4.41 |
@@ -35,8 +34,6 @@ Please open an issue with any conferences you think might be of interest for the
 
 | Title | Dates | Location | Abstract Deadline |
 |------------|--------|------|------------|
-| [18th IACHEC meeting](https://iachec.org/2026-seeblick-pelham-germany/) | 20-23 April 2026 | Bavaria, Germany | 30 March |
-| [Massive Black Hole Spin Workshop](https://indico.ph.ed.ac.uk/event/385/) | 21-24 April 2026 | Edinburgh, UK | CLOSED |
 | [Torus 2026: Multi-wavelength approach to the AGN structures](https://astrophysics.jp/torus2026/index.html) | 18-22 May 2026 | Kyoto, Japan | *Suspended registration* |
 | [IAU Symposium 406 - Future landascape of astrophysocal transients: novel approaches in theory and observations](https://iaus2026-transients.utu.fi/objectives/) | 18-22 May 2026 | Turku, Finland | CLOSED |
 | [The X-ray Universe 2026](https://www.cosmos.esa.int/web/xmm-newton/2026-symposium) [Other website](http://xrayuniverse.esa.int/) | 8-11 June 2026 | Elche, Spain | 5 June* |
@@ -62,6 +59,41 @@ Please open an issue with any conferences you think might be of interest for the
 $^*$ Registration Only
 
 ## Minutes
+
+## 2026-04-28 Teresa
+
+Discussed Papers:
+[The 0.9 Megasecond XRISM/Resolve Spectrum of the Seyfert-1 AGN NGC 4151](https://arxiv.org/abs/2604.16148) (Miller et al., 04-2026)
+
+- Using 14 XRISM/Resolve observations (893 ks total exposure), the paper presents very high quality spectrum for the Seyfert-1 galaxy NGC 4151.
+- The narrow Fe Kα emission complex requires contributions from both the torus and the optical broad-line region (BLR), with the preferred emissivity profile suggesting a vertically extended “bowl-like” geometry rather than a simple flat disk.
+- The smooth red wing of the Fe Kα line is best explained by Compton scattering from bound electrons in cold gas and/or dust, rather than requiring a warped disk or unusual inner geometry. This may provide indirect evidence for dust at the base of the BLR and in the torus.
+- The spectrum statistically prefers the inclusion of relativistic reflection from the inner accretion disk, extending down to about 3.2 rg, although the data alone do not strongly constrain black hole spin and some curvature may instead arise from scattering in complex wind zones.
+- Multiple outflow components are detected, including warm absorbers, fast winds, and ultra-fast outflows (UFOs). The slower absorbers are likely “failed winds” that fall back inward, while the UFOs may provide significant AGN feedback depending on their volume filling factor and duty cycle.
+
+[Time-resolved XRISM spectroscopy reveals the evolution and structure of the corona in MCG-6-30-15 ](https://arxiv.org/abs/2604.09761) (Wilkins et al., 04-2026)
+
+- Using coordinated XRISM, NuSTAR, and XMM-Newton observations, the paper performs a time-resolved study of the famous Seyfert galaxy MCG-6-30-15.
+- The spectra are well described by relativistic disk reflection around a rapidly spinning black hole with spin a > 0.93, where the observed variability is driven by changes in the luminosity, size, and motion of the X-ray corona rather than major changes in the disk itself.
+- For most of the observation, the corona remains compact within ~10 gravitational radii (rg), but a finite spatial extent is required to fully reproduce the reflection spectrum, supporting an extended rather than point-like corona.
+- During a bright X-ray flare, the corona was observed to expand to ~15 rg and accelerate upward away from the black hole, reaching a velocity of about 0.27c, consistent with vertical coronal evolution or the base of a jet-like outflow.
+- Short flux dips before and after the flare show the opposite behaviour: the corona collapsed to within ~2.5 rg, strengthening relativistic effects from the inner disk. The authors conclude that accounting for this strong spectral variability is essential for obtaining reliable black hole spin measurements from Fe Kα reflection spectroscopy.
+
+[A population-based approach to understanding radio AGN feedback with LOFAR: The LoTSS Deep Fields](https://arxiv.org/abs/2604.19865) (Pierce at al., 04-2026)
+
+- The paper investigates whether radio AGN jets provide enough kinetic power to regulate galaxy growth, improving on earlier work by using a physically motivated semi-analytic jet model rather than simple radio-luminosity scaling relations. This allows jet power estimates to include information such as source size and environment, not just radio brightness.
+- An initial analysis of 619 radio AGN from the Lockman Hole LoTSS Deep Field and International LOFAR Telescope data shows that the population is dominated by short-lived, lower-power radio sources, suggesting that many AGN spend most of their lifetime in relatively weak jet phases.
+- After correcting for the observational bias against short-lived sources, the study expands to a much larger sample of 5,187 radio AGN across the ELAIS-N1, Boötes, and Lockman Hole Deep Fields, covering redshifts up to z = 2.5.
+- From this sample, the authors derive the jet kinetic luminosity function and find an integrated kinetic power density of roughly 10³²–10³³ W Mpc⁻³ across cosmic time, with moderate positive evolution from z = 0–1 and little further evolution from z = 1–2.
+- These results are broadly consistent with cosmological feedback models and provide strong evidence that radio AGN feedback is energetically capable of offsetting radiative cooling in massive galaxies and clusters, supporting its central role in galaxy evolution across much of the Universe’s history.
+
+Presented Paper: [Tracing Active Galactic Nuclei Properties Through a Changing-look Event](https://arxiv.org/abs/2604.07561) (Carpenter et al., 04-2026)
+
+- The paper studies the changing-look AGN ZTF18abuamgo, which underwent a clear turn-on transition from a Seyfert Type 1.5 to Type 1.2, marked by the appearance and strong brightening of broad Balmer emission lines and a stronger blue optical continuum.
+- Using spectroscopy from 2004, 2022, and 2024 together with long-term optical and infrared photometry, the authors constrain the transition timescale to be as short as ~4 years (between 2018–2022), much shorter than the 18-year limit from spectroscopy alone.
+- The event is interpreted as a changing-state AGN rather than changing-obscuration, because the optical and mid-infrared light curves brighten together (rather than showing the anti-correlation expected from dust obscuration), indicating an intrinsic increase in accretion rate.
+- The Eddington ratio increased from 0.032 ± 0.005 to 0.08 ± 0.01, showing that the changing-look event was driven by a rapid rise in accretion onto the supermassive black hole rather than by a tidal disruption event or variable torus absorption.
+- Applying the Boltzmann plot method to the Balmer series for the first time in a changing-look AGN, the authors estimate broad-line region electron temperatures of ~11,800 K and derive a black hole mass of (5.0 ± 0.4) × 10⁷ M☉, finding that single-epoch black hole mass estimates remain reliable even during strong spectral variability.
 
 ## 2026-03-24 Andy
 
