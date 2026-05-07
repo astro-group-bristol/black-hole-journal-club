@@ -19,11 +19,10 @@ To generate additional entries for the rota, use `scripts/rota.py`.
 
 | Date       | Presenter   | Room |
 |------------|-------------|------|
-| 2026-05-05 | Darius      | 4.41 |
 | 2026-05-12 | Thomas      | 4.41 |
-| 2026-05-19 | Shashanth   | 4.41 |
+| 2026-05-19 | Belinda     | 4.41 |
 | 2026-05-26 | Biz         | 4.41 |
-| 2026-06-02 | Belinda     | 4.41 |
+| 2026-06-02 | Shashanth   | 4.41 |
 | 2026-06-09 | Andy        | 4.41 |
 | 2026-06-16 | Tom H       | 4.41 |        
 
@@ -59,6 +58,20 @@ Please open an issue with any conferences you think might be of interest for the
 $^*$ Registration Only
 
 ## Minutes
+
+## 2026-05-05
+
+Discussed Paper:
+
+[Unveiling the dynamics of the ultra-fast outflow in IRAS 13224-3809 with X-ray spectroscopy](https://arxiv.org/abs/2604.27061v1)
+
+Presented Paper:  [Is XRISM/Resolve probing a "raining" absorber in Mrk 509?](https://arxiv.org/abs/2605.02662) (Dadina er al., 05-2026)
+
+- The paper presents the high-resolution XRISM/Resolve spectrum of the Seyfert-1 AGN Mrk 509, combined with simultaneous XMM-Newton and NuSTAR observations to study the Fe K region 
+- They identified a narrow neutral Fe Kα core originating from distant material consistent with the dusty torus. Additionally, a broad emission component which is modeled using either a broad Gaussian or relativistic reflection obtaining that it must originate around 30−120 $r_g$ from the central SMBH.
+- While a pure relativistic line can statistically reproduce the curvature, it yields a primary photon index of Γ ∼ 1.5 − 1.6 which is quite flat. Conversely, a partial covering model retrieves a photon index Γ ∼ 1.7 − 1.8.
+- The modeling suggests the presence of an ionized partial absorber consistent with being inflowing at a high velocity of vin ≈ 11 000 km s$^{−1}$. If confirmed, the physical modeling places this absorber at
+r ≈ 1100 − 1500 $r_g$, consistent with a clumpy, fragmented flow—likely interpreted as “failed wind” clumps losing angular momentum and raining back toward the central black hole, possibly with a cometary-like shape.
 
 ## 2026-04-28 Teresa
 
