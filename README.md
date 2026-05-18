@@ -19,12 +19,12 @@ To generate additional entries for the rota, use `scripts/rota.py`.
 
 | Date       | Presenter   | Room |
 |------------|-------------|------|
-| 2026-05-12 | Thomas      | 4.41 |
-| 2026-05-19 | Belinda     | 4.41 |
+| 2026-05-19 | Thomas      | 4.41 |
 | 2026-05-26 | Biz         | 4.41 |
 | 2026-06-02 | Shashanth   | 4.41 |
-| 2026-06-09 | Andy        | 4.41 |
-| 2026-06-16 | Tom H       | 4.41 |        
+| 2026-06-09 | Belinda     | 4.41 |
+| 2026-06-16 | Andy        | 4.41 | 
+| 2026-06-23 | Tom H       | 4.41 |        
 
 
 ## Interesting Conferences
