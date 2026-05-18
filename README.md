@@ -19,8 +19,8 @@ To generate additional entries for the rota, use `scripts/rota.py`.
 
 | Date       | Presenter   | Room |
 |------------|-------------|------|
-| 2026-05-19 | Thomas      | 4.41 |
-| 2026-05-26 | Biz         | 4.41 |
+| 2026-05-19 | Biz         | 4.41 |
+| 2026-05-26 | Thomas      | 4.41 |
 | 2026-06-02 | Shashanth   | 4.41 |
 | 2026-06-09 | Belinda     | 4.41 |
 | 2026-06-16 | Andy        | 4.41 | 
