@@ -19,13 +19,12 @@ To generate additional entries for the rota, use `scripts/rota.py`.
 
 | Date       | Presenter   | Room |
 |------------|-------------|------|
-| 2026-05-19 | Biz         | 4.41 |
 | 2026-05-26 | Thomas      | 4.41 |
 | 2026-06-02 | Shashanth   | 4.41 |
 | 2026-06-09 | Belinda     | 4.41 |
 | 2026-06-16 | Andy        | 4.41 | 
 | 2026-06-23 | Tom H       | 4.41 |        
-
+|*Summer Break*|
 
 ## Interesting Conferences
 
@@ -33,8 +32,6 @@ Please open an issue with any conferences you think might be of interest for the
 
 | Title | Dates | Location | Abstract Deadline |
 |------------|--------|------|------------|
-| [Torus 2026: Multi-wavelength approach to the AGN structures](https://astrophysics.jp/torus2026/index.html) | 18-22 May 2026 | Kyoto, Japan | *Suspended registration* |
-| [IAU Symposium 406 - Future landascape of astrophysocal transients: novel approaches in theory and observations](https://iaus2026-transients.utu.fi/objectives/) | 18-22 May 2026 | Turku, Finland | CLOSED |
 | [The X-ray Universe 2026](https://www.cosmos.esa.int/web/xmm-newton/2026-symposium) [Other website](http://xrayuniverse.esa.int/) | 8-11 June 2026 | Elche, Spain | 5 June* |
 | [High Energy Astrophysics and Cosmology in the era of all-sky serveys](https://indico.global/event/16224/) | 15-19 June 2026 | Yerevan, Armenia | 31 March |
 | [Breaking the limits 2026 - Super Eddington Accretion onto Compact Objects](https://breakingthelimits.github.io/supereddington2026/) | 22-26 June 2026 | Cagliari, Sardinia, Italy | 31 March |
@@ -59,13 +56,23 @@ $^*$ Registration Only
 
 ## Minutes
 
-## 2026-05-05
+## 2026-05-19 Biz
+
+Presented Paper: [Spectroscopy of analogue black holes using simulation-based inference](https://arxiv.org/abs/2604.12800) (Solidoro et al., 04-2026)
+
+- The paper explores how analogue gravity experiments (e.g. fluid or quantum systems that mimic black hole spacetimes) can be used as test for black hole physics and curved-spacetime phenomena.
+- The authors model the spectral signatures produced by analogue black holes in realistic experimental conditions where the signal is contaminated by broadband stochastic noise, making standard fitting techniques difficult to apply.
+- To overcome this, the study applies simulation-based inference (SBI) methods, which use large ensembles of simulations to infer physical parameters directly from noisy spectra without requiring an explicit likelihood function.
+- The analysis demonstrates that SBI can successfully recover key properties of the analogue spacetime and boundary conditions even when the spectral features are weak or strongly noise-dominated.
+- The work shows that modern machine-learning-driven inference techniques could become powerful tools for precision spectroscopy of analogue black holes, with broader implications for testing ideas in black hole physics and strong gravity in controlled laboratory settings.
+
+## 2026-05-05 Darius
 
 Discussed Paper:
 
 [Unveiling the dynamics of the ultra-fast outflow in IRAS 13224-3809 with X-ray spectroscopy](https://arxiv.org/abs/2604.27061v1)
 
-Presented Paper:  [Is XRISM/Resolve probing a "raining" absorber in Mrk 509?](https://arxiv.org/abs/2605.02662) (Dadina er al., 05-2026)
+Presented Paper: [Is XRISM/Resolve probing a "raining" absorber in Mrk 509?](https://arxiv.org/abs/2605.02662) (Dadina et al., 05-2026)
 
 - The paper presents the high-resolution XRISM/Resolve spectrum of the Seyfert-1 AGN Mrk 509, combined with simultaneous XMM-Newton and NuSTAR observations to study the Fe K region 
 - They identified a narrow neutral Fe Kα core originating from distant material consistent with the dusty torus. Additionally, a broad emission component which is modeled using either a broad Gaussian or relativistic reflection obtaining that it must originate around 30−120 $r_g$ from the central SMBH.
