@@ -19,7 +19,6 @@ To generate additional entries for the rota, use `scripts/rota.py`.
 
 | Date       | Presenter   | Room |
 |------------|-------------|------|
-| 2026-05-26 | Thomas      | 4.41 |
 | 2026-06-02 | Shashanth   | 4.41 |
 | 2026-06-09 | Belinda     | 4.41 |
 | 2026-06-16 | Andy        | 4.41 | 
@@ -55,6 +54,16 @@ Please open an issue with any conferences you think might be of interest for the
 $^*$ Registration Only
 
 ## Minutes
+
+## 2026-05-26 Thomas
+
+Presented Paper: [Emulator-Based Inference of Cosmological Subgrid Models](https://ui.adsabs.harvard.edu/abs/2026arXiv260107306R/abstract) (Ramachandra et al., 01-2026)
+
+- The paper develops an emulator-based framework for constraining subgrid physics used in cosmological hydrodynamic simulations, including models of star formation, black hole growth, AGN feedback, supernova feedback, and galactic winds.
+- Full cosmological simulations for every parameter combination can be computationally expensive, so the authors train a statistical emulator that rapidly predicts simulation outputs across parameter space without rerunning expensive simulations.
+- The method is built around the HACC cosmological simulation framework, which combines gravity, gas dynamics, and baryonic physics to model large-scale structure formation while accounting for small-scale astrophysical processes.
+- Using Bayesian inference, the emulator can efficiently recover the combinations of subgrid parameters that best reproduce observational constraints, allowing the authors to quantify parameter degeneracies and uncertainties in galaxy formation models.
+- The work demonstrates that emulator-driven inference provides a scalable calibration of cosmological simulations.
 
 ## 2026-05-19 Biz
 
