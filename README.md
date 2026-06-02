@@ -3,7 +3,7 @@ If you would like to join this Journal Club (presenting is not compulsory) pleas
 
 We meet every Tuesday at:
 
-- **11:00 until 12:00 (UTC + 0)**
+- **11:00 until 12:00 (UTC + 1)**
 
 Check the group email for the room and the Zoom link.
 
@@ -19,10 +19,9 @@ To generate additional entries for the rota, use `scripts/rota.py`.
 
 | Date       | Presenter   | Room |
 |------------|-------------|------|
-| 2026-06-02 | Shashanth   | 4.41 |
-| 2026-06-09 |             | 4.41 |
+| 2026-06-09 | Tom H       | 4.41 |
 | 2026-06-16 | Andy        | 4.41 | 
-| 2026-06-23 | Tom H       | 4.41 |        
+| 2026-06-23 | Darius      | 4.41 |        
 |*Summer Break*|
 
 ## Interesting Conferences
@@ -54,6 +53,23 @@ Please open an issue with any conferences you think might be of interest for the
 $^*$ Registration Only
 
 ## Minutes
+
+## 2026-06-02 Shashanth
+
+Discussed Papers:
+
+[GWTC-5.0: Population Properties of Merging Compact Binaries](https://arxiv.org/abs/2605.27226) (LIGO Scientific Collaboration, 05-2026)
+
+[PixelPop: High Resolution Nonparameteric Inference of Gravitational-Wave Populations in Multiple Dimensions](https://arxiv.org/abs/2406.16813) (Heinzel et al., 07-2025)
+
+Presented Paper: [The XRISM measurements of the black-hole spin in Cyg X-1 are highly model-dependent](https://arxiv.org/abs/2605.24664) (Zdziarski et al., 05-2026)
+
+- The paper looks at recent XRISM observations of the black hole X-ray binary Cyg X-1 and test whether the high black hole spin inferred from relativistic reflection modelling is robust to the choice of spectral model.
+- They find that fitting the XRISM data with the relxill reflection model yields a near-maximal spin of a=0.998, consistent with previous analyses.
+- However, when using Comptonization-based reflection models relxillCp and reflkerrD, the inferred spin drops dramatically, with fits allowing very low spin values and, in some cases, being consistent with zero spin.
+- Joint fitting of the XRISM, NICER, and NuSTAR datasets ultimately finds that almost any spin value can be found, demonstrating that the spin measurement is strongly dependent on the assumed spectral model.
+- While the spin remains poorly constrained, all models agree that the accretion disk extends to within ~10 gravitational radii of the black hole and favour an outflowing coronal geometry, consistent with recent reverberation and X-ray polarization studies. 
+- The paper concludes that current XRISM spin measurements for Cyg X-1 should be interpreted with caution because of substantial model dependence.
 
 ## 2026-05-26 Thomas
 
