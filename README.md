@@ -54,6 +54,28 @@ $^*$ Registration Only
 
 ## Minutes
 
+## 2026-06-09 Tom H
+
+Discussed papers:
+
+[Disk reflection as the origin of the X-ray polarization of NGC 4151 with IXPE](https://arxiv.org/abs/2606.08862) by Kammoun et al. (06-2026)
+
+[Predictions for the X-ray polarisation modulation in Cygnus X-1 from reflection off the stellar companion and its wind](https://arxiv.org/abs/2606.04159) (Bert Vander Meulen et al., 06-2026)
+
+[A population-based approach to understanding radio AGN feedback with LOFAR: TheLoTSS Deep Fields](https://arxiv.org/pdf/2604.19865) (J. C. S. Pierce et al., 04-2026)
+
+Presented Paper: [A Radio Changing-state Jet in the Narrow-line Seyfert 1 Galaxy J1105+1452](https://iopscience.iop.org/article/10.3847/2041-8213/ae5e54/pdf) (Dou et al., 05-2026)
+Slides: [Journal_Club_Presentations-4.pdf](https://github.com/user-attachments/files/28759754/Journal_Club_Presentations-4.pdf)
+
+- From archival and survey radio data they identify a significant (26-fold) radio luminosity increase from a Narrow Line Seyfert 1 galaxy (NLSy1) and have Radio, MIR, Optical X-ray and Gamma-ray follow ups
+- Low radio flux at low frequencies - requires an absorption model. They test Free-free absorption but prefer Synchtrotron Self Absorption (SSA)
+- Large gap (1999-2017) between the two radio observation either side of the flux increase
+- MIR & Optical have steady reduction/fading in flux before a long stablised period from ~2014.
+- No detected gamma rays present but they are expected for Blazars so possible the photon-field is not yet strong enough for inverse-Compton.
+- From equipartition assumptions, they have a young mildly relativstic outflow in circumnuclear region with significant flux enhancement from relativistic beaming
+- X-ray spectrum is steady and unchanging but very steep - $$\Gamma = 3.0$$ - so is still dominated by accretion disk and/or corona.
+- Jet emerges shortly after stabilization of primary accretion flow.
+
 ## 2026-06-02 Shashanth
 
 Discussed Papers:
