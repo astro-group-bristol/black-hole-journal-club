@@ -19,7 +19,6 @@ To generate additional entries for the rota, use `scripts/rota.py`.
 
 | Date       | Presenter   | Room |
 |------------|-------------|------|
-| 2026-06-16 | Andy        | 4.41 | 
 | 2026-06-23 | Darius      | 4.41 |        
 |*Summer Break*|
 
@@ -29,8 +28,6 @@ Please open an issue with any conferences you think might be of interest for the
 
 | Title | Dates | Location | Abstract Deadline |
 |------------|--------|------|------------|
-| [The X-ray Universe 2026](https://www.cosmos.esa.int/web/xmm-newton/2026-symposium) [Other website](http://xrayuniverse.esa.int/) | 8-11 June 2026 | Elche, Spain | 5 June* |
-| [High Energy Astrophysics and Cosmology in the era of all-sky serveys](https://indico.global/event/16224/) | 15-19 June 2026 | Yerevan, Armenia | 31 March |
 | [Breaking the limits 2026 - Super Eddington Accretion onto Compact Objects](https://breakingthelimits.github.io/supereddington2026/) | 22-26 June 2026 | Cagliari, Sardinia, Italy | 31 March |
 | [Simulation based inference for Galaxy Evolution 2026](https://sbi-galev.github.io/2026/) | 23-26 June 2026 | Cambridge UK | 22 May* |
 | [Supermassice Black Holes and Blue Notes ](https://sites.google.com/view/smbh2026/home) | 29-3 June\July 2026 | Montreal, Canada | CLOSED |
@@ -52,6 +49,16 @@ Please open an issue with any conferences you think might be of interest for the
 $^*$ Registration Only
 
 ## Minutes
+
+## 2026-06-16 Andy
+
+Presented Paper: [Disk reflection as the origin of the X-ray polarization of NGC 4151 with IXPE](https://arxiv.org/abs/2606.08862) (Kammoun et al., 06-2026)
+
+- The paper looks at a polarimetric study of the type-1 AGN NGC 4151, using two long IXPE observations from 2022 and 2024, supported by simultaneous XMM-Newton and NuSTAR spectroscopy. 
+- IXPE measures a polarisation degree of ~6–7% above 4 keV, with a polarisation angle parallel to the radio jet, and a distinct low-energy component with a different angle, indicating at least two polarised components in the 2–8 keV band. 
+- Prior work had interpreted the hard X-ray polarisation as evidence for a slab-like corona. This paper tests an alternative scenario in which the observed polarisation is produced predominantly by relativistic reflection from the accretion disk illuminated by a compact, lamp-post-like corona. 
+- Fitting the IXPE Stokes spectra with a lamp-post plus distant-torus geometry, the data requires a low coronal height (< 9 $r_g$) and a relatively large torus opening angle (> 45°), while disk reflection contributes roughly 20% of the 2–8 keV flux. A soft polarised component carries only ~1–5% of the flux but shows a high polarisation degree (above 10%) and a polarisation angle of around 20°. 
+- The same configuration provides acceptable fits to the 0.4–79 keV XMM-Newton and NuSTAR spectra, demonstrating that disk reprocessing by a compact corona can simultaneously account for both the polarisation and broadband spectral properties of NGC 4151. 
 
 ## 2026-06-09 Tom H
 
