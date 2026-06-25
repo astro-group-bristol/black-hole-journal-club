@@ -18,8 +18,7 @@ Check the group email for the room and the Zoom link.
 To generate additional entries for the rota, use `scripts/rota.py`.
 
 | Date       | Presenter   | Room |
-|------------|-------------|------|
-| 2026-06-23 | Darius      | 4.41 |        
+|------------|-------------|------|       
 |*Summer Break*|
 
 ## Interesting Conferences
@@ -28,8 +27,6 @@ Please open an issue with any conferences you think might be of interest for the
 
 | Title | Dates | Location | Abstract Deadline |
 |------------|--------|------|------------|
-| [Breaking the limits 2026 - Super Eddington Accretion onto Compact Objects](https://breakingthelimits.github.io/supereddington2026/) | 22-26 June 2026 | Cagliari, Sardinia, Italy | 31 March |
-| [Simulation based inference for Galaxy Evolution 2026](https://sbi-galev.github.io/2026/) | 23-26 June 2026 | Cambridge UK | 22 May* |
 | [Supermassice Black Holes and Blue Notes ](https://sites.google.com/view/smbh2026/home) | 29-3 June\July 2026 | Montreal, Canada | CLOSED |
 | [AGN Feedback Across All Scales and Time](https://www.eso.org/sci/meetings/2026/AGN-FAAST.html) | 6-10 July 2026 | Garching (Munich), Germany | 15 April* |
 | [The many scales of galaxy environments](https://astro.dur.ac.uk/ascona/) | 13-17 July 2026 | Ascona, Swizerland | 30 April* |
@@ -50,6 +47,31 @@ $^*$ Registration Only
 
 ## Minutes
 
+## 2026-06-16 Darius
+
+Discussed papers:
+
+[XRISM Time-resolved Fe Kα Spectroscopy of NGC 4395: Time-variable Inner-disk Emission](https://arxiv.org/abs/2606.21180) (Kawamuro et al., 06-2026)
+
+- The paper looks at the first XRISM observation of the low-mass AGN NGC 4395 complemented by a simultaneous NuSTAR observation.
+- The continuum was constrained by jointly fitting the XRISM/Resolve (2–12 keV) and NuSTAR (3–30 keV) spectra while excluding the Fe K band 
+- The time-averaged Resolve spectrum revealed an unresolved neutral Fe Kα core and an adjacent redward wing, which was well reproduced by a relativistically broadened Fe K component
+- Time-resolved spectroscopy showed that the diskline profile varied significantly over the 400 ks observation. This evolution can be interpreted as changes in the inner radius of the line-emitting region, together with a possible inclination modulation with a period of 210 ks
+
+[Reverberation in the Narrow Fe Kα Line in the Seyfert Galaxy NGC 4151 with XRISM](https://arxiv.org/abs/2606.23384) (Miller et al., 06-2026)
+
+- The paper looks at reverberation in the narrow Fe Kα line of the Seyfert-1.5 galaxy NGC 4151. High-resolution X-ray spectra and time lags in low-resolution X-ray data suggest that part of the line originates close to the optical broad line region (BLR)
+- They report on a sequence of nine XRISM observations of NGC 4151, obtained every other day in 2024, with Swift monitoring to sample the driving flux before, during, and after the sequence.
+- Modelling the Swift continuum and XRISM line flux trends gives a lag consistent with prior measurements and direct spectral fits, supporting the idea that part of the line tracks BLR-scale gas.
+
+Presented Paper: [Unveiling the dynamics of the ultra-fast outflow in IRAS 13224-3809 with X-ray spectroscopy](https://arxiv.org/abs/2604.27061v1) (Condò et al., 04-2026)
+
+- The paper looks at a systematic, time and flux-resolved reanalysis of the full 2016 XMM-Newton (1.5 Ms) and NuSTAR (500 ks) datasets, equal-count spectral selections to explore conflicting results over the nature of the source's ultra-fast outflow (UFO)
+- Three spectral models — photo-ionized absorption, broad emission, and relativistic reflection are uniformly applied to all intervals, confirming a strong, variable outflow with velocities exceeding 0.2c
+- Models including absorption consistently show a velocity-luminosity correlation of the UFO. When emission or reflection components are included, the significance of the absorption features decreases but significant UFO detections remain in most intervals.
+- There is clear evidence for acceleration of the wind in response to X-ray flares, with the outflow carrying momentum and kinetic power sufficient to drive efficient AGN feedback. The energetics favours magnetic driving, analogous to coronal mass ejections, over radiative acceleration.
+- The results reconcile contrasting previous claims, with the observed UFO variability and structure consistent with a multiphase, clumpy wind produced by thermal and hydrodynamic instabilities, with magnetic reconnection providing the rapid acceleration mechanism.
+
 ## 2026-06-16 Andy
 
 Presented Paper: [Disk reflection as the origin of the X-ray polarization of NGC 4151 with IXPE](https://arxiv.org/abs/2606.08862) (Kammoun et al., 06-2026)
@@ -64,7 +86,7 @@ Presented Paper: [Disk reflection as the origin of the X-ray polarization of NGC
 
 Discussed papers:
 
-[Disk reflection as the origin of the X-ray polarization of NGC 4151 with IXPE](https://arxiv.org/abs/2606.08862) by Kammoun et al. (06-2026).
+[Disk reflection as the origin of the X-ray polarization of NGC 4151 with IXPE](https://arxiv.org/abs/2606.08862)  (Kammoun et al., 06-2026)
 
 [Predictions for the X-ray polarisation modulation in Cygnus X-1 from reflection off the stellar companion and its wind](https://arxiv.org/abs/2606.04159) (Bert Vander Meulen et al., 06-2026).
 
