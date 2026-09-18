@@ -46,33 +46,33 @@ def format_rota(rota: dict[datetime.date, str]) -> str:
 
 if __name__ == "__main__":
     members = [
-        "Tom",
-        "Jiachen",
-        "Fergus",
+        "Tom H",
         "Gloria",
         "Belinda",
         "Darius",
+        "Thomas B",
         "Anantanarayanan",
         "Andy",
+        "Jiachen",
         "Biz",
         "Shashanth",
-        "Teresa"
+        "Teresa",
+        "Yimin",
     ]
     exclude_from_rota = [
         "Anantanarayanan",
         "Gloria",
-        "Fergus"
+        "Jiachen"
     ]
     # needed a random seed so that either andy, tom or fergus was the first to
     # present
-    random.seed(42 + 11)
+    random.seed(0)
     rota = assemble_rota(
         members,
-        datetime.date(2026, 9, 15),
+        datetime.date(2026, 9, 22),
         len(members) - len(exclude_from_rota),
         exclude=exclude_from_rota,
     )
 
     print(format_rota(rota))
 
-# %%
