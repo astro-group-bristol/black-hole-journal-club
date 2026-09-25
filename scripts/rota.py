@@ -62,7 +62,6 @@ if __name__ == "__main__":
     exclude_from_rota = [
         "Anantanarayanan",
         "Gloria",
-        "Jiachen"
     ]
     # needed a random seed so that either andy, tom or fergus was the first to
     # present
