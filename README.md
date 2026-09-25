@@ -5,7 +5,7 @@ We meet every Tuesday at:
 
 - **11:00 until 12:00 (UTC + 1)**
 
-Check the group email for the room and the Teams invite.
+Check the group email for the room and the Zoom link.
 
 ## Agenda
 
@@ -19,8 +19,6 @@ To generate additional entries for the rota, use `scripts/rota.py`.
 
 | Date       | Presenter   | Room |
 |------------|-------------|------|       
-| 2026-09-15 |*Summer catch up*| 3.30 |
-| 2026-09-22 | Darius      | 3.30 |
 | 2026-09-29 | Shashanth   | 3.30 |
 | 2026-10-06 | Andy        | 3.29 |
 | 2026-10-13 | Biz         | 4.41 |
@@ -30,16 +28,12 @@ To generate additional entries for the rota, use `scripts/rota.py`.
 | 2026-11-10 | Teresa      | 3.30 |
 | 2026-11-17 | Yimin       | 3.30 |
 
-
-
 ## Interesting Conferences
 
 Please open an issue with any conferences you think might be of interest for the group and should be added to the list below. 
 
 | Title | Dates | Location | Abstract Deadline |
-|------------|--------|------|------------|
-| [ERIS 2026 - XI European Radio Interferometry School](https://acme-eris-2026.sciencesconf.org) | 7-11 September | Noto, Scicily (Italy) | TBC |
-| [AGN on the Beach II: A Multi-scale view of jetted AGN](https://www.jb.man.ac.uk/AGNbeachII/) | 21-25 September 2026 | Diani, Kenya | 17 April |
+|-------|-------|----------|-------------------|
 | [Many Faces of stellar-mass Black Holes](https://sites.google.com/view/bh-nepal-2026/home) | 12-16 October 2026 | Kathmandu, Nepal | 05 June |
 | [The many tones of accretion - to the memory of Tommaso Belloni](https://indico.ict.inaf.it/event/3459) | 7-11 September 2026 | Cefalù, Sicily (Italy) | End of May |
 | [NewAthena SWG2 Meeting](https://swg2meeting.com/#registration) | 25-29 January 2027 | Noordwijk The Netherlands | 23 October |
@@ -47,6 +41,16 @@ Please open an issue with any conferences you think might be of interest for the
 $^*$ Registration Only
 
 ## Minutes
+
+### 2026-09-15 Darius
+
+Presented Paper: [Spinning Between Models: Continuum and Reflection Constraints in the Intermediate States of GRS 1716-249 and GRS 1739-278](https://arxiv.org/abs/2609.13372) (Tausch et al. 09-2026)
+
+- The paper looks at joint continuum and reflection spin fits for two black hole X-ray binaries, GRS 1716-249 and GRS 1739-278, using paired Swift/XRT and NuSTAR observations from their intermediate states, chosen because this state balances soft-band flux (continuum) against hard-band flux (reflection).
+- Both sources are jointly fit with kerrbb and relxillCp, linking or separately varying the spin parameter between the two components, with the parameter space explored via MCMC.
+- GRS 1716 strongly favours a high spin, while the GRS 1739 data allow high- and low-spin solutions with nearly identical fit statistics.
+- Parameter-stepping shows this comes from multidimensional parameter covariance rather than a simple degeneracy. Coordinated changes across mass, distance, accretion rate, hardening factor, inclination, and the reflection parameters let very different configurations fit almost equally well, and in the low-spin branch the emissivity breaking radius approaches the inner disk radius and drives the inner emissivity index to an extreme value, which the authors read as a parameterisation artefact rather than real evidence for low spin.
+- Energy-band tests show the Fe band gives the strongest direct handle on spin, the Compton hump mainly constrains the other reflection parameters, and the soft band anchors the continuum. Removing the Fe band costs the most spin sensitivity and can flip which solution the fit prefers.
 
 ### 2026-09-15 *Summer catch up*
 
@@ -71,4 +75,3 @@ Discussed papers:
 [Black Hole Spin in X-ray Binaries: Giving Uncertainties an ](https://arxiv.org/abs/2010.11948) (Salvesen & Miller, 11-2020)
 - The paper looks at why the two established spin measurement techniques — disk continuum fitting and iron line modelling — often yield conflicting results. The key issue is that continuum fitting effectively treats the colour correction factor $f_{\rm col}$ as a known quantity, despite it being poorly constrained; an uncertainty of $\pm 0.2$-$0.3$ in $f_{\rm col}$ dominates the spin error budget in most cases.
 - Plausible departures from the standard $f_{\rm col}$ values can bring the discrepant spin measurements from the two methods into agreement, suggesting the tension is a systematic modelling issue rather than a fundamental conflict.
-
