@@ -24,7 +24,7 @@ To generate additional entries for the rota, use `scripts/rota.py`.
 | 2026-10-13 | Biz         | 4.41 |
 | 2026-10-20 | Thomas B    | 3.30 |
 | 2026-10-27 | Belinda     | 3.30 |
-| 2026-11-03 | Tom H       | 4.41 |
+| 2026-11-03 | Tom H       | *online* |
 | 2026-11-10 | Teresa      | 3.30 |
 | 2026-11-17 | Yimin       | 3.30 |
 
@@ -42,7 +42,17 @@ $^*$ Registration Only
 
 ## Minutes
 
-### 2026-09-15 Darius
+### 2026-09-29 Shashanth
+
+Presented Paper: [Broad-band spectral-timing: simultaneous NICER and HXMT observations reveal an anticorrelation between the softest and hardest X-ray fluxes in MAXI J1820+070](https://arxiv.org/abs/2609.27608) (Bollemeijer, Uttley, & You, 09-2026)
+
+- The paper looks at simultaneous NICER and Insight-HXMT spectral-timing of the BH XRB MAXI J1820+070 across the 0.3-250 keV band, to study how lags and coherence between energy bands depend on Fourier frequency and on the reference band chosen.
+- At low frequencies (timescales > 50 s), the softest (< 1 keV) and hardest (> 80 keV) X-ray fluxes are anti-correlated, with phase lags of $|\pi|$ rad, accompanied by a drop in coherence that partially recovers at the highest energies.
+- The anti-correlation only shows up using a soft reference band below ~1 keV. With harder reference bands, lags stay near zero up to 250 keV (though coherence still drops gradually above ~30-50 keV), and the energy at which the lag switches from 0 to $|\pi|$ rad scales roughly linearly with the reference-band energy.
+- Two single-component explanations are found wanting: a coronal cut-off modulated by seed-photon flux should also anti-correlate the soft coronal power-law with the hard band, which isn't seen, and a pivoting power-law should produce anti-correlation over a broad range around the pivot point, not just between the extremes, making it unlikely.
+- The explanation they find most plausible, though still speculative, is a hybrid plasma, where a non-thermal electron tail producing the >80 keV emission exchanges energy with the disc through an unknown mechanism while staying partly decoupled from the thermal corona. This would also explain the coherence drop and the reference-band dependence via a varying disc/soft-power-law mix below 1 keV.
+
+### 2026-09-22 Darius
 
 Presented Paper: [Spinning Between Models: Continuum and Reflection Constraints in the Intermediate States of GRS 1716-249 and GRS 1739-278](https://arxiv.org/abs/2609.13372) (Tausch et al. 09-2026)
 
