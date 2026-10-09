@@ -19,11 +19,9 @@ To generate additional entries for the rota, use `scripts/rota.py`.
 
 | Date       | Presenter   | Room |
 |------------|-------------|------|       
-| 2026-09-29 | Shashanth   | 3.30 |
-| 2026-10-06 | Andy        | 3.29 |
 | 2026-10-13 | Biz         | 4.41 |
 | 2026-10-20 | Thomas B    | 3.30 |
-| 2026-10-27 | Belinda     | 3.30 |
+| 2026-10-27 | Jiachen     | 3.30 |
 | 2026-11-03 | Tom H       | *online* |
 | 2026-11-10 | Teresa      | 3.30 |
 | 2026-11-17 | Yimin       | 3.30 |
@@ -41,6 +39,31 @@ Please open an issue with any conferences you think might be of interest for the
 $^*$ Registration Only
 
 ## Minutes
+
+### 2026-10-06 Andy
+
+Discussed papers: 
+
+[Beyond Disk Truncation: X-ray Reverberation Signatures of an Outflowing Corona](https://arxiv.org/abs/2609.21732) (Quin et al,. 09-2026)
+- The paper looks at the spectral and timing signatures of a mildly relativistic outflowing corona in BH XRBs, an alternative to disk truncation for explaining the hard spectra, weak reflection and higher than expected polarisation degree of the hard state.
+- They use Monte Carlo radiative-transfer simulations of a truncated thin disk and an ellipsoidal corona with a prescribed bulk outflow velocity, calculating the Comptonised continuum, the disk reflection and the lag-frequency spectra for different outflow velocities and truncation radii.
+- Increasing the outflow velocity reduces the reflection fraction through relativistic beaming, as fewer Comptonised photons irradiate the disk.
+- For $\beta \lesssim 0.5$, the high-frequency soft lag is only weakly affected by the outflow velocity. Increasing the truncation radius instead shifts the zero-crossing frequency $\nu_0$ to much lower frequencies, so the timing properties can help distinguish the two scenarios.
+- Applied to MAXI J1820+070, the unusual $R$–$\Gamma$ anti-correlation during the plateau phase is qualitatively consistent with a contracting corona with increasing bulk velocity. Disk recession alone would predict the opposite evolution of $\nu_0$. Future polarisation calculations will provide an additional test.
+
+[XClass: An Automated Multiwavelength Machine-Learning Pipeline for Classification of Extragalactic X-ray Sources. I. Pipeline Description](https://arxiv.org/abs/2610.00459) (Rangelov et al,. 09-2026)
+- The paper looks at XClass, a machine-learning pipeline for classifying the many extragalactic X-ray point sources detected by Chandra in nearby galaxies that currently lack a classification. Sources are sorted into seven classes: AGN, LMXBs, HMXBs, CVs, low- and high-mass foreground stars, and SNRs.
+- The main challenge is photometric heterogeneity. The training sources are mostly Galactic with PanSTARRS and 2MASS photometry, while the extragalactic targets need HST imaging in a different filter system.
+- This is solved with an SED translation. Class-appropriate spectral models are fitted to each training source and convolved through the HST filter curves, giving synthetic magnitudes in a common feature space.
+- The classifier is an asymmetric two-stage Random Forest. Stage 1 separates AGN, X-ray binaries, SNRs and stars, then Stage 2 splits the X-ray binaries into LMXBs and HMXBs, using the Stage 1 probabilities as extra features. The features are X-ray hardness ratios, SED-translated HST colours and X-ray-to-optical flux ratios.
+- On the optical baseline sample (sources with at least one optical magnitude), it reaches 99.6% accuracy and a balanced accuracy of 0.90, and is well calibrated. The pipeline is modular and generalisable to any HST filter configuration, and will be applied to M31 and M33 in a companion paper.
+
+Presented Paper: [Disk truncation triggers relativistic jet launching of a highly accreting supermassive black hole](https://arxiv.org/abs/2609.27057) (Noda et al., 09-2026)
+- The paper looks at how powerful jets are launched in highly accreting AGN, where the cold, geometrically-thin disk should not be able to sustain the large-scale magnetic fields needed for the Blandford–Znajek mechanism. They use contemporaneous XRISM and VLBI (GMVA, VLBA and EAVN) observations of the broad-line radio galaxy 3C120, which has $L/L_{\rm Edd}$ of 0.1–0.2, to probe the inner accretion flow and the jet base together.
+- The XRISM spectrum requires a relativistically broadened Fe K$\alpha$ line on top of the thermal Comptonisation continuum and the narrow lines from the BLR and the torus. This is the first high-resolution view of the line profile in 3C120, as earlier CCD spectra could not separate it from the narrow lines and disk-wind features.
+- The line profile puts the inner edge of the cold disk at 20 $R_g$, with the region inside replaced by a hot, geometrically-thick flow, consistent with the hard continuum ($\Gamma = 1.8$). This is robust to the choice of reflection model and electron temperature. The spin is not constrained, as the inner radius lies well outside the ISCO.
+- Combining the GMVA 86 GHz image with the VLBA and EAVN images resolves the jet collimation profile, which is parabolic ($R_{\rm jet} \propto z^{0.61}$) in the inner region. Extrapolating this to the horizon gives a jet radius of $\lesssim 7\,R_g$, comparable to or narrower than the hot flow. A small viewing angle (< 19°, from the superluminal motion) and the radio core-shift effect would both further support this.
+- This points to the jet being launched from the hot, geometrically-thick flow rather than the cold thin disk, possibly via the Blandford–Znajek process. The jet magnetic flux is consistent with the maximum sustainable on the horizon, and the hot flow can advect such a flux. If this geometric transition is common in highly accreting systems, an inner hot flow would be necessary but not sufficient for powerful jets.
 
 ### 2026-09-29 Shashanth
 
