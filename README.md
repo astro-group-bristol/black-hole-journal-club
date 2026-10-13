@@ -40,6 +40,39 @@ $^*$ Registration Only
 
 ## Minutes
 
+### 2026-10-13 Biz
+
+Discussed Papers:
+
+[Disk Structure May Determine AGN Variability and Explain the Accretion Disk Size Problem: No Broad Line Region Required](https://arxiv.org/abs/2610.12462) (Secunda et al., 10-2026)
+- Their simulated disc came out thicker on one side, and there the UV/optical lags run 3–5 times longer than light travel and barely follow the X-rays.
+- Answers depend on disk density profile.
+
+[Quasi-periodic eruption spectral-timing: EMRIs crossing warped accretion disks](https://arxiv.org/abs/2610.10110) (Chakraborty et al., 10-2026)
+-  QPE paper on an orbiter crossing a warped disc.
+-  eRO-QPE2 fits six different solutions about equally well.
+-  Looks at Edge-on and top-down view on masses crossing a disk for an eruption
+
+[NASA ASTRA White Paper : A Chandra Successor in the 2030s](https://arxiv.org/abs/2610.00475) (Reynolds et al., 10-2026)
+- Chandra successor telescope with >10x higher sensitivity and >50x higher survey speed
+- Study AGN & Stellar Feedback; mapping Temperature profiles & structure of outflows in GCs
+- Stellar activity affecting exoplanet atmospheres
+- SMBHs binaries and mergers, transients
+
+[An X-ray Extremely wide-field Spectroscopic Surveyor (XESS, or "chess")](https://arxiv.org/abs/2609.38321) (Meksym et al., 09-2026)
+
+Presented Paper:
+[IceCube Real-time Searches for High-energy Neutrinos Coincident with LIGO/Virgo/KAGRA Gravitational-Wave Alerts in O4a](https://arxiv.org/pdf/2606.13762) (IceCube Collaboration, 06-2026)
+- IceCube; an Antarctic experiment to detect Cherenkov light from neutrinos. It uses 86 'strings' (holes drilled into ice) with 60 optical detectors each.
+- Neutrinos & GW events from kilonova, binary black holes (in dense environment)
+- Neutrino localisation is better than for GW events
+- Methods to determine event coincidence - methods have inconsistencies:
+  - Unbinned maximum Likelihood - assigning probabilities to neutrinos being background vs source (See paper eqn 1)
+  - Low Latency Algorithm for Multi-messenger Astrophysics (LLAMA) - Test statistic from weighted likelihoods of each model
+- On a population level - no evidence of significant neutrino emission from mergers.
+- Future lower latency GW measurements can help the multi-messenger connection.
+
+
 ### 2026-10-06 Andy
 
 Discussed papers: 
