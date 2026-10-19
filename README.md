@@ -33,7 +33,8 @@ Please open an issue with any conferences you think might be of interest for the
 |-------|-------|----------|-------------------|
 | [Many Faces of stellar-mass Black Holes](https://sites.google.com/view/bh-nepal-2026/home) | 12-16 October 2026 | Kathmandu, Nepal | 05 June |
 | [The many tones of accretion - to the memory of Tommaso Belloni](https://indico.ict.inaf.it/event/3459) | 7-11 September 2026 | Cefalù, Sicily (Italy) | End of May |
-| [NewAthena SWG2 Meeting](https://swg2meeting.com/#registration) | 25-29 January 2027 | Noordwijk The Netherlands | 23 October |
+| [NewAthena SWG2 Meeting](https://swg2meeting.com/#registration) | 25-29 January 2027 | Noordwijk, The Netherlands | 23 October |
+| [Vasto Accretion Meeting ](https://astro.dur.ac.uk/conferences/vam2027/) | 21 June - 2 July 2027 | Vasto, Italy | Jan/Feb |
 
 $^*$ Registration Only
 
