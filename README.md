@@ -3,7 +3,7 @@ If you would like to join this Journal Club (presenting is not compulsory) pleas
 
 We meet every Tuesday at:
 
-- **11:00 until 12:00 (UTC + 1)**
+- **11:00 until 12:00 (UTC + 0)**
 
 Check the group email for the room and the Zoom link.
 
@@ -19,8 +19,8 @@ To generate additional entries for the rota, use `scripts/rota.py`.
 
 | Date       | Presenter   | Room |
 |------------|-------------|------|       
-| 2026-10-27 | Tom H.      | 3.30 |
-| 2026-11-03 | Jiachen     | *online* |
+| 2026-10-27 | Tom H       | 3.30 |
+| 2026-11-03 | Jiachen     | *online only* |
 | 2026-11-10 | Teresa      | 3.30 |
 | 2026-11-17 | Yimin       | 3.30 |
 
@@ -30,14 +30,41 @@ Please open an issue with any conferences you think might be of interest for the
 
 | Title | Dates | Location | Abstract Deadline |
 |-------|-------|----------|-------------------|
-| [Many Faces of stellar-mass Black Holes](https://sites.google.com/view/bh-nepal-2026/home) | 12-16 October 2026 | Kathmandu, Nepal | 05 June |
-| [The many tones of accretion - to the memory of Tommaso Belloni](https://indico.ict.inaf.it/event/3459) | 7-11 September 2026 | Cefalù, Sicily (Italy) | End of May |
+| [AUK community Meeting](https://www.agn-uk.org/events) | 14-15 December 2026 | Durham University, UK | TBC |
 | [NewAthena SWG2 Meeting](https://swg2meeting.com/#registration) | 25-29 January 2027 | Noordwijk, The Netherlands | 23 October |
 | [Vasto Accretion Meeting ](https://astro.dur.ac.uk/conferences/vam2027/) | 21 June - 2 July 2027 | Vasto, Italy | Jan/Feb |
 
 $^*$ Registration Only
 
 ## Minutes
+
+### 2026-10-20 Thomas B
+
+Discussed Papers:
+
+[Mapping the Contracting Corona in GS 1354-64 with Insight-HXMT and XRISM: Evolving X-ray Lags and Quenched Reflection across a Complete State Transition](https://arxiv.org/abs/2610.15569)
+
+- The paper looks at the 2025-26 outburst of the BH transient GS 1354-64, using near-simultaneous XRISM and Insight-HXMT observations to follow how the inner accretion geometry evolves across a complete state transition.
+- In the early hard-intermediate state the spectrum is dominated by a hot Comptonising corona with relativistically broadened reflection. As the outburst progresses, the corona cools, the photon index steepens ($\Gamma \gtrsim 2.5$) and the reflection, including the broad Fe K$\alpha$ line, is quenched, leaving a featureless disk-dominated continuum.
+- Type-C QPOs evolve from 0.25 Hz to 6.52 Hz, while the broadband time lags change from pronounced hard delays at low frequencies to near zero as the source softens.
+- Once the uncertainties are included, the lags show no significant monotonic correlation with the QPO frequency, photon index or fractional rms. The scatter suggests a competition between positive Comptonisation delays and negative thermal reverberation.
+- The spectral softening and QPO acceleration indicate a contracting corona, whether interpreted through Lense-Thirring precession or the TCAF paradigm. The timing properties, however, suggest a turbulent and inhomogeneous inner flow as the advancing Keplerian disk drives the source into the soft state.
+
+[Delving into the depths of NGC 3783 with XRISM VI. Evidence for a failed wind based on Fe xxv absorption line variability](https://arxiv.org/abs/2610.18429)
+
+- The paper looks at the variability of the prominent Fe XXV absorption trough in NGC 3783, using the continuous 10-day XRISM/Resolve observation. The absorption profile is split into five velocity intervals and their equivalent widths are measured in 19 time-resolved spectra.
+- Three of the velocity intervals show significant EW variability, and two of them respond differently to the low- and high-flux states. Time-dependent photoionisation modelling cannot reproduce the strongest variation, possibly because of uncertainties in the assumed initial equilibrium state, which prevent a precise density measurement.
+- Photoionisation calculations in the high-density limit give approximate constraints on the ionisation parameters. The low-velocity component shows a delayed inverse response, indicating a high ionisation parameter, and its short lag implies a high density and a distance upper limit of 0.05 pc.
+- The high-velocity component shows a positive response with a longer lag to the ionising continuum, implying a lower ionisation parameter and density, with a distance upper limit of 0.25 pc.
+- The low-velocity component is consistent with a failed wind. Its outflow velocity is below the local escape velocity, while the high-velocity component lies near the escape threshold. Together with the lower-ionisation failed wind detected in 2001, this supports a multiphase failed-wind scenario in the unobscured state of NGC 3783 over more than two decades.
+
+Presented Paper: [Exploring the observed properties of JWST Little Red Dots with cosmological simulations and dust radiative transfer](https://arxiv.org/abs/2609.34903)
+
+- The paper looks at the nature of JWST Little Red Dots (LRDs), compact $z \geq 4$ sources with a V-shaped continuum that show broad-line AGN signatures alongside weak X-ray and mid-IR emission. They test which LRD properties emerge naturally in simulations of massive AGN host galaxies and which need additional physics.
+- They post-process two cosmological zoom-in simulations of the same massive halo at $z = 6$–9, one with BH growth and AGN feedback (AGNfid) and one with only star formation and stellar feedback (SFonly). Using SKIRT, they build a forward-modelling framework exploring different dust models, dust-to-metal ratios and intrinsic AGN spectra, and apply the JWST LRD selection criteria to the mock spectra and images.
+- The AGNfid simulations were not designed to model LRDs, but naturally reproduce their V-shaped continua, compact morphologies, UV luminosities, attenuations, overmassive BHs, sub-Eddington accretion and Balmer break strengths.
+- Spectral decomposition shows the rest-UV continuum is dominated by stellar emission, while the optical continuum comes from a dust-attenuated AGN. Dust geometry and the AGN-to-stellar contribution drive the photometric differences between LRDs and Little Blue Dots.
+- The results suggest LRDs do not necessarily represent a distinct class of objects. Their defining properties can arise in massive AGN host galaxies from the interplay of stellar emission, an obscured central engine and dust geometry. Super-Eddington accretion, dust-free gas columns, evolved stellar populations and photoionisation modelling are still needed to test whether this reproduces the diversity of observed LRDs.
 
 ### 2026-10-13 Biz
 
