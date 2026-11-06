@@ -19,9 +19,15 @@ To generate additional entries for the rota, use `scripts/rota.py`.
 
 | Date       | Presenter   | Room |
 |------------|-------------|------|       
-| 2026-11-03 | Jiachen     | *online only* |
 | 2026-11-10 | Teresa      | 3.30 |
 | 2026-11-17 | Yimin       | 3.30 |
+| 2026-11-24 | Andy        | 3.30 |
+| 2026-12-01 | Shashanth   | 3.30 |
+| 2026-12-08 | Tom H       | 3.30 |
+| 2027-01-05 | Thomas B    | 3.30 |
+| 2027-01-12 | Darius      | 3.30 |
+| 2027-01-19 | Jiachen     | 3.30 |
+| 2027-01-26 | Biz         | 3.30 |
 
 ## Interesting Conferences
 
@@ -31,11 +37,36 @@ Please open an issue with any conferences you think might be of interest for the
 |-------|-------|----------|-------------------|
 | [AUK community Meeting](https://www.agn-uk.org/events) | 14-15 December 2026 | Durham University, UK | TBC |
 | [NewAthena SWG2 Meeting](https://swg2meeting.com/#registration) | 25-29 January 2027 | Noordwijk, The Netherlands | 23 October |
+| [NewAthena SCIENCE CONFERENCE](https://newathena.avcr.cz/) | 19-23 April 2027 | Prague, Czechia | 19 November |
 | [Vasto Accretion Meeting ](https://astro.dur.ac.uk/conferences/vam2027/) | 21 June - 2 July 2027 | Vasto, Italy | Jan/Feb |
 
 $^*$ Registration Only
 
 ## Minutes
+
+### 2026-11-03 Jiachen
+
+Discussed Papers:
+
+[Resolving a Clumpy Disk Wind in 4U 1957+115 with XRISM](https://arxiv.org/abs/2610.34478) (Draghis et al., 10-2026)
+
+- The paper looks at a XRISM/Resolve observation of the persistent BH candidate 4U 1957+115, giving the first detection of an intrinsic disk wind in this source through highly ionised Fe XXV and Fe XXVI absorption.
+- The absorption only becomes prominent in the last ~40 ks, despite the flux dropping by just ~5–10%. Ionisation changes alone can't explain this, which favours a clumpy, inhomogeneous wind.
+- The lines get narrower in shorter time slices, with the turbulent velocity falling from ~350 km/s to $\lesssim 70$ km/s. This suggests the broad lines in longer exposures are partly due to averaging over an evolving wind, which complicates identifying the launching mechanism.
+
+[Unveiling the nonthermal environments of NGC 3411 and NGC 5903 through new MeerKAT observations](https://arxiv.org/abs/2610.36170) (Pasini et al., 10-2026)
+
+- The paper looks at new MeerKAT observations of diffuse radio emission in two galaxy groups, combined with archival Chandra and XMM-Newton data.
+- NGC 3411 shows steep-spectrum ($\alpha \simeq -1.7$) emission over ~70 kpc around the central AGN, with newly resolved arcs. Possible origins include a mini-halo, aged AGN plasma or weak shocks.
+- NGC 5903 shows filaments and a previously unknown ring around the AGN, with ordered magnetic fields. This points to fossil AGN plasma being redistributed and mildly re-energised by group "weather" (turbulence, shear and weak compression).
+
+Presented Paper: [Magnetic field topology and colliding discrete ejecta in the precessing jets of SS 433](https://doi.org/10.1038/s41550-026-02922-6) (López-Miralles et al., 07-2026)
+
+- The paper looks at why the magnetic field in the precessing jets of the microquasar SS 433 changes orientation with distance. Radio polarisation shows the field is perpendicular to the jet near the core, but further out it aligns with the local bulk velocity rather than the helical jet trace. The origin of this was unclear, but it had been suggested to be linked to the jet morphology.
+- They use 3D relativistic MHD simulations of the jet on sub-parsec scales, tuned to SS 433 ($v_j \approx 0.26c$, a 162-day precession period, and an initially toroidal field). They compare a continuous jet with a discrete jet made of blobs ejected with slightly different velocities (0.22–0.30$c$), plus a control run where all blobs have the same velocity.
+- In the continuous jet, the field stays toroidal and follows the helical jet trace. When the blobs have different velocities, the faster ones catch up with the slower ones and collide. These collisions, together with shear, stretch and compress the field lines so that they align with the local velocity, matching the observations. With identical blob velocities there are no collisions and the field again follows the jet trace, so the collisions are the key ingredient.
+- The collisions merge blobs into larger, elongated structures that travel further without being disrupted. They are also more stable than a continuous jet, which develops instabilities and slows down after ~2 precession periods. The overall precessing jet shape is preserved.
+- This suggests the jets of SS 433 are made of discrete, interacting ejecta, and that the sub-parsec magnetic field topology is set by the jet morphology. The same mechanism could apply to other super-accreting systems with precessing jets. The main limitations are the simplified ambient medium and the shocked cavity not fully reaching a steady state.
 
 ### 2026-10-27 Tom H
 

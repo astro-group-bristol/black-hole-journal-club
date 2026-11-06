@@ -62,16 +62,19 @@ if __name__ == "__main__":
     exclude_from_rota = [
         "Anantanarayanan",
         "Gloria",
+        "Belinda",
     ]
     # needed a random seed so that either andy, tom or fergus was the first to
     # present
-    random.seed(0)
+    random.seed(1)
     rota = assemble_rota(
         members,
-        datetime.date(2026, 9, 22),
+        datetime.date(2026, 11, 24),
         len(members) - len(exclude_from_rota),
         exclude=exclude_from_rota,
     )
 
     print(format_rota(rota))
 
+
+# %%
