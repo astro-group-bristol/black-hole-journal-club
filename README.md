@@ -3,7 +3,7 @@ If you would like to join this Journal Club (presenting is not compulsory) pleas
 
 We meet every Tuesday at:
 
-- **11:00 until 12:00 (UTC + 0)**
+- **10:00 until 11:00 (UTC + 0)**
 
 Check the group email for the room and the Zoom link.
 
@@ -19,7 +19,6 @@ To generate additional entries for the rota, use `scripts/rota.py`.
 
 | Date       | Presenter   | Room |
 |------------|-------------|------|       
-| 2026-11-10 | Teresa      | 3.30 |
 | 2026-11-17 | Yimin       | 3.30 |
 | 2026-11-24 | Andy        | 3.30 |
 | 2026-12-01 | Shashanth   | 3.30 |
@@ -43,6 +42,28 @@ Please open an issue with any conferences you think might be of interest for the
 $^*$ Registration Only
 
 ## Minutes
+
+### 2026-11-10 Teresa
+
+Discussed Papers:
+
+[A possible connection between the ridge and hypotenuse in the bispectrum of black hole X-ray binaries through quasi-periodic modulation](https://arxiv.org/abs/2611.09635) (Jin et al., 11-2026)
+
+- The paper looks at the origin of the ridge and hypotenuse structures seen in the bicoherence of BH XRBs, using a model where a modulator phase-locked to the QPO multiplies the broadband variability.
+- This frequency mixing naturally produces the ridge and hypotenuse as two parts of the same structure, and predicts opposite-sign biphases between them. This is broadly confirmed with NICER data of Swift J1727.8−1613 and MAXI J1820+070.
+
+[Bicoherence States from QPO–Accretion Flow Coupling in Black Hole X-ray Binaries](https://arxiv.org/abs/2611.08769) (Larner, 11-2026)
+
+- The paper looks at a light-curve model where lognormal inner-flow fluctuations are multiplicatively modulated by a QPO and its harmonic, and shows it can analytically reproduce all the canonical bicoherence states.
+- Transitions between the states are driven by changes in the QPO amplitude and dilution by other incoherent variability. This explains why high-inclination sources (stronger QPOs, plus dilution by winds) favour the cross state and low-inclination sources favour the hypotenuse state.
+
+Presented Paper: [Spatially Resolved AGN Ionization and Star Formation at Cosmic Noon with JWST/JEMS](https://arxiv.org/abs/2604.01271) (Lebowitz et al., 04-2026)
+
+- The paper looks at how AGN and star formation each contribute to ionising gas in galaxies at Cosmic Noon ($z \approx 2$–3), when both peaked. They use JWST/NIRCam medium-band imaging from JEMS to map [O III]+H$\beta$ and Pa$\beta$ emission in ~200 galaxies at $2.5 < z < 2.9$, subtracting a neighbouring continuum filter to isolate each line.
+- Using multiwavelength AGN diagnostics (X-ray, mid-IR, radio and SED fitting), they split the sample into 33 AGN hosts, 32 Pa$\beta$-detected galaxies and 175 control galaxies. AGN and host properties come from SED fitting with AGNfitter-rx.
+- AGN hosts have more extended ionised gas than the control galaxies in both tracers, with median maximum extents of ~2.2 kpc compared to ~1.1 kpc. [O III]+H$\beta$ extends slightly further than Pa$\beta$ (by ~0.1 dex). AGN more often show conical morphologies, but many are also knotted or irregular, suggesting the AGN ionisation coexists with clumpy star formation.
+- They measure the [O III]+H$\beta$ size–AGN luminosity relation at $z \sim 3$ with a slope of ~0.2. This is at the shallow end of low-redshift values, consistent with the extent being limited by the available gas rather than the AGN luminosity.
+- The Pa$\beta$-detected galaxies sit in a similar part of parameter space to the AGN (colours, equivalent width, SFR and stellar mass), suggesting strong star formation and AGN activity often coexist in massive, gas-rich galaxies at this epoch. Overall, the AGN may dominate the gas ionisation in mixed systems, although stellar processes can still contribute significantly on kpc scales.
 
 ### 2026-11-03 Jiachen
 
