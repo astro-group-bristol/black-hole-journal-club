@@ -21,12 +21,13 @@ To generate additional entries for the rota, use `scripts/rota.py`.
 |------------|-------------|------|       
 | 2026-11-17 | Yimin       | 3.30 |
 | 2026-11-24 | Andy        | 3.30 |
-| 2026-12-01 | Shashanth   | 3.30 |
-| 2026-12-08 | Tom H       | 3.30 |
-| 2027-01-05 | Thomas B    | 3.30 |
-| 2027-01-12 | Darius      | 3.30 |
+| 2026-12-01 | Swati Ravi  | *online* |
+| 2026-12-08 | Shashanth   | 3.30 |
+| 2027-01-05 | Tom H       | 3.30 |
+| 2027-01-12 | Thomas B    | 4.41 |
 | 2027-01-19 | Jiachen     | 3.30 |
-| 2027-01-26 | Biz         | 3.30 |
+| 2027-01-26 | Darius      | 3.30 |
+| 2027-02-02 | Biz         | 3.30 |
 
 ## Interesting Conferences
 
@@ -34,7 +35,7 @@ Please open an issue with any conferences you think might be of interest for the
 
 | Title | Dates | Location | Abstract Deadline |
 |-------|-------|----------|-------------------|
-| [AUK community Meeting](https://www.agn-uk.org/events) | 14-15 December 2026 | Durham University, UK | TBC |
+| [AUK community Meeting](https://www.agn-uk.org/events) | 14-15 December 2026 | Durham University, UK | 23 November |
 | [NewAthena SWG2 Meeting](https://swg2meeting.com/#registration) | 25-29 January 2027 | Noordwijk, The Netherlands | 23 October |
 | [NewAthena SCIENCE CONFERENCE](https://newathena.avcr.cz/) | 19-23 April 2027 | Prague, Czechia | 19 November |
 | [Vasto Accretion Meeting ](https://astro.dur.ac.uk/conferences/vam2027/) | 21 June - 2 July 2027 | Vasto, Italy | Jan/Feb |
@@ -42,6 +43,16 @@ Please open an issue with any conferences you think might be of interest for the
 $^*$ Registration Only
 
 ## Minutes
+
+### 2026-11-17 Yimin
+
+Presented Paper: [Reverberation lags viewed in hard X-rays from an accreting stellar-mass black hole](https://doi.org/10.1038/s41467-026-69604-9) (You et al., 02-2026)
+
+- The paper looks at extending X-ray reverberation lag measurements in BH XRBs above 10 keV, using Insight-HXMT observations (1–150 keV) of MAXI J1820+070 across six epochs of the rising hard state. Reverberation from the Compton hump had previously only been seen in AGN.
+- In the first epoch, the 70–150 keV band (dominated by the corona) leads the softer bands at high frequencies (~2–60 Hz). The lag-energy spectrum shows a broad iron line feature below 10 keV and a Compton hump peaking at ~30 keV, giving the first detection of Compton hump reverberation in an XRB.
+- Phase-wrapping sets in at a frequency about 10 times higher for the iron line than for the Compton hump, placing the iron line at ~50 $R_g$ and the Compton hump at ~145 $R_g$. They interpret this as evidence for an ionisation gradient in the disk, since the iron line is strongest in the more highly ionised inner disk. A new RELTRANS model (reltransCpF) can only reproduce this when a radial ionisation gradient is included.
+- The XRB lag-energy spectrum closely matches those of three AGN with Compton hump lags, once scaled by the ~$10^6$ difference in BH mass. This supports reverberation lags scaling linearly with mass and the same accretion processes operating in both.
+- After the first epoch the high-energy reverberation lags disappear, hidden by low-frequency hard lags that grow by a factor of ~4 within 2 days and extend into the higher frequencies. The hard-lag amplitude correlates with count rate rather than spectral hardness. Modelling with propagating fluctuations (PROPFLUC) suggests the corona expands from ~17 to ~50 $R_g$ up to the flux peak, then contracts to ~32 $R_g$, showing the corona evolves rapidly early in the outburst.
 
 ### 2026-11-10 Teresa
 
