@@ -19,15 +19,14 @@ To generate additional entries for the rota, use `scripts/rota.py`.
 
 | Date       | Presenter   | Room |
 |------------|-------------|------|       
-| 2026-11-17 | Yimin       | 3.30 |
-| 2026-11-24 | Andy        | 3.30 |
 | 2026-12-01 | Swati Ravi  | *online* |
 | 2026-12-08 | Shashanth   | 3.30 |
-| 2027-01-05 | Tom H       | 3.30 |
-| 2027-01-12 | Thomas B    | 4.41 |
-| 2027-01-19 | Jiachen     | 3.30 |
-| 2027-01-26 | Darius      | 3.30 |
-| 2027-02-02 | Biz         | 3.30 |
+| 2027-01-05 | *Catch up*  | 3.30 |
+| 2027-01-12 | Tom H       | 4.41 |
+| 2027-01-19 | Thomas B    | 3.30 |
+| 2027-01-26 | Jiachen     | 3.30 |
+| 2027-02-02 | Darius      | 3.30 |
+| 2027-02-09 | Biz         | 3.30 |
 
 ## Interesting Conferences
 
@@ -43,6 +42,33 @@ Please open an issue with any conferences you think might be of interest for the
 $^*$ Registration Only
 
 ## Minutes
+
+### 2026-11-24 Andy
+
+Discussed Papers:
+
+[Simulation-Based Prediction of Black Hole Fe Kα Line Profiles](https://arxiv.org/abs/2605.20317) (Nagele et al., 05-2026)
+
+- The paper looks at predicting Fe K$\alpha$ line profiles directly from GRMHD simulation snapshots, by solving the line transfer with local ionisation and thermal balance.
+- The ionisation parameter falls steeply with radius ($\xi \propto r^{-1.5}$), so the disk near the ISCO is fully ionised and most of the line comes from $\gtrsim 10\,r_g$. Compton broadening and the mix of Fe ions also broaden the line, so broad lines don't necessarily require high spin.
+
+[Radio emission from a local Little Red Dot: a challenge to the ionized cocoon scenario](https://arxiv.org/abs/2611.24387) (Mazzolari et al., 11-2026)
+
+- The paper looks at using radio emission from the local LRD J1047 to test LRD scenarios. The radio luminosity has an AGN origin and is consistent with a normal radio-quiet AGN obscured by dense neutral gas, while pure super-Eddington accretion underpredicts it by ~30 times.
+- The broad H $\alpha$ is best fit by an exponential profile, usually linked to electron scattering in an ionised cocoon. However, the implied free-free absorption would block the radio emission, so the profile more likely traces a stratified BLR, with implications for virial BH masses.
+
+[A self-shadowing black hole accretion disk at sub-Eddington luminosities](https://arxiv.org/abs/2611.14626) (Armas Padilla et al., 11-2026)
+
+- The paper looks at optical/NIR spectroscopy of the BH XRB MAXI J0637−430 during its outburst decay. At the peak (~0.2 $L_{\rm Edd}$) the spectrum shows strong H and He I lines typical of a weakly irradiated disk, but at lower luminosity it becomes hot, highly irradiated and nearly featureless.
+- They interpret this as a vertically extended inner disk at the peak shielding the outer disk from X-rays, well below $L_{\rm Edd}$. This could affect inferred spins, X-ray polarisation and outer-disk winds.
+
+Presented Paper: [Origin of the Fe Kα red excess in IC 4329A with XRISM and multi-wavelength spectroscopy](https://arxiv.org/abs/2611.15458) (Mizumoto et al., 11-2026)
+
+- The paper looks at the origin of the broad, red-skewed Fe K $\alpha$ line in the bright Seyfert 1 IC 4329A. They use XRISM/Resolve with simultaneous NuSTAR data, plus quasi-simultaneous optical (H $\beta$) and NIR (Pa$\beta$) spectroscopy. Resolve separates the Fe K $\alpha$ line into a narrow core and a broad component with a red excess.
+- They test three scenarios for the red excess: a redshifted X-ray BLR (xBLR), relativistic disk reflection, and an unshifted xBLR partly absorbed by a mildly ionised absorber. All three fit the X-ray spectra equally well. The disk-line fit needs a near face-on disk ($\theta \approx 3^\circ$, compared with 40° for the BLR) truncated at ~50 $R_g$.
+- The optical and NIR broad lines are also redshifted, by ~+640–1050 km s $^{-1}$, close to the redshifted xBLR solution (~+1700 km s $^{-1}$). This favours the redshifted xBLR or a hybrid model, where the xBLR shares the optical/NIR BLR velocities and a disk line accounts for the remaining red excess. This suggests the X-ray and optical broad lines come from the same structure.
+- From the line widths, the xBLR lies at ~(3–6) $\times 10^3\,R_g$ (~12–22 light-days). The narrow Fe K $\alpha$ core places the torus at ~0.9 pc, just beyond the dust sublimation radius (~0.4 pc). This helps pin down the location of the reprocessor, which earlier X-ray variability studies disagreed on.
+- They also detect two ultra-fast outflows with $v \approx -0.30c$ and $-0.24c$, both above 99% confidence after correcting for the look-elsewhere effect.
 
 ### 2026-11-17 Yimin
 
